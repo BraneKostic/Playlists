@@ -1,0 +1,58 @@
+===================================================================================================================
+PORTAL						MAC				EXPIRE
+-------------------------------------------------------------------------------------------------------------------
+
+http://clientbox.tv/c/				00:1A:79:5A:80:2F		August 10, 2022
+http://clientbox.tv/c/				00:1A:79:56:78:7E		September 6, 2022, 9:45 am
+http://clientbox.tv/c/				00:1A:79:53:4F:26		September 28, 2022, 2:00 am
+http://clientbox.tv/c/				00:1A:79:51:6A:29		October 1, 2022, 8:56 am
+http://clientbox.tv/c/				00:1A:79:5E:38:FC		January 22, 2023, 8:52 am
+http://clientbox.tv/c/				00:1A:79:5E:2F:08		February 1, 2023, 1:00 am
+http://clientbox.tv/c/				00:1A:79:5E:87:68		February 27, 2023, 8:43 pm
+
+http://rktv-ott.com/c/				
+
+http://danatv.tv.streamtv.to:8080/c/		00:1A:79:59:0E:74		January 7, 2023, 19:01
+http://danatv.tv.streamtv.to:8080/c/		00:1A:79:74:82:F0		January 25, 2023, 6:16 pm
+http://danatv.tv.streamtv.to:8080/c/		00:1A:79:50:24:94		February 2, 2023, 8:06 pm
+http://danatv.tv.streamtv.to:8080/c/		00:1A:79:43:5F:11		March 5, 2023, 5:10 pm
+
+http://ip.xtremetv.eu:8000/c/			00:1A:79:39:31:32		August 29, 2022, 3:03 pm
+http://ip.xtremetv.eu:8000/c/			00:1A:79:5E:26:D0		March 8, 2023, 9:31 pm
+http://ip.xtremetv.eu:8000/c/			00:1A:79:3D:53:80		March 21, 2023
+http://ip.xtremetv.eu:8000/c/			00:1A:79:55:85:0D		Unlimited
+
+===================================================================================================================
+
+M3U			http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=m3u
+M3U SIMPLE		http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=simple&output=<TS/RTMP/M3U8>
+M3U USER:PASS		http://<STALKER-PORTAL:PORT>/<USERNAME>/<PASSWORD>/<STREAM#>
+M3U PLUS (STRM)		http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=m3u_plus&output=<TS/RTMP/M3U8>
+EPG XML			http://<STALKER-PORTAL:PORT>/xmltv.php?username=<USERNAME>&password=<PASSWORD>
+FFMPEG (STRM)		http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=create_link&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F151_&series=0&forced_storage=false&disable_ad=false&download=false&force_ch_link_check=false&JsHttpRequest=1-xml
+GET GENRE INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=get_genres&JsHttpRequest=1-xml"
+GET MAIN INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml
+GET ORDERED LIST	http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=get_ordered_list&genre=*&force_ch_link_check=&fav=0&sortby=number&hd=0&p=0
+GET PORTAL INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=stb&action=get_profile
+HANDSHAKE (TOKEN)	http://<STALKER-PORTAL:PORT>/portal.php?type=stb&action=handshake
+PANEL API		http://<STALKER-PORTAL:PORT>/panel_api.php?username=<USERNAME>&password=<PASSWORD>
+STATUS,ACTIVE CONS	http://<STALKER-PORTAL:PORT>/player_api.php?username=<USERNAME>&password=<PASSWORD>	
+BROWSER			http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?mac=<MAC>
+BROWSER (DEBUG)		http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?debug&debug_key=<DEBUG KEY>&mac=<MAC>
+BROWSER (KEYS)		ENTER [OK], F1 [Red], F2 [Green], F3 [Yellow], F4 [Blue], ESC [Exit] 
+
+===================================================================================================================
+
+						SIMPLE SMART IPTV / MKIPTV [LG WebOS]
+
+SIMPLE SMART IPTV		https://ss-iptv.com/en/
+SIMPLE SMART PLAYLIST EDITOR	https://ss-iptv.com/en/users/playlist
+FAIL TO LOAD REMOTE CONTENT	https://forum.ss-iptv.com/viewtopic.php?f=3&t=8280
+
+LG WEBOS MAC ADRESS		A8:23:FE:C6:08:76
+===================================================================================================================
+
+SEARCH FOR DOMAINS, IPS, FILENAMES, HASHES, ASNS
+https://urlscan.io/search/#filename:%22keydown.keycodes.js%22
+
+===================================================================================================================
