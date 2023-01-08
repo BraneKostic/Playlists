@@ -10,12 +10,12 @@ http://clientbox.tv/c/				00:1A:79:5E:38:FC		January 22, 2023, 8:52 am
 http://clientbox.tv/c/				00:1A:79:5E:2F:08		February 1, 2023, 1:00 am
 http://clientbox.tv/c/				00:1A:79:5E:87:68		February 27, 2023, 8:43 pm
 
-http://rktv-ott.com/c/				
-
-http://danatv.tv.streamtv.to:8080/c/		00:1A:79:59:0E:74		January 7, 2023, 19:01
-http://danatv.tv.streamtv.to:8080/c/		00:1A:79:74:82:F0		January 25, 2023, 6:16 pm
-http://danatv.tv.streamtv.to:8080/c/		00:1A:79:50:24:94		February 2, 2023, 8:06 pm
-http://danatv.tv.streamtv.to:8080/c/		00:1A:79:43:5F:11		March 5, 2023, 5:10 pm
+http://mag.you24.online:80/c/			00:1A:79:AD:CE:23		February 28, 2023, 10:17 pm
+http://mag.you24.online:80/c/			00:1A:79:AE:DE:F6		March 14, 2023, 7:40 pm
+http://mag.you24.online:80/c/			00:1A:79:C1:99:51		November 5, 2023, 10:24 pm
+http://mag.you24.online:80/c/			00:1A:79:AD:CE:23		February 28, 2023, 10:17 pm
+http://mag.you24.online:80/c/			00:1A:79:AE:DE:F6		March 14, 2023, 7:40 pm
+http://mag.you24.online:80/c/			00:1A:79:C1:99:51		November 5, 2023, 10:24 pm
 
 http://ip.xtremetv.eu:8000/c/			00:1A:79:39:31:32		August 29, 2022, 3:03 pm
 http://ip.xtremetv.eu:8000/c/			00:1A:79:5E:26:D0		March 8, 2023, 9:31 pm
