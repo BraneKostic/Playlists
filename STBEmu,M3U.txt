@@ -13,9 +13,6 @@ http://clientbox.tv/c/				00:1A:79:5E:87:68		February 27, 2023, 8:43 pm
 http://mag.you24.online:80/c/			00:1A:79:AD:CE:23		February 28, 2023, 10:17 pm
 http://mag.you24.online:80/c/			00:1A:79:AE:DE:F6		March 14, 2023, 7:40 pm
 http://mag.you24.online:80/c/			00:1A:79:C1:99:51		November 5, 2023, 10:24 pm
-http://mag.you24.online:80/c/			00:1A:79:AD:CE:23		February 28, 2023, 10:17 pm
-http://mag.you24.online:80/c/			00:1A:79:AE:DE:F6		March 14, 2023, 7:40 pm
-http://mag.you24.online:80/c/			00:1A:79:C1:99:51		November 5, 2023, 10:24 pm
 
 http://ip.xtremetv.eu:8000/c/			00:1A:79:39:31:32		August 29, 2022, 3:03 pm
 http://ip.xtremetv.eu:8000/c/			00:1A:79:5E:26:D0		March 8, 2023, 9:31 pm
