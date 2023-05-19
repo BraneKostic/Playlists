@@ -1,8 +1,8 @@
 [
   {
-    "Name": "[TV] ClientBox TV [#1] ExYU,EU,USA,Canada,Australia,Sport,South America,Arabia,Indonesia,Adult,VOD",
-    "Address": "http:\/\/clientbox.tv\/c\/",
-    "Mac": "00:1A:79:5E:2F:08",
+    "Name": "[TV] Let Me In Fun [#1] ExYU,EU,USA,Canada,Australia,Sport,South America,Arabia,Indonesia,Adult,VOD",
+    "Address": "http:\/\/letmein.fun:8080\/c\/",
+    "Mac": "00:1a:79:a3:14:6e",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -17,9 +17,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] ClientBox TV [#2] ExYU,EU,USA,Canada,Australia,Sport,South America,Arabia,Indonesia,Adult,VOD",
+    "Name": "[TV] Let Me In Fun [#2] ExYU,EU,USA,Canada,Australia,Sport,South America,Arabia,Indonesia,Adult,VOD",
     "Address": "http:\/\/clientbox.tv\/c\/",
-    "Mac": "00:1A:79:56:78:7E",
+    "Mac": "00:1a:79:ad:e1:12",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
