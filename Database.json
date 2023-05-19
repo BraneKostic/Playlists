@@ -1,8 +1,8 @@
 [
   {
-    "Name": "[TV] Let Me In Fun [#1] ExYU,EU,USA,Canada,Australia,Sport,South America,Arabia,Indonesia,Adult,VOD",
+    "Name": "[TV] Let Me In Fun [#1]",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1a:79:a3:14:6e",
+    "Mac": "00:1a:79:ab:f2:e1",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -17,9 +17,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Let Me In Fun [#2] ExYU,EU,USA,Canada,Australia,Sport,South America,Arabia,Indonesia,Adult,VOD",
+    "Name": "[TV] Let Me In Fun [#2]",
     "Address": "http:\/\/clientbox.tv\/c\/",
-    "Mac": "00:1a:79:ad:e1:12",
+    "Mac": "00:1a:79:a1:c3:b3",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
