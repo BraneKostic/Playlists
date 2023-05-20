@@ -1,6 +1,6 @@
 [
   {
-    "Name": "[TV] Let Me In Fun [#1]",
+    "Name": "[TV] Let Me In Fun #1",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
     "Mac": "00:1a:79:ab:f2:e1",
     "Username": "",
@@ -17,7 +17,7 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Let Me In Fun [#2]",
+    "Name": "[TV] Let Me In Fun #2",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
     "Mac": "00:1a:79:a3:db:e9",
     "Username": "",
@@ -34,7 +34,7 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Marstvx [#1]",
+    "Name": "[TV] Marstvx #1",
     "Address": "http:\/\/m.marstvx.com:80\/c\/",
     "Mac": "00:1a:79:75:39:09",
     "Username": "",
@@ -51,7 +51,7 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Marstvx [#2]",
+    "Name": "[TV] Marstvx #2",
     "Address": "http:\/\/m.marstvx.com:80\/c\/",
     "Mac": "00:1a:79:7B:C3:AA",
     "Username": "",
@@ -68,9 +68,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV]  [#1] ",
-    "Address": "http:\/\/mag.you24.online:80\/c\/",
-    "Mac": "00:1A:79:C1:99:51",
+    "Name": "[TV] Micro OTT #1",
+    "Address": "http:\/\/micro-ott.com:80\/c\/",
+    "Mac": "00:1a:79:c1:35:6e",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -85,9 +85,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV]  [#2] ",
-    "Address": "http:\/\/mag.you24.online:80\/c\/",
-    "Mac": "00:1A:79:AE:DE:F6",
+    "Name": "[TV] Micro OTT #2",
+    "Address": "http:\/\/micro-ott.com:80\/c\/",
+    "Mac": "00:1a:79:3c:2b:8f",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
