@@ -70,7 +70,7 @@
   {
     "Name": "[TV] Micro OTT #1",
     "Address": "http:\/\/micro-ott.com:80\/c\/",
-    "Mac": "00:1a:79:c1:35:6e",
+    "Mac": "00:1a:79:73:4b:01",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -87,7 +87,7 @@
   {
     "Name": "[TV] Micro OTT #2",
     "Address": "http:\/\/micro-ott.com:80\/c\/",
-    "Mac": "00:1a:79:3c:2b:8f",
+    "Mac": "00:1a:79:49:b3:d8",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -100,16 +100,6 @@
     "PlayerUserAgent": "",
     "HttpProxy": "",
     "RequestMethod": "POST"
-  },
-  {
-    "Name": "[TV] BeotelNet",
-    "Address": "https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/LISTE\/\/main\/\/BeotelNet.m3u",
-    "Mac": "",
-    "Username": "",
-    "Password": "",
-    "SerialNumber": "",
-    "DeviceID": "",
-    "DeviceID2": ""
   },
   {
     "Name": "[VOD] Documentaries",
