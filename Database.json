@@ -34,7 +34,7 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Xtreme TV [#1] ExYU,EU,USA,Canada,Australia,24x7,Africa,Arabia,Indonesia,Adult,VOD",
+    "Name": "[TV]  [#1] ",
     "Address": "http:\/\/ip.xtremetv.eu:8000\/c\/",
     "Mac": "00:1A:79:55:85:0D",
     "Username": "",
@@ -51,7 +51,7 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Xtreme TV [#2] ExYU,EU,USA,Canada,Australia,24x7,Africa,Arabia,Indonesia,Adult,VOD",
+    "Name": "[TV]  [#2] ",
     "Address": "http:\/\/ip.xtremetv.eu:8000\/c\/",
     "Mac": "00:1A:79:39:31:32",
     "Username": "",
@@ -68,7 +68,7 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] You24 [#1] ExYU,EU,USA,Sport,South America,Arabia,Indonesia,Adult,VOD",
+    "Name": "[TV]  [#1] ",
     "Address": "http:\/\/mag.you24.online:80\/c\/",
     "Mac": "00:1A:79:C1:99:51",
     "Username": "",
@@ -85,7 +85,7 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] You24 [#2] ExYU,EU,USA,Sport,South America,Arabia,Indonesia,Adult,VOD",
+    "Name": "[TV]  [#2] ",
     "Address": "http:\/\/mag.you24.online:80\/c\/",
     "Mac": "00:1A:79:AE:DE:F6",
     "Username": "",
