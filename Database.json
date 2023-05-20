@@ -18,8 +18,8 @@
   },
   {
     "Name": "[TV] Let Me In Fun [#2]",
-    "Address": "http:\/\/clientbox.tv\/c\/",
-    "Mac": "00:1a:79:a1:c3:b3",
+    "Address": "http:\/\/letmein.fun:8080\/c\/",
+    "Mac": "00:1a:79:ad:e1:12",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
