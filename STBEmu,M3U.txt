@@ -2,7 +2,10 @@
 PORTAL						MAC				EXPIRE
 -------------------------------------------------------------------------------------------------------------------
 
-http://letmein.fun:8080/c/			00:1a:79:ab:f2:e1		July 15, 2023
+http://letmein.fun:8080/c/			00:1A:79:AB:D2:45		January 11, 2024
+http://letmein.fun:8080/c/			00:1A:79:B0:E3:1F		May 24, 2023
+
+http://letmein.fun:8080/c/			00:1a:79:ab:f2:e1		July 15, 2023			OK
 http://letmein.fun:8080/c/			00:1a:79:ad:e1:12		September 12, 2023
 http://letmein.fun:8080/c/			00:1a:79:a3:14:6e		May 3, 2024
 http://letmein.fun:8080/c/			00:1a:79:a9:d6:58		January 26, 2024
@@ -15,7 +18,7 @@ http://letmein.fun:8080/c/			00:1a:79:aa:83:60		June 27, 2023
 http://letmein.fun:8080/c/			00:1a:79:ab:48:d7		October 13, 2023
 http://letmein.fun:8080/c/			00:1a:79:aa:6f:29		June 13, 2023
 http://letmein.fun:8080/c/			00:1a:79:a9:d6:65		June 3, 2023
-http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28
+http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28			OK
 http://letmein.fun:8080/c/			00:1a:79:ae:1b:07		August 9, 2023
 http://letmein.fun:8080/c/			00:1a:79:ac:d6:76		January 26, 2024
 http://letmein.fun:8080/c/			00:1a:79:aa:88:36		August 4, 2023
@@ -33,6 +36,21 @@ http://letmein.fun:8080/c/			00:1a:79:a1:ab:f4		June 14, 2023
 http://letmein.fun:8080/c/			00:1a:79:ad:19:a1		November 24, 2023
 http://letmein.fun:8080/c/			00:1a:79:ad:56:38		June 2, 2023
 http://letmein.fun:8080/c/			00:1a:79:a6:6e:ef		October 1, 2023
+
+http://m.marstvx.com:80/c/			00:1a:79:75:39:09		October 18, 2023		OK
+http://m.marstvx.com:80/c/			00:1a:79:7B:C3:AA		March 20, 2024			OK
+http://m.marstvx.com:80/c/			00:1a:79:02:d0:aa		September 23, 2023
+http://m.marstvx.com:80/c/			00:1a:79:5a:3e:45		September 16, 2023
+http://m.marstvx.com:80/c/			00:1a:79:00:00:00		March 12, 2024
+http://m.marstvx.com:80/c/			00:1a:79:6c:db:9d		September 6, 2023		
+http://m.marstvx.com:80/c/			00:1a:79:21:37:38		June 12, 2023
+http://m.marstvx.com:80/c/			00:1a:79:5d:3b:ea		January 4, 2024
+http://m.marstvx.com:80/c/			00:1a:79:4e:50:ca		July 11, 2023
+
+
+
+	http://mag.x-iptv.live:80/c/			00:1A:79:2c:bf:07		March 5, 2024, 12:00 am 306 Days
+
 
 ===================================================================================================================
 

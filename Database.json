@@ -19,7 +19,7 @@
   {
     "Name": "[TV] Let Me In Fun [#2]",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1a:79:ad:e1:12",
+    "Mac": "00:1a:79:a3:db:e9",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -34,9 +34,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV]  [#1] ",
-    "Address": "http:\/\/ip.xtremetv.eu:8000\/c\/",
-    "Mac": "00:1A:79:55:85:0D",
+    "Name": "[TV] Marstvx [#1]",
+    "Address": "http:\/\/m.marstvx.com:80\/c\/",
+    "Mac": "00:1a:79:75:39:09",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -51,9 +51,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV]  [#2] ",
-    "Address": "http:\/\/ip.xtremetv.eu:8000\/c\/",
-    "Mac": "00:1A:79:39:31:32",
+    "Name": "[TV] Marstvx [#2]",
+    "Address": "http:\/\/m.marstvx.com:80\/c\/",
+    "Mac": "00:1a:79:7B:C3:AA",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
