@@ -9,32 +9,19 @@ http://letmein.fun:8080/c/			00:1A:79:B0:E3:1F		May 24, 2023
 http://letmein.fun:8080/c/			00:1A:79:AB:D2:45		January 11, 2024
 http://letmein.fun:8080/c/			00:1a:79:ad:e1:12		September 12, 2023
 http://letmein.fun:8080/c/			00:1a:79:a3:14:6e		May 3, 2024
-	http://letmein.fun:8080/c/			00:1a:79:a9:d6:58		January 26, 2024
 http://letmein.fun:8080/c/			00:1a:79:ab:61:1b		March 13, 2024
-	http://letmein.fun:8080/c/			00:1a:79:ad:5f:f8		July 11, 2023
-	http://letmein.fun:8080/c/			00:1a:79:a1:9e:a6		October 8, 2023
 http://letmein.fun:8080/c/			00:1a:79:ae:3f:04		December 3, 2023
-http://letmein.fun:8080/c/			00:1a:79:ae:4f:dc		August 21, 2023
 http://letmein.fun:8080/c/			00:1a:79:aa:83:60		June 27, 2023
 http://letmein.fun:8080/c/			00:1a:79:ab:48:d7		October 13, 2023
 http://letmein.fun:8080/c/			00:1a:79:aa:6f:29		June 13, 2023
-http://letmein.fun:8080/c/			00:1a:79:a9:d6:65		June 3, 2023
-http://letmein.fun:8080/c/			00:1a:79:ae:1b:07		August 9, 2023
 http://letmein.fun:8080/c/			00:1a:79:ac:d6:76		January 26, 2024
 http://letmein.fun:8080/c/			00:1a:79:aa:88:36		August 4, 2023
 http://letmein.fun:8080/c/			00:1a:79:a2:6a:b7		August 27, 2023
-http://letmein.fun:8080/c/			00:1a:79:a1:c3:b3		June 11, 2023
 http://letmein.fun:8080/c/			00:1a:79:a7:c8:bf		June 22, 2023
-http://letmein.fun:8080/c/			00:1a:79:aa:ae:43		June 12, 2023
 http://letmein.fun:8080/c/			00:1a:79:ab:ba:5d		August 12, 2023
 http://letmein.fun:8080/c/			00:1a:79:ad:55:3e		June 2, 2023
-http://letmein.fun:8080/c/			00:1a:79:ae:d9:7a		September 8, 2023
 http://letmein.fun:8080/c/			00:1a:79:ae:59:b9		March 13, 2024
-http://letmein.fun:8080/c/			00:1a:79:a7:b5:07		July 14, 2023
-	http://letmein.fun:8080/c/			00:1a:79:a7:75:0f		December 16, 2023
 http://letmein.fun:8080/c/			00:1a:79:a1:ab:f4		June 14, 2023
-	http://letmein.fun:8080/c/			00:1a:79:ad:19:a1		November 24, 2023
-	http://letmein.fun:8080/c/			00:1a:79:ad:56:38		June 2, 2023
 http://letmein.fun:8080/c/			00:1a:79:a6:6e:ef		October 1, 2023
 
 http://m.marstvx.com:80/c/			00:1a:79:75:39:09		October 18, 2023		OK
@@ -47,7 +34,6 @@ http://m.marstvx.com:80/c/			00:1a:79:21:37:38		June 12, 2023
 http://m.marstvx.com:80/c/			00:1a:79:5d:3b:ea		January 4, 2024
 http://m.marstvx.com:80/c/			00:1a:79:4e:50:ca		July 11, 2023
 
-	http://micro-ott.com:80/c/			00:1a:79:c1:35:6e		November 7, 2023
 http://micro-ott.com:80/c/			00:1a:79:3c:2b:8f		September 15, 2023
 http://micro-ott.com:80/c/			00:1a:79:80:0f:2a		March 18, 2024
 http://micro-ott.com:80/c/			00:1a:79:73:4b:01		August 23, 2023			OK
