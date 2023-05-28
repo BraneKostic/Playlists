@@ -3,12 +3,10 @@ PORTAL						MAC				EXPIRE
 -------------------------------------------------------------------------------------------------------------------
 
 http://letmein.fun:8080/c/			00:1A:79:B6:82:24		February 16, 2024
-http://letmein.fun:8080/c/			00:1a:79:ab:f2:e1		July 15, 2023			OK
 http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28			OK
-http://letmein.fun:8080/c/			00:1A:79:B0:E3:1F		May 24, 2023
 http://letmein.fun:8080/c/			00:1A:79:AB:D2:45		January 11, 2024
 http://letmein.fun:8080/c/			00:1a:79:ad:e1:12		September 12, 2023
-http://letmein.fun:8080/c/			00:1a:79:a3:14:6e		May 3, 2024
+http://letmein.fun:8080/c/			00:1a:79:a3:14:6e		May 3, 2024			OK
 http://letmein.fun:8080/c/			00:1a:79:ab:61:1b		March 13, 2024
 http://letmein.fun:8080/c/			00:1a:79:ae:3f:04		December 3, 2023
 http://letmein.fun:8080/c/			00:1a:79:aa:83:60		June 27, 2023
@@ -19,13 +17,12 @@ http://letmein.fun:8080/c/			00:1a:79:aa:88:36		August 4, 2023
 http://letmein.fun:8080/c/			00:1a:79:a2:6a:b7		August 27, 2023
 http://letmein.fun:8080/c/			00:1a:79:a7:c8:bf		June 22, 2023
 http://letmein.fun:8080/c/			00:1a:79:ab:ba:5d		August 12, 2023
-http://letmein.fun:8080/c/			00:1a:79:ad:55:3e		June 2, 2023
 http://letmein.fun:8080/c/			00:1a:79:ae:59:b9		March 13, 2024
 http://letmein.fun:8080/c/			00:1a:79:a1:ab:f4		June 14, 2023
 http://letmein.fun:8080/c/			00:1a:79:a6:6e:ef		October 1, 2023
 
 http://m.marstvx.com:80/c/			00:1a:79:75:39:09		October 18, 2023		OK
-http://m.marstvx.com:80/c/			00:1a:79:7B:C3:AA		March 20, 2024			OK
+http://m.marstvx.com:80/c/			00:1a:79:7B:C3:AA		March 20, 2024			
 http://m.marstvx.com:80/c/			00:1a:79:02:d0:aa		September 23, 2023
 http://m.marstvx.com:80/c/			00:1a:79:5a:3e:45		September 16, 2023
 http://m.marstvx.com:80/c/			00:1a:79:00:00:00		March 12, 2024
@@ -33,6 +30,10 @@ http://m.marstvx.com:80/c/			00:1a:79:6c:db:9d		September 6, 2023
 http://m.marstvx.com:80/c/			00:1a:79:21:37:38		June 12, 2023
 http://m.marstvx.com:80/c/			00:1a:79:5d:3b:ea		January 4, 2024
 http://m.marstvx.com:80/c/			00:1a:79:4e:50:ca		July 11, 2023
+
+
+
+
 
 http://micro-ott.com:80/c/			00:1a:79:3c:2b:8f		September 15, 2023
 http://micro-ott.com:80/c/			00:1a:79:80:0f:2a		March 18, 2024
@@ -42,6 +43,21 @@ http://micro-ott.com:80/c/			00:1a:79:67:6f:e0		March 9, 2024
 http://micro-ott.com:80/c/			00:1a:79:49:b3:d8		December 29, 2023
 http://micro-ott.com:80/c/			00:1a:79:89:d4:0c		July 18, 2023			OK
 http://micro-ott.com:80/c/			00:1a:79:ab:7f:a0		November 4, 2023
+
+
+MAC: 00:1a:79:c1:35:6e  November 7, 2023
+MAC: 00:1a:79:3c:2b:8f  September 15, 2023
+MAC: 00:1a:79:80:0f:2a  March 18, 2024
+MAC: 00:1a:79:73:4b:01  August 23, 2023
+MAC: 00:1a:79:c3:2e:5d  December 7, 2023
+MAC: 00:1a:79:67:6f:e0  March 9, 2024
+MAC: 00:1a:79:49:b3:d8  December 29, 2023
+MAC: 00:1a:79:51:1f:98  May 30, 2023
+MAC: 00:1a:79:89:d4:0c  July 18, 2023
+MAC: 00:1a:79:5a:18:c8  February 27, 2024
+MAC: 00:1a:79:b8:f8:32  July 30, 2023
+MAC: 00:1a:79:ab:7f:a0  November 4, 2023
+MAC: 00:1a:79:21:f4:1c  July 7, 2023
 
 ===================================================================================================================
 
