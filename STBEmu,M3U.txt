@@ -3,7 +3,7 @@ PORTAL						MAC				EXPIRE
 -------------------------------------------------------------------------------------------------------------------
 
 http://letmein.fun:8080/c/			00:1A:79:B6:82:24		February 16, 2024
-http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28			OK
+http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28
 http://letmein.fun:8080/c/			00:1A:79:AB:D2:45		January 11, 2024
 http://letmein.fun:8080/c/			00:1a:79:ad:e1:12		September 12, 2023
 http://letmein.fun:8080/c/			00:1a:79:a3:14:6e		May 3, 2024			OK
@@ -18,7 +18,7 @@ http://letmein.fun:8080/c/			00:1a:79:a2:6a:b7		August 27, 2023
 http://letmein.fun:8080/c/			00:1a:79:a7:c8:bf		June 22, 2023
 http://letmein.fun:8080/c/			00:1a:79:ab:ba:5d		August 12, 2023
 http://letmein.fun:8080/c/			00:1a:79:ae:59:b9		March 13, 2024
-http://letmein.fun:8080/c/			00:1a:79:a1:ab:f4		June 14, 2023
+http://letmein.fun:8080/c/			00:1a:79:a1:ab:f4		June 14, 2023			OK
 http://letmein.fun:8080/c/			00:1a:79:a6:6e:ef		October 1, 2023
 
 http://m.marstvx.com:80/c/			00:1a:79:75:39:09		October 18, 2023		OK
