@@ -34,9 +34,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Marstvx #1",
-    "Address": "http:\/\/m.marstvx.com:80\/c\/",
-    "Mac": "00:1a:79:75:39:09",
+    "Name": "[TV] Play Plus Net #1",
+    "Address": "http:\/\/play-plus.net:8000\/c\/",
+    "Mac": "00:1A:79:00:3B:3E",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -51,9 +51,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Marstvx #2",
-    "Address": "http:\/\/m.marstvx.com:80\/c\/",
-    "Mac": "00:1a:79:7B:C3:AA",
+    "Name": "[TV] Play Plus Net #2",
+    "Address": "http:\/\/play-plus.net:8000\/c\/",
+    "Mac": "00:1A:79:02:63:53",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -68,9 +68,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Micro OTT #1",
-    "Address": "http:\/\/micro-ott.com:80\/c\/",
-    "Mac": "00:1a:79:73:4b:01",
+    "Name": "[TV] Xtream2 Subtv #1",
+    "Address": "http:\/\/xtream2.subtv.biz\/c\/",
+    "Mac": "00:1A:79:82:72:70",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -85,9 +85,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Micro OTT #2",
-    "Address": "http:\/\/micro-ott.com:80\/c\/",
-    "Mac": "00:1a:79:4e:50:ca",
+    "Name": "[TV] Xtream2 Subtv #2",
+    "Address": "http:\/\/xtream2.subtv.biz\/c\/",
+    "Mac": "00:1a:79:01:81:01",
     "Username": "",
     "Password": "",
     "SerialNumber": "",

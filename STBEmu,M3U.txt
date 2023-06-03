@@ -21,6 +21,22 @@ http://letmein.fun:8080/c/			00:1a:79:ae:59:b9		March 13, 2024
 http://letmein.fun:8080/c/			00:1a:79:a1:ab:f4		June 14, 2023			OK
 http://letmein.fun:8080/c/			00:1a:79:a6:6e:ef		October 1, 2023
 
+http://play-plus.net:8000/c/			00:1A:79:00:3E:0B		August 8, 2023
+http://play-plus.net:8000/c/			00:1A:79:02:63:53		October 22, 2023			
+http://play-plus.net:8000/c/			00:1A:79:00:3B:3E		August 31, 2023
+http://play-plus.net:8000/c/			
+http://play-plus.net:8000/c/			
+
+http://xtream2.subtv.biz/c/			00:1A:79:fd:0d:a8		March 7, 2024
+http://xtream2.subtv.biz/c/			00:1a:79:01:81:01		August 3, 2024
+http://xtream2.subtv.biz/c/			00:1A:79:82:72:70		December 15, 2023
+http://xtream2.subtv.biz/c/
+http://xtream2.subtv.biz/c/
+
+
+
+
+
 http://m.marstvx.com:80/c/			00:1a:79:75:39:09		October 18, 2023		OK
 http://m.marstvx.com:80/c/			00:1a:79:7B:C3:AA		March 20, 2024			
 http://m.marstvx.com:80/c/			00:1a:79:02:d0:aa		September 23, 2023
