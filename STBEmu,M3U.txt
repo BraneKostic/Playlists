@@ -1,60 +1,73 @@
-===================================================================================================================
-PORTAL						MAC				EXPIRE
--------------------------------------------------------------------------------------------------------------------
+============================================================================================================================
+PORTAL						MAC				EXPIRE				SFVIP,STBEMU
+----------------------------------------------------------------------------------------------------------------------------
 
-http://letmein.fun:8080/c/			00:1A:79:B6:82:24		February 16, 2024
-http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28
-http://letmein.fun:8080/c/			00:1A:79:AB:D2:45		January 11, 2024
-http://letmein.fun:8080/c/			00:1a:79:ad:e1:12		September 12, 2023
-http://letmein.fun:8080/c/			00:1a:79:a3:14:6e		May 3, 2024			OK
-http://letmein.fun:8080/c/			00:1a:79:ab:61:1b		March 13, 2024
-http://letmein.fun:8080/c/			00:1a:79:ae:3f:04		December 3, 2023
-http://letmein.fun:8080/c/			00:1a:79:aa:83:60		June 27, 2023
-http://letmein.fun:8080/c/			00:1a:79:ab:48:d7		October 13, 2023
-http://letmein.fun:8080/c/			00:1a:79:aa:6f:29		June 13, 2023
-http://letmein.fun:8080/c/			00:1a:79:ac:d6:76		January 26, 2024
-http://letmein.fun:8080/c/			00:1a:79:aa:88:36		August 4, 2023
-http://letmein.fun:8080/c/			00:1a:79:a2:6a:b7		August 27, 2023
-http://letmein.fun:8080/c/			00:1a:79:a7:c8:bf		June 22, 2023
-http://letmein.fun:8080/c/			00:1a:79:ab:ba:5d		August 12, 2023
-http://letmein.fun:8080/c/			00:1a:79:ae:59:b9		March 13, 2024
-http://letmein.fun:8080/c/			00:1a:79:a1:ab:f4		June 14, 2023			OK
-http://letmein.fun:8080/c/			00:1a:79:a6:6e:ef		October 1, 2023
+http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28, 2023		STBEMU
+http://letmein.fun:8080/c/			00:1a:79:ae:50:16						STBEMU
+http://letmein.fun:8080/c/			00:1a:79:ad:04:59						STBEMU
+http://letmein.fun:8080/c/			00:1A:79:5C:F0:35 		February 6, 2024		STBEMU
+http://letmein.fun:8080/c/			00:1A:79:56:8D:39		March 3, 2024			STBEMU
+http://letmein.fun:8080/c/			00:1A:79:AE:2C:FF		February 21, 2024		STBEMU
+http://letmein.fun:8080/c/			00:1A:79:3B:18:31		March 1, 2024			STBEMU
+http://letmein.fun:8080/c/			00:1A:79:BA:11:E1		August 12, 2023			STBEMU
+http://letmein.fun:8080/c/			00:1A:79:34:1E:19		November 1, 2023		STBEMU
+http://letmein.fun:8080/c/			00:1A:79:38:41:90		September 16, 2023		STBEMU
 
-http://play-plus.net:8000/c/			00:1A:79:00:3E:0B		August 8, 2023
-http://play-plus.net:8000/c/			00:1A:79:02:63:53		October 22, 2023			
-http://play-plus.net:8000/c/			00:1A:79:00:3B:3E		August 31, 2023
-http://play-plus.net:8000/c/			
-http://play-plus.net:8000/c/			
+http://xtream2.subtv.biz/c/			00:1A:79:fd:0d:a8		March 7, 2024			STBEMU
+http://xtream2.subtv.biz/c/			00:1a:79:01:81:01		August 3, 2024			STBEMU
+http://xtream2.subtv.biz/c/			00:1A:79:82:72:70		December 15, 2023		STBEMU
 
-http://xtream2.subtv.biz/c/			00:1A:79:fd:0d:a8		March 7, 2024
-http://xtream2.subtv.biz/c/			00:1a:79:01:81:01		August 3, 2024
-http://xtream2.subtv.biz/c/			00:1A:79:82:72:70		December 15, 2023
-http://xtream2.subtv.biz/c/
-http://xtream2.subtv.biz/c/
+http://micro-ott.com:80/c/			00:1a:79:5e:61:0f		September 4, 2023		STBEMU
+http://micro-ott.com:80/c/			00:1a:79:30:06:40		August 31, 2023			STBEMU
+http://micro-ott.com:80/c/			00:1a:79:3a:98:5d		October 30, 2023		STBEMU
+http://micro-ott.com:80/c/			00:1a:79:73:f8:ac		July 21, 2023			STBEMU
+
+http://new.ivue.co:25461/c/			00:1A:79:3D:F2:3D		March 16, 2024			STBEMU
 
 
+http://netseeny.maxhd.vip:8000/c
+00:1a:79:87:6d:d1;November 13, 2023, 5:35
+00:1a:79:07:f0:42;October 29, 2023, 9:50
+00:1a:79:06:12:7e;November 18, 2023, 9:24
+00:1a:79:7b:58:75;December 9, 2023, 11:39
+00:1a:79:5a:1c:08;June 14, 2023, 12:04
+00:1a:79:44:49:db;July 19, 2023, 3:25
+00:1a:79:44:2b:b4;August 14, 2023, 3:43
+00:1a:79:bf:bc:d8;June 8, 2023, 3:23
+00:1a:79:60:26:21;July 8, 2023, 2:32
+00:1a:79:01:00:37;October 30, 2023, 4:27
+http://ukilo.top:80/c
+MAC: 00:1a:79:ab:4d:d2 
+Vence:August 9, 2023, 6:00 pm
+MAC: 00:1a:79:a5:9d:4c 
+Vence:April 1, 2023, 8:11 am
+MAC: 00:1a:79:a4:cb:7e 
+Vence:April 1, 2023, 4:35 pm
+MAC: 00:1a:79:ba:c3:5c 
+Vence:December 23, 2023, 5:19 pm 
+MAC: 00:1a:79:41:bc:34 
+Vence:April 23, 2023, 6:01 pm
+MAC: 00:1a:79:ae:3b:5f 
+Vence:November 22, 2023, 12:16 pm
+MAC: 00:1a:79:42:9f:f3 
+Vence:April 23, 2023, 6:21 pm 
+MAC: 00:1a:79:c6:a7:98 
+Vence:June 10, 2023, 6:09 pm 
+MAC: 00:1a:79:c7:a0:fa 
+Vence:May 6, 2023, 4:39 pm 
+MAC: 00:1a:79:ab:6a:4c 
+Vence:December 30, 2023, 10:45 am 
+MAC: 00:1a:79:a1:5b:fc 
+Vence:January 4, 2024, 8:42 pm
 
+http://webflowmalta.club:8080/c/
+00:1a:79:a3:93:c6;June 8, 2023, 10:31
+00:1a:79:2d:36:17;June 13, 2023, 6:59
+00:1a:79:6f:bd:c7;September 27, 2023, 4:00
+00:1a:79:76:72:7d;August 13, 2023, 1:59
+00:1a:79:6a:7c:f1;September 23, 2023, 6:43
+00:1a:79:ba:68:e9;June 20, 2023, 11
 
-
-http://m.marstvx.com:80/c/			00:1a:79:75:39:09		October 18, 2023		OK
-http://m.marstvx.com:80/c/			00:1a:79:7B:C3:AA		March 20, 2024			
-http://m.marstvx.com:80/c/			00:1a:79:02:d0:aa		September 23, 2023
-http://m.marstvx.com:80/c/			00:1a:79:5a:3e:45		September 16, 2023
-http://m.marstvx.com:80/c/			00:1a:79:00:00:00		March 12, 2024
-http://m.marstvx.com:80/c/			00:1a:79:6c:db:9d		September 6, 2023
-http://m.marstvx.com:80/c/			00:1a:79:21:37:38		June 12, 2023
-http://m.marstvx.com:80/c/			00:1a:79:5d:3b:ea		January 4, 2024
-http://m.marstvx.com:80/c/			00:1a:79:4e:50:ca		July 11, 2023			OK
-
-http://micro-ott.com:80/c/			00:1a:79:3c:2b:8f		September 15, 2023
-http://micro-ott.com:80/c/			00:1a:79:80:0f:2a		March 18, 2024
-http://micro-ott.com:80/c/			00:1a:79:73:4b:01		August 23, 2023			OK
-http://micro-ott.com:80/c/			00:1a:79:c3:2e:5d		December 7, 2023
-http://micro-ott.com:80/c/			00:1a:79:67:6f:e0		March 9, 2024
-http://micro-ott.com:80/c/			00:1a:79:49:b3:d8		December 29, 2023
-http://micro-ott.com:80/c/			00:1a:79:89:d4:0c		July 18, 2023			OK
-http://micro-ott.com:80/c/			00:1a:79:ab:7f:a0		November 4, 2023
 
 ===================================================================================================================
 
