@@ -1,8 +1,8 @@
 [
   {
-    "Name": "[TV] Let Me In Fun #1",
+    "Name": "[TV] Let Me In #1",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1a:79:a1:ab:f4",
+    "Mac": "00:1a:79:a3:db:e9",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -17,9 +17,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Let Me In Fun #2",
+    "Name": "[TV] Let Me In #2",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1a:79:a3:14:6e",
+    "Mac": "00:1A:79:38:41:90",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -34,9 +34,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Play Plus Net #1",
-    "Address": "http:\/\/play-plus.net:8000\/c\/",
-    "Mac": "00:1A:79:00:3B:3E",
+    "Name": "[TV] Xtream2 SubTV #1",
+    "Address": "http:\/\/xtream2.subtv.biz\/c\/",
+    "Mac": "00:1a:79:01:81:01",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -51,24 +51,7 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Play Plus Net #2",
-    "Address": "http:\/\/play-plus.net:8000\/c\/",
-    "Mac": "00:1A:79:02:63:53",
-    "Username": "",
-    "Password": "",
-    "SerialNumber": "",
-    "DeviceID": "",
-    "DeviceID2": "",
-    "Firmware": "",
-    "StbModel": "",
-    "TimeZone": "",
-    "UserAgent": "",
-    "PlayerUserAgent": "",
-    "HttpProxy": "",
-    "RequestMethod": "POST"
-  },
-  {
-    "Name": "[TV] Xtream2 Subtv #1",
+    "Name": "[TV] Xtream2 SubTV #2",
     "Address": "http:\/\/xtream2.subtv.biz\/c\/",
     "Mac": "00:1A:79:82:72:70",
     "Username": "",
@@ -85,9 +68,26 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] Xtream2 Subtv #2",
-    "Address": "http:\/\/xtream2.subtv.biz\/c\/",
-    "Mac": "00:1a:79:01:81:01",
+    "Name": "[TV] Micro OTT #1",
+    "Address": "http:\/\/micro-ott.com:80\/c\/",
+    "Mac": "00:1a:79:5e:61:0f",
+    "Username": "",
+    "Password": "",
+    "SerialNumber": "",
+    "DeviceID": "",
+    "DeviceID2": "",
+    "Firmware": "",
+    "StbModel": "",
+    "TimeZone": "",
+    "UserAgent": "",
+    "PlayerUserAgent": "",
+    "HttpProxy": "",
+    "RequestMethod": "POST"
+  },
+  {
+    "Name": "[TV] Micro OTT #2",
+    "Address": "http:\/\/micro-ott.com:80\/c\/",
+    "Mac": "00:1a:79:30:06:40",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
