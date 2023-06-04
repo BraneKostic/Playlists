@@ -1,35 +1,38 @@
-============================================================================================================================
-PORTAL						MAC				EXPIRE				SFVIP,STBEMU
-----------------------------------------------------------------------------------------------------------------------------
+==============================================================================================================================
+PORTAL						MAC				EXPIRE			        SFVIP STBEMU
+------------------------------------------------------------------------------------------------------------------------------
 
-http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28, 2023		STBEMU #1 , SFVIP #1
-http://letmein.fun:8080/c/			00:1a:79:ae:50:16						STBEMU
-http://letmein.fun:8080/c/			00:1a:79:ad:04:59						STBEMU
-http://letmein.fun:8080/c/			00:1A:79:5C:F0:35 		February 6, 2024		STBEMU
-http://letmein.fun:8080/c/			00:1A:79:56:8D:39		March 3, 2024			STBEMU
-http://letmein.fun:8080/c/			00:1A:79:AE:2C:FF		February 21, 2024		STBEMU
-http://letmein.fun:8080/c/			00:1A:79:3B:18:31		March 1, 2024			STBEMU
-http://letmein.fun:8080/c/			00:1A:79:BA:11:E1		August 12, 2023			STBEMU
-http://letmein.fun:8080/c/			00:1A:79:34:1E:19		November 1, 2023		STBEMU
-http://letmein.fun:8080/c/			00:1A:79:38:41:90		September 16, 2023		STBEMU #2 , SFVIP #2
+http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28, 2023		#1	#1
+http://letmein.fun:8080/c/			00:1a:79:ae:50:16							STBEMU
+http://letmein.fun:8080/c/			00:1a:79:ad:04:59							STBEMU
+http://letmein.fun:8080/c/			00:1A:79:5C:F0:35 		February 6, 2024			STBEMU
+http://letmein.fun:8080/c/			00:1A:79:56:8D:39		March 3, 2024				STBEMU
+http://letmein.fun:8080/c/			00:1A:79:AE:2C:FF		February 21, 2024			STBEMU
+http://letmein.fun:8080/c/			00:1A:79:3B:18:31		March 1, 2024				STBEMU
+http://letmein.fun:8080/c/			00:1A:79:BA:11:E1		August 12, 2023				STBEMU
+http://letmein.fun:8080/c/			00:1A:79:34:1E:19		November 1, 2023			STBEMU
+http://letmein.fun:8080/c/			00:1A:79:38:41:90		September 16, 2023		#2	#2
 
-http://xtream2.subtv.biz/c/			00:1A:79:fd:0d:a8		March 7, 2024			STBEMU , SFVIP #1
-http://xtream2.subtv.biz/c/			00:1a:79:01:81:01		August 3, 2024			STBEMU #1
-http://xtream2.subtv.biz/c/			00:1A:79:82:72:70		December 15, 2023		STBEMU #2 , SFVIP #2
+http://xtream2.subtv.biz/c/			00:1A:79:fd:0d:a8		March 7, 2024			#1	STBEMU
+http://xtream2.subtv.biz/c/			00:1a:79:01:81:01		August 3, 2024				#1
+http://xtream2.subtv.biz/c/			00:1A:79:82:72:70		December 15, 2023		#2	#2
 
-http://micro-ott.com:80/c/			00:1a:79:5e:61:0f		September 4, 2023		STBEMU #1
-http://micro-ott.com:80/c/			00:1a:79:30:06:40		August 31, 2023			STBEMU #2 , SFVIP #2
-http://micro-ott.com:80/c/			00:1a:79:3a:98:5d		October 30, 2023		STBEMU , SFVIP #1
-http://micro-ott.com:80/c/			00:1a:79:73:f8:ac		July 21, 2023			STBEMU
+http://micro-ott.com:80/c/			00:1a:79:5e:61:0f		September 4, 2023			#1
+http://micro-ott.com:80/c/			00:1a:79:30:06:40		August 31, 2023			#2	#2
+http://micro-ott.com:80/c/			00:1a:79:3a:98:5d		October 30, 2023		#1	STBEMU
+http://micro-ott.com:80/c/			00:1a:79:73:f8:ac		July 21, 2023				STBEMU
 
-http://new.ivue.co:25461/c/			00:1A:79:3D:F2:3D		March 16, 2024			STBEMU #1 , 
-http://new.ivue.co:25461/c/			00:1A:79:51:42:5B		August 4, 2023			STBEMU #2 ,
-http://new.ivue.co:25461/c/			00:1A:79:11:11:11		July 13, 2023			STBEMU
-http://new.ivue.co:25461/c/			00:1A:79:C0:40:94		September 16, 2023		STBEMU
-http://new.ivue.co:25461/c/			00:1A:79:09:B2:73		August 25, 2023			STBEMU
-http://new.ivue.co:25461/c/			00:1A:79:C5:02:E2		August 2, 2023			STBEMU
+http://new.ivue.co:25461/c/			00:1A:79:3D:F2:3D		March 16, 2024			#1	#1
+http://new.ivue.co:25461/c/			00:1A:79:51:42:5B		August 4, 2023			#2	#2
+http://new.ivue.co:25461/c/			00:1A:79:11:11:11		July 13, 2023				STBEMU
+http://new.ivue.co:25461/c/			00:1A:79:C0:40:94		September 16, 2023			STBEMU
+http://new.ivue.co:25461/c/			00:1A:79:09:B2:73		August 25, 2023				STBEMU
+http://new.ivue.co:25461/c/			00:1A:79:C5:02:E2		August 2, 2023				STBEMU
 
-===================================================================================================================
+http://23.88.84.30:2080/stalker_portal/c/	00:1A:79:76:6C:4F		Unlimited			#1	#1
+http://23.88.84.30:2080/stalker_portal/c/	00:1A:79:78:02:6F		Unlimited			#2	#2
+
+==============================================================================================================================
 
 M3U			http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=m3u
 M3U SIMPLE		http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=simple&output=<TS/RTMP/M3U8>
@@ -48,7 +51,7 @@ BROWSER			http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?mac=<MAC>
 BROWSER (DEBUG)		http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?debug&debug_key=<DEBUG KEY>&mac=<MAC>
 BROWSER (KEYS)		ENTER [OK], F1 [Red], F2 [Green], F3 [Yellow], F4 [Blue], ESC [Exit] 
 
-===================================================================================================================
+==============================================================================================================================
 
 						SIMPLE SMART IPTV / MKIPTV [LG WebOS]
 
@@ -56,10 +59,9 @@ SIMPLE SMART IPTV		https://ss-iptv.com/en/
 SIMPLE SMART PLAYLIST EDITOR	https://ss-iptv.com/en/users/playlist
 FAIL TO LOAD REMOTE CONTENT	https://forum.ss-iptv.com/viewtopic.php?f=3&t=8280
 
-LG WEBOS MAC ADRESS		A8:23:FE:C6:08:76
-===================================================================================================================
+==============================================================================================================================
 
 SEARCH FOR DOMAINS, IPS, FILENAMES, HASHES, ASNS
 https://urlscan.io/search/#filename:%22keydown.keycodes.js%22
 
-===================================================================================================================
+==============================================================================================================================
