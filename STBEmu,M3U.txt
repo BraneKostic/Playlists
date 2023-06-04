@@ -29,8 +29,9 @@ http://new.ivue.co:25461/c/			00:1A:79:C0:40:94		September 16, 2023			STBEMU
 http://new.ivue.co:25461/c/			00:1A:79:09:B2:73		August 25, 2023				STBEMU
 http://new.ivue.co:25461/c/			00:1A:79:C5:02:E2		August 2, 2023				STBEMU
 
-http://23.88.84.30:2080/stalker_portal/c/	00:1A:79:76:6C:4F		Unlimited			#1	#1
-http://23.88.84.30:2080/stalker_portal/c/	00:1A:79:78:02:6F		Unlimited			#2	#2
+
+http://kreta1036.dedicatedpanel.com/stalker_portal/c/	00:1A:79:00:F9:E6	February 3, 2024		
+http://kreta1036.dedicatedpanel.com/stalker_portal/c/	00:1A:79:4b:c4:00	October 25, 2023
 
 ==============================================================================================================================
 

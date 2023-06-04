@@ -1111,13 +1111,13 @@
   }, {
     "profile" : {
       "uuid" : "00000000-0000-0000-0000-000000000009",
-      "name" : "Scalable #1",
+      "name" : "Dedicated Panel #1",
       "stb_model" : "mag-424",
-      "portal_url" : "http://23.88.84.30:2080/stalker_portal/c/",
+      "portal_url" : "http://kreta1036.dedicatedpanel.com/stalker_portal/c/",
       "is_internal_portal" : false,
       "display_resolution" : "1280x720",
       "video_resolution" : "1080p60",
-      "mac_address" : "00:1A:79:76:6C:4F",
+      "mac_address" : "00:1A:79:00:F9:E6",
       "serial_number" : "",
       "user_agent" : "default",
       "language" : "en",
@@ -1217,13 +1217,13 @@
   }, {
     "profile" : {
       "uuid" : "00000000-0000-0000-0000-000000000010",
-      "name" : "Scalable #2",
+      "name" : "Dedicated Panel #2",
       "stb_model" : "mag-424",
-      "portal_url" : "http://23.88.84.30:2080/stalker_portal/c/",
+      "portal_url" : "http://kreta1036.dedicatedpanel.com/stalker_portal/c/",
       "is_internal_portal" : false,
       "display_resolution" : "1280x720",
       "video_resolution" : "1080p60",
-      "mac_address" : "00:1A:79:78:02:6F",
+      "mac_address" : "00:1A:79:4b:c4:00",
       "serial_number" : "",
       "user_agent" : "default",
       "language" : "en",
