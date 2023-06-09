@@ -17,21 +17,12 @@ http://xtream2.subtv.biz/c/			00:1A:79:fd:0d:a8		March 7, 2024			#1	STBEMU
 http://xtream2.subtv.biz/c/			00:1a:79:01:81:01		August 3, 2024				#1
 http://xtream2.subtv.biz/c/			00:1A:79:82:72:70		December 15, 2023		#2	#2
 
-http://micro-ott.com:80/c/			00:1a:79:5e:61:0f		September 4, 2023			#1
-http://micro-ott.com:80/c/			00:1a:79:30:06:40		August 31, 2023			#2	#2
-http://micro-ott.com:80/c/			00:1a:79:3a:98:5d		October 30, 2023		#1	STBEMU
-http://micro-ott.com:80/c/			00:1a:79:73:f8:ac		July 21, 2023				STBEMU
-
 http://new.ivue.co:25461/c/			00:1A:79:3D:F2:3D		March 16, 2024			#1	#1
 http://new.ivue.co:25461/c/			00:1A:79:51:42:5B		August 4, 2023			#2	#2
 http://new.ivue.co:25461/c/			00:1A:79:11:11:11		July 13, 2023				STBEMU
 http://new.ivue.co:25461/c/			00:1A:79:C0:40:94		September 16, 2023			STBEMU
 http://new.ivue.co:25461/c/			00:1A:79:09:B2:73		August 25, 2023				STBEMU
 http://new.ivue.co:25461/c/			00:1A:79:C5:02:E2		August 2, 2023				STBEMU
-
-
-http://kreta1036.dedicatedpanel.com/stalker_portal/c/	00:1A:79:00:F9:E6	February 3, 2024		
-http://kreta1036.dedicatedpanel.com/stalker_portal/c/	00:1A:79:4b:c4:00	October 25, 2023
 
 ==============================================================================================================================
 
