@@ -1,17 +1,33 @@
 ==============================================================================================================================
-PORTAL						MAC				EXPIRE			        SFVIP STBEMU
+PORTAL						MAC				EXPIRE
 ------------------------------------------------------------------------------------------------------------------------------
 
-http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28, 2023		#1	#1
-http://letmein.fun:8080/c/			00:1a:79:ae:50:16							STBEMU
-http://letmein.fun:8080/c/			00:1a:79:ad:04:59							STBEMU
-http://letmein.fun:8080/c/			00:1A:79:5C:F0:35 		February 6, 2024			STBEMU
-http://letmein.fun:8080/c/			00:1A:79:56:8D:39		March 3, 2024				STBEMU
-http://letmein.fun:8080/c/			00:1A:79:AE:2C:FF		February 21, 2024			STBEMU
-http://letmein.fun:8080/c/			00:1A:79:3B:18:31		March 1, 2024				STBEMU
-http://letmein.fun:8080/c/			00:1A:79:BA:11:E1		August 12, 2023				STBEMU
-http://letmein.fun:8080/c/			00:1A:79:34:1E:19		November 1, 2023			STBEMU
-http://letmein.fun:8080/c/			00:1A:79:38:41:90		September 16, 2023		#2	#2
+http://letmein.fun:8080/c/			00:1A:79:56:8D:39		March 3, 2024
+http://letmein.fun:8080/c/			00:1A:79:3B:18:31		March 1, 2024
+http://letmein.fun:8080/c/			00:1A:79:5A:A6:3F 		March 1, 2024
+http://letmein.fun:8080/c/			00:1A:79:5C:F0:35 		February 6, 2024
+http://letmein.fun:8080/c/			00:1A:79:56:A9:A7 		February 26, 2024
+http://letmein.fun:8080/c/			00:1A:79:AE:2C:FF		February 21, 2024
+http://letmein.fun:8080/c/			00:1a:79:ae:50:16		January 17, 2024
+http://letmein.fun:8080/c/			00:1A:79:BA:11:42		December 15, 2023
+http://letmein.fun:8080/c/			00:1A:79:34:1E:19		November 1, 2023
+http://letmein.fun:8080/c/			00:1A:79:30:E6:93		November 29, 2023
+http://letmein.fun:8080/c/			00:1A:79:B0:91:1D		November 27, 2023
+http://letmein.fun:8080/c/			00:1a:79:a3:db:e9		October 28, 2023
+http://letmein.fun:8080/c/			00:1A:79:3B:7F:73		October 14, 2023
+http://letmein.fun:8080/c/			00:1A:79:AA:C1:E2		October 17, 2023
+http://letmein.fun:8080/c/			00:1a:79:ad:04:59		October 19, 2023
+http://letmein.fun:8080/c/			00:1A:79:50:38:F4		October 6, 2023
+http://letmein.fun:8080/c/			00:1A:79:58:0D:00 		September 5, 2023
+http://letmein.fun:8080/c/			00:1A:79:BA:11:07		September 30, 2023
+http://letmein.fun:8080/c/			00:1A:79:4E:B8:B0 		September 26, 2023
+http://letmein.fun:8080/c/			00:1A:79:4F:4B:74		September 5, 2023
+http://letmein.fun:8080/c/			00:1A:79:38:41:90		September 16, 2023
+http://letmein.fun:8080/c/			00:1A:79:48:23:50		August 19, 2023
+http://letmein.fun:8080/c/			00:1A:79:BA:11:E1		August 12, 2023
+http://letmein.fun:8080/c/			00:1A:79:39:31:33		July 30, 2023
+http://letmein.fun:8080/c/			00:1A:79:BA:0C:40		July 30, 2023
+http://letmein.fun:8080/c/			00:1A:79:AE:D9:01		July 6, 2023
 
 http://xtream2.subtv.biz/c/			00:1A:79:fd:0d:a8		March 7, 2024			#1	STBEMU
 http://xtream2.subtv.biz/c/			00:1a:79:01:81:01		August 3, 2024				#1
@@ -23,6 +39,18 @@ http://new.ivue.co:25461/c/			00:1A:79:11:11:11		July 13, 2023				STBEMU
 http://new.ivue.co:25461/c/			00:1A:79:C0:40:94		September 16, 2023			STBEMU
 http://new.ivue.co:25461/c/			00:1A:79:09:B2:73		August 25, 2023				STBEMU
 http://new.ivue.co:25461/c/			00:1A:79:C5:02:E2		August 2, 2023				STBEMU
+
+
+	http://mol-2.com:8080/c/			00:1A:79:AB:F0:F1		February 21, 2024
+	http://mol-2.com:8080/c/			00:1A:79:A7:BD:B3		January 20, 2024
+	http://mol-2.com:8080/c/			00:1A:79:B0:56:23 		October 20, 2023
+	http://mol-2.com:8080/c/			00:1A:79:AB:4C:6B		June 12, 2023
+	http://mol-2.com:8080/c/
+
+	http://backup.xp1.tv:80/c/			00:1A:79:90:29:52 		July 14, 2023
+	http://bckup.xp1.tv:80/c/			00:1A:79:c7:88:82 		October 22, 2023
+	http://backup.xp1.tv:80/c/			00:1A:79:c1:92:11		March 25, 2024
+	http://backup.xp1.tv:80/c/			00:1A:79:c2:8d:92		January 16, 2024
 
 ==============================================================================================================================
 
