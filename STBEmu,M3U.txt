@@ -1,6 +1,6 @@
-==============================================================================================================================
+===============================================================================================
 PORTAL						MAC			EXPIRE
-------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
 http://letmein.fun:8080/c/			00:1a:79:ab:19:66	May 21, 2024
 http://letmein.fun:8080/c/			00:1a:79:ab:4f:37	May 17, 2024
@@ -54,43 +54,11 @@ http://letmein.fun:8080/c/			00:1a:79:ab:42:3a	July 21, 2023
 http://letmein.fun:8080/c/			00:1a:79:a5:28:a0	July 21, 2023
 
 http://l1iptv.xyz:80/c/				00:1a:79:ab:c7:78	April 16, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:A7:CE:58	March 16, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:AB:49:B3	February 25, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:AE:30:9B	November 9, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:AF:7A:CA	September 23, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:A1:1A:DE	May 5, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:AE:3D:20	September 18, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:AA:6B:0E	September 15, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:A1:75:8C	April 8, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:A6:E6:AA	February 13, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:A5:A0:B4	November 17, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:A2:6F:23	January 21, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:A6:9A:D9	October 1, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:A2:C8:DB	January 18, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:AB:6F:13	July 30, 2023
+http://l1iptv.xyz:80/c/				00:1A:79:A7:CE:58	March 16, 2024
 http://l1iptv.xyz:80/c/				00:1A:79:AC:0F:40	January 9, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:A6:F5:1A	June 30, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:A6:F5:83	December 19, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:AE:A5:A0	October 22, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:AE:A5:A6	June 15, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:AB:C7:65	May 2, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:AB:C7:92	June 26, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:AB:C8:64	July 8, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:B0:E7:55	November 22, 2023
-
-	http://l1iptv.xyz:80/c/				00:1A:79:A2:8A:72		April 24, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:AC:C9:28		September 26, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:AF:0F:BC		June 14, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:4E:1F:FE		February 4, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:42:F2:F6		December 8, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:4C:8E:EF		June 17, 2023
-	http://l1iptv.xyz:80/c/				00:1A:79:4C:91:F0		October 25, 2023
 
 http://std.ipbl.tv:8080/c/			00:1a:79:b3:b8:cf	Unlimited
-	http://std.ipbl.tv:8080/c/			00:1a:79:b2:04:35	May 6, 2024, 11:26 pm
-	http://std.ipbl.tv:8080/c/			00:1a:79:c5:c1:30	April 28, 2024
 http://std.ipbl.tv:8080/c/			00:1a:79:c3:ba:95	January 25, 2024
-	http://std.ipbl.tv:8080/c/			00:1a:79:4a:1a:7d	October 9, 2023
 http://std.ipbl.tv:8080/c/			00:1a:79:c4:5b:d1	October 1, 2023
 http://std.ipbl.tv:8080/c/			00:1a:79:bf:b3:78	June 28, 2023
 http://std.ipbl.tv:8080/c/			00:1a:79:c1:d1:cf	June 26, 2023
@@ -114,7 +82,6 @@ http://liveline.store:8000/c/			00:1a:79:22:49:2b	August 10, 2023
 http://liveline.store:8000/c/			00:1A:79:01:00:31	August 26, 2023
 http://liveline.store:8000/c/			00:1a:79:54:58:bb	July 31, 2023
 
-
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:4C:46:33	May 17, 2024
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:22:0F:03	September 9, 2023
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:D4:F3:CC	February 7, 2024
@@ -124,11 +91,7 @@ http://tv.iptvpanel.tv:8080/c/			00:1A:79:C6:2B:B2	June 18, 2023
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:3A:DB:60	June 26, 2023
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:34:14:4B	September 12, 2023
 
-
-
-
-
-==============================================================================================================================
+===============================================================================================
 
 M3U			http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=m3u
 M3U SIMPLE		http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=simple&output=<TS/RTMP/M3U8>
@@ -147,17 +110,9 @@ BROWSER			http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?mac=<MAC>
 BROWSER (DEBUG)		http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?debug&debug_key=<DEBUG KEY>&mac=<MAC>
 BROWSER (KEYS)		ENTER [OK], F1 [Red], F2 [Green], F3 [Yellow], F4 [Blue], ESC [Exit] 
 
-==============================================================================================================================
-
-						SIMPLE SMART IPTV / MKIPTV [LG WebOS]
-
-SIMPLE SMART IPTV		https://ss-iptv.com/en/
-SIMPLE SMART PLAYLIST EDITOR	https://ss-iptv.com/en/users/playlist
-FAIL TO LOAD REMOTE CONTENT	https://forum.ss-iptv.com/viewtopic.php?f=3&t=8280
-
-==============================================================================================================================
+===============================================================================================
 
 SEARCH FOR DOMAINS, IPS, FILENAMES, HASHES, ASNS
 https://urlscan.io/search/#filename:%22keydown.keycodes.js%22
 
-==============================================================================================================================
+===============================================================================================
