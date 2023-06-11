@@ -50,7 +50,6 @@
     "HttpProxy": "",
     "RequestMethod": "POST"
   },
-
   {
     "Name": "[TV] IPBL TV #2",
     "Address": "http:\/\/std.ipbl.tv:8080\/c\/",
