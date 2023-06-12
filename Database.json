@@ -1,8 +1,8 @@
 [
   {
-    "Name": "[TV] l1 IPTV #1",
-    "Address": "http:\/\/l1iptv.xyz:8\/c\/",
-    "Mac": "00:1a:79:ab:c7:78",
+    "Name": "[TV] Spain OTT #1",
+    "Address": "http:\/\/spainott.site\/c\/",
+    "Mac": "00:1A:79:c9:3c:5a",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -17,9 +17,9 @@
     "RequestMethod": "POST"
   },
   {
-    "Name": "[TV] l1 IPTV #2",
-    "Address": "http:\/\/l1iptv.xyz:8\/c\/",
-    "Mac": "00:1A:79:A7:CE:58",
+    "Name": "[TV] Spain OTT #2",
+    "Address": "http:\/\/spainott.site\/c\/",
+    "Mac": "00:1A:79:d2:01:62",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -138,7 +138,7 @@
   {
     "Name": "[TV] LiveLine #1",
     "Address": "http:\/\/liveline.store:8000\/c\/",
-    "Mac": "00:1A:79:00:a9:03",
+    "Mac": "00:1a:79:ad:0d:a4",
     "Username": "",
     "Password": "",
     "SerialNumber": "",

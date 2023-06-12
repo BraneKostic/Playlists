@@ -230,7 +230,7 @@
   },
   "c" : [ {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000011",
+      "uuid" : "00000000-0000-0000-0000-000000000010",
       "name" : "TEST #01",
       "stb_model" : "mag-424",
       "portal_url" : "http:// PORTAL /c/",
@@ -284,7 +284,7 @@
     "data" : [ ]
   }, {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000012",
+      "uuid" : "00000000-0000-0000-0000-000000000020",
       "name" : "TEST #02",
       "stb_model" : "mag-424",
       "portal_url" : "http:// PORTAL /c/",
@@ -338,7 +338,7 @@
     "data" : [ ]
   }, {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000021",
+      "uuid" : "00000000-0000-0000-0000-000000000030",
       "name" : "TEST #03",
       "stb_model" : "mag-424",
       "portal_url" : "http:// PORTAL /c/",
@@ -396,115 +396,7 @@
     } ]
   }, {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000022",
-      "name" : "TEST #02",
-      "stb_model" : "mag-424",
-      "portal_url" : "http:// PORTAL /c/",
-      "is_internal_portal" : false,
-      "display_resolution" : "1280x720",
-      "video_resolution" : "1080p60",
-      "mac_address" : "00:1A:79:00:00:00",
-      "serial_number" : "",
-      "user_agent" : "default",
-      "language" : "en",
-      "device_id" : "",
-      "use_mac_based_device_id" : false,
-      "mac_seed_net_interface" : "",
-      "device_id_seed" : "",
-      "send_device_id" : false,
-      "device_id2" : "",
-      "device_custom_dev_id2" : false,
-      "device_signature" : "",
-      "timezone" : "",
-      "firmware" : "generic",
-      "media_player" : "exo",
-      "firmware_player_engine_ver" : "0x566",
-      "firmware_js_api_ver" : "328",
-      "firmware_stb_api_ver" : "134",
-      "firmware_image_version" : "218",
-      "firmware_image_description" : "0.2.18-r14-pub-250",
-      "firmware_image_date" : "",
-      "hardware_vendor" : "",
-      "hardware_version" : "",
-      "udpxy_enabled" : false,
-      "udpxy_url" : "",
-      "overwrite_stream_protocol" : "",
-      "use_http_proxy" : false,
-      "http_proxy_host" : "",
-      "http_proxy_port" : 80,
-      "allow_emulator_user_agent_info" : false,
-      "fix_background_color" : false,
-      "fix_local_file_scheme" : false,
-      "fix_ajax" : false,
-      "use_custom_user_agent" : false,
-      "custom_user_agent" : "",
-      "external_player_send_key_event" : false,
-      "external_player_send_back_key_event" : false,
-      "external_player_send_exit_key_event" : false,
-      "external_player_send_ok_key_event" : false,
-      "apply_css_patches" : "stalker_input_patch.css",
-      "created_by_user" : true,
-      "enable_ministra_compatibility" : true,
-      "use_browser_forwarding" : false
-    },
-    "data" : [ ]
-  }, {
-    "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000031",
-      "name" : "TEST #03",
-      "stb_model" : "mag-424",
-      "portal_url" : "http:// PORTAL /c/",
-      "is_internal_portal" : false,
-      "display_resolution" : "1280x720",
-      "video_resolution" : "1080p60",
-      "mac_address" : "00:1A:79:00:00:00",
-      "serial_number" : "",
-      "user_agent" : "default",
-      "language" : "en",
-      "device_id" : "",
-      "use_mac_based_device_id" : false,
-      "mac_seed_net_interface" : "",
-      "device_id_seed" : "",
-      "send_device_id" : false,
-      "device_id2" : "",
-      "device_custom_dev_id2" : false,
-      "device_signature" : "",
-      "timezone" : "",
-      "firmware" : "generic",
-      "media_player" : "exo",
-      "firmware_player_engine_ver" : "0x566",
-      "firmware_js_api_ver" : "328",
-      "firmware_stb_api_ver" : "134",
-      "firmware_image_version" : "218",
-      "firmware_image_description" : "0.2.18-r14-pub-250",
-      "firmware_image_date" : "",
-      "hardware_vendor" : "",
-      "hardware_version" : "",
-      "udpxy_enabled" : false,
-      "udpxy_url" : "",
-      "overwrite_stream_protocol" : "",
-      "use_http_proxy" : false,
-      "http_proxy_host" : "",
-      "http_proxy_port" : 80,
-      "allow_emulator_user_agent_info" : false,
-      "fix_background_color" : false,
-      "fix_local_file_scheme" : false,
-      "fix_ajax" : false,
-      "use_custom_user_agent" : false,
-      "custom_user_agent" : "",
-      "external_player_send_key_event" : false,
-      "external_player_send_back_key_event" : false,
-      "external_player_send_exit_key_event" : false,
-      "external_player_send_ok_key_event" : false,
-      "apply_css_patches" : "stalker_input_patch.css",
-      "created_by_user" : true,
-      "enable_ministra_compatibility" : true,
-      "use_browser_forwarding" : false
-    },
-    "data" : [ ]
-  }, {
-    "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000032",
+      "uuid" : "00000000-0000-0000-0000-000000000040",
       "name" : "TEST #04",
       "stb_model" : "mag-424",
       "portal_url" : "http:// PORTAL /c/",
@@ -558,7 +450,7 @@
     "data" : [ ]
   }, {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000041",
+      "uuid" : "00000000-0000-0000-0000-000000000050",
       "name" : "TEST #05",
       "stb_model" : "mag-424",
       "portal_url" : "http:// PORTAL /c/",
@@ -612,7 +504,7 @@
     "data" : [ ]
   }, {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000042",
+      "uuid" : "00000000-0000-0000-0000-000000000060",
       "name" : "TEST #06",
       "stb_model" : "mag-424",
       "portal_url" : "http:// PORTAL /c/",
@@ -666,7 +558,7 @@
     "data" : [ ]
   }, {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000051",
+      "uuid" : "00000000-0000-0000-0000-000000000070",
       "name" : "TEST #07",
       "stb_model" : "mag-424",
       "portal_url" : "http:// PORTAL /c/",
@@ -720,7 +612,7 @@
     "data" : [ ]
   }, {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000052",
+      "uuid" : "00000000-0000-0000-0000-000000000080",
       "name" : "TEST #08",
       "stb_model" : "mag-424",
       "portal_url" : "http:// PORTAL /c/",
@@ -772,8 +664,9 @@
       "use_browser_forwarding" : false
     },
     "data" : [ ]
+  }, {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000052",
+      "uuid" : "00000000-0000-0000-0000-000000000090",
       "name" : "TEST #09",
       "stb_model" : "mag-424",
       "portal_url" : "http:// PORTAL /c/",
@@ -825,8 +718,9 @@
       "use_browser_forwarding" : false
     },
     "data" : [ ]
+  }, {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000052",
+      "uuid" : "00000000-0000-0000-0000-000000000100",
       "name" : "TEST #10",
       "stb_model" : "mag-424",
       "portal_url" : "http:// PORTAL /c/",
