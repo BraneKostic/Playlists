@@ -2,6 +2,17 @@
 PORTAL						MAC			EXPIRE
 -----------------------------------------------------------------------------------------------
 
+http://spainott.site/c/				00:1A:79:d0:93:07	November 29, 2024
+http://spainott.site/c/				00:1A:79:04:d6:b8	April 3, 2024
+http://spainott.site/c/				00:1A:79:07:70:6c	April 19, 2024
+http://spainott.site/c/				00:1A:79:70:6e:c7	March 11, 2024
+http://spainott.site/c/				00:1A:79:65:05:bc	March 8, 2024
+http://spainott.site/c/				00:1A:79:32:86:03	February 24, 2024
+http://spainott.site/c/				00:1A:79:73:cb:bf	January 3, 2024
+http://spainott.site/c/				00:1A:79:54:20:45	January 7, 2024 
+http://spainott.site/c/				00:1A:79:b9:98:32	January 10, 2024
+http://spainott.site/c/				00:1A:79:ce:89:3d	January 13, 2024
+http://spainott.site/c/				00:1A:79:c6:3e:b3	January 14, 2024
 http://spainott.site/c/				00:1A:79:1c:ad:d0	July 20, 2023
 http://spainott.site/c/				00:1A:79:c9:3c:5a	July 20, 2023
 http://spainott.site/c/				00:1A:79:d2:01:62	July 20, 2023
@@ -34,85 +45,35 @@ http://spainott.site/c/				00:1A:79:00:19:5c	July 29, 2023
 http://spainott.site/c/				00:1A:79:75:6c:a1	July 29, 2023
 http://spainott.site/c/				00:1A:79:6c:8a:82	July 29, 2023
 http://spainott.site/c/				00:1A:79:5f:01:cb	July 30, 2023
-http://spainott.site/c/
-http://spainott.site/c/
-http://spainott.site/c/
-http://spainott.site/c/
-http://spainott.site/c/
-http://spainott.site/c/
-http://spainott.site/c/
-http://spainott.site/c/
-http://spainott.site/c/
-
- 
-  💎 MAC : 00:1A:79:5f:01:cb
- 📆 Expire Date : July 30, 2023, 5:22 pm 
- 
-  💎 MAC : 00:1A:79:d9:e7:10
- 📆 Expire Date : July 30, 2023, 4:19 pm 
- 
-  💎 MAC : 00:1A:79:73:cb:bf
- 📆 Expire Date : January 3, 2024, 10:06 pm 
- 
-  💎 MAC : 00:1A:79:54:20:45
- 📆 Expire Date : January 7, 2024, 4:51 pm 
- 
-  💎 MAC : 00:1A:79:b9:98:32
- 📆 Expire Date : January 10, 2024, 10:45 am 
- 
-  💎 MAC : 00:1A:79:ce:89:3d
- 📆 Expire Date : January 13, 2024, 9:50 am 
- 
-  💎 MAC : 00:1A:79:c6:3e:b3
- 📆 Expire Date : January 14, 2024, 1:50 pm 
- 
-  💎 MAC : 00:1A:79:32:86:03
- 📆 Expire Date : February 24, 2024, 1:42 am 
- 
-  💎 MAC : 00:1A:79:65:05:bc
- 📆 Expire Date : March 8, 2024, 5:13 pm 
- 
- 
-  💎 MAC : 00:1A:79:04:d6:b8
- 📆 Expire Date : April 3, 2024, 8:11 pm 
- 
-  💎 MAC : 00:1A:79:70:6e:c7
- 📆 Expire Date : March 11, 2024, 11:27 am 
- 
-  💎 MAC : 00:1A:79:07:70:6c
- 📆 Expire Date : April 19, 2024, 4:40 pm 
- 
-  💎 MAC : 00:1A:79:d0:93:07
- 📆 Expire Date : November 29, 2024, 12:56 am 
- 
-  💎 MAC : 00:1A:79:43:3d:d7
- 📆 Expire Date : July 2, 2023, 11:07 pm
- 
-  💎 MAC : 00:1A:79:43:49:45
- 📆 Expire Date : July 2, 2023, 9:13 am 
- 
- 
-  💎 MAC : 00:1A:79:c1:b0:90
- 📆 Expire Date : July 3, 2023, 1:39 pm 
- 
-  💎 MAC : 00:1A:79:c1:28:fe
- 📆 Expire Date : July 3, 2023, 8:05 am 
- 
-  💎 MAC : 00:1A:79:4c:57:86
- 📆 Expire Date : July 4, 2023, 11:35 pm 
- 
- 
-  💎 MAC : 00:1A:79:4c:c2:da
- 📆 Expire Date : July 4, 2023, 11:05 pm 
- 
-  💎 MAC : 00:1A:79:bc:5e:f8
- 📆 Expire Date : July 7, 2023, 1:53 pm 
- 
- 
-
-	http://l1iptv.xyz:80/c/				00:1a:79:ab:c7:78	April 16, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:A7:CE:58	March 16, 2024
-	http://l1iptv.xyz:80/c/				00:1A:79:AC:0F:40	January 9, 2024
+http://spainott.site/c/				00:1A:79:5f:01:cb	July 30, 2023
+http://spainott.site/c/				00:1A:79:d9:e7:10	July 30, 2023
+http://spainott.site/c/				00:1A:79:43:3d:d7	July 2, 2023
+http://spainott.site/c/				00:1A:79:43:49:45	July 2, 2023
+http://spainott.site/c/				00:1A:79:c1:b0:90	July 3, 2023
+http://spainott.site/c/				00:1A:79:c1:28:fe	July 3, 2023
+http://spainott.site/c/				00:1A:79:4c:57:86	July 4, 2023
+http://spainott.site/c/				00:1A:79:4c:c2:da	July 4, 2023
+http://spainott.site/c/				00:1A:79:bc:5e:f8	July 7, 2023
+http://spainott.site/c/				00:1A:79:c1:ed:88	July 7, 2023
+http://spainott.site/c/				00:1A:79:1f:e7:fd	July 7, 2023
+http://spainott.site/c/				00:1A:79:38:11:3c	July 10, 2023
+http://spainott.site/c/				00:1A:79:6b:07:ce	July 11, 2023
+http://spainott.site/c/				00:1A:79:b8:2b:a7	July 11, 2023
+http://spainott.site/c/				00:1A:79:4e:bd:fe	July 11, 2023
+http://spainott.site/c/				00:1A:79:0f:08:ee	July 11, 2023
+http://spainott.site/c/				00:1A:79:8a:8d:98	July 11, 2023
+http://spainott.site/c/				00:1A:79:3e:81:68	July 12, 2023
+http://spainott.site/c/				00:1A:79:50:26:28	July 13, 2023
+http://spainott.site/c/				00:1A:79:3a:b5:41	July 14, 2023
+http://spainott.site/c/				00:1A:79:68:f6:8d	July 14, 2023
+http://spainott.site/c/				00:1A:79:6e:bd:8f	July 15, 2023
+http://spainott.site/c/				00:1A:79:8e:8a:04	July 15, 2023
+http://spainott.site/c/				00:1A:79:0f:fd:0b	July 16, 2023
+http://spainott.site/c/				00:1A:79:39:60:38	July 17, 2023
+http://spainott.site/c/				00:1A:79:28:52:67	July 17, 2023
+http://spainott.site/c/				00:1A:79:b2:c9:60	July 18, 2023
+http://spainott.site/c/				00:1A:79:73:16:dc	July 19, 2023
+http://spainott.site/c/				00:1A:79:c3:e7:18	July 19, 2023
 
 http://std.ipbl.tv:8080/c/			00:1a:79:b3:b8:cf	Unlimited
 http://std.ipbl.tv:8080/c/			00:1a:79:c3:ba:95	January 25, 2024
