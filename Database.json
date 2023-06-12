@@ -87,7 +87,7 @@
   {
     "Name": "[TV] IPTV Panel #2",
     "Address": "http:\/\/tv.iptvpanel.tv:8080\/c\/",
-    "Mac": "00:1A:79:22:0F:03",
+    "Mac": "00:1A:79:D4:F3:CC",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -104,7 +104,7 @@
   {
     "Name": "[TV] Let Me In #1",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1a:79:ab:19:66",
+    "Mac": "00:1a:79:ab:3d:8f",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -121,7 +121,7 @@
   {
     "Name": "[TV] Let Me In #2",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1a:79:ab:4f:37",
+    "Mac": "00:1a:79:a4:60:38",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
