@@ -153,13 +153,13 @@ http://liveline.store:8000/c/			00:1a:79:54:58:bb	July 31, 2023
 
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:4C:46:33	May 17, 2024
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:AD:7D:72	May 10, 2024
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:AB:5E:76	June 24, 2023
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:22:0F:03	September 9, 2023
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:AA:10:39	October 20, 2023
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:D4:F3:CC	February 7, 2024
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:5B:11:7E	December 12, 2023
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:C6:B5:3A	November 27, 2023
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:C6:2B:B2	June 18, 2023
+http://tv.iptvpanel.tv:8080/c/			00:1A:79:AB:5E:76	June 24, 2023
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:3A:DB:60	June 26, 2023
 http://tv.iptvpanel.tv:8080/c/			00:1A:79:34:14:4B	September 12, 2023
 
