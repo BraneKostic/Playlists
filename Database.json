@@ -36,7 +36,7 @@
   {
     "Name": "[TV] IPTV Panel #1",
     "Address": "http:\/\/tv.iptvpanel.tv:8080\/c\/",
-    "Mac": "00:1A:79:4C:46:33",
+    "Mac": "00:1A:79:AD:7D:72",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -53,7 +53,7 @@
   {
     "Name": "[TV] IPTV Panel #2",
     "Address": "http:\/\/tv.iptvpanel.tv:8080\/c\/",
-    "Mac": "00:1A:79:D4:F3:CC",
+    "Mac": "00:1A:79:AA:10:39C",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
