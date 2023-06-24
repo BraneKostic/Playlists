@@ -19,7 +19,7 @@
   {
     "Name": "[TV] IPTV Panel #2",
     "Address": "http:\/\/tv.iptvpanel.tv:8080\/c\/",
-    "Mac": "00:1A:79:AA:10:39",
+    "Mac": "00:1A:79:22:0F:03",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -36,7 +36,7 @@
   {
     "Name": "[TV] IPTV Panel #3",
     "Address": "http:\/\/tv.iptvpanel.tv:8080\/c\/",
-    "Mac": "00:1A:79:D4:F3:CC",
+    "Mac": "00:1A:79:C6:B5:3A",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -53,7 +53,7 @@
   {
     "Name": "[TV] Let Me In #1",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1A:79:3B:18:31",
+    "Mac": "00:1a:79:ab:d2:90",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -87,7 +87,7 @@
   {
     "Name": "[TV] Let Me In #3",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1a:79:a9:2e:f2",
+    "Mac": "00:1A:79:38:41:90",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -206,7 +206,7 @@
   {
     "Name": "[TV] Spain OTT #1",
     "Address": "http:\/\/spainott.site\/c\/",
-    "Mac": "00:1A:79:c9:3c:5a",
+    "Mac": "00:1A:79:56:d7:3e",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -223,7 +223,7 @@
   {
     "Name": "[TV] Spain OTT #2",
     "Address": "http:\/\/spainott.site\/c\/",
-    "Mac": "00:1A:79:65:05:bc",
+    "Mac": "00:1A:79:b1:58:5f",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -240,7 +240,7 @@
   {
     "Name": "[TV] Spain OTT #3",
     "Address": "http:\/\/spainott.site\/c\/",
-    "Mac": "00:1A:79:70:6e:c7",
+    "Mac": "00:1A:79:75:6c:a1",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
