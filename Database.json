@@ -53,7 +53,7 @@
   {
     "Name": "[TV] Let Me In #1",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1a:79:ab:d2:90",
+    "Mac": "00:1a:79:a6:0c:6f",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -70,7 +70,7 @@
   {
     "Name": "[TV] Let Me In #2",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1A:79:56:8D:39",
+    "Mac": "00:1a:79:ab:42:3a",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -87,7 +87,7 @@
   {
     "Name": "[TV] Let Me In #3",
     "Address": "http:\/\/letmein.fun:8080\/c\/",
-    "Mac": "00:1A:79:38:41:90",
+    "Mac": "00:1A:79:BA:11:E1",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -104,7 +104,7 @@
   {
     "Name": "[TV] LiveLine #1",
     "Address": "http:\/\/liveline.store:8000\/c\/",
-    "Mac": "00:1a:79:ad:0d:a4",
+    "Mac": "00:1a:79:2a:d2:4a",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -121,7 +121,7 @@
   {
     "Name": "[TV] LiveLine #2",
     "Address": "http:\/\/liveline.store:8000\/c\/",
-    "Mac": "00:1a:79:a2:f9:9e",
+    "Mac": "00:1a:79:2a:d2:20",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -155,7 +155,7 @@
   {
     "Name": "[TV] MAG M1 Giillmig #1",
     "Address": "http:\/\/magm1giillmig.funtogether.xyz:8080\/c\/",
-    "Mac": "00:1a:79:a4:d5:62",
+    "Mac": "00:1a:79:a3:b4:2b",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -172,7 +172,7 @@
   {
     "Name": "[TV] MAG M1 Giillmig #2",
     "Address": "http:\/\/magm1giillmig.funtogether.xyz:8080\/c\/",
-    "Mac": "00:1a:79:ab:4e:30",
+    "Mac": "00:1a:79:a4:d3:5d",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
