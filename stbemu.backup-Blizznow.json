@@ -2,10 +2,10 @@
   "metadata" : {
     "app_flavor" : "googleplay_pro",
     "app_version" : 20009095,
-    "created_at" : [ 2023, 6, 11, 20, 9, 44, 566000000 ],
+    "created_at" : [ 2024, 1, 1, 0, 0, 0, 566000000 ],
     "a" : "googleplay_pro",
     "b" : 20009095,
-    "c" : [ 2023, 6, 11, 20, 9, 44, 566000000 ]
+    "c" : [ 2024, 1, 1, 0, 0, 0, 566000000 ]
   },
   "settings" : {
     "app_version_code" : 20009095,
@@ -190,10 +190,10 @@
   "a" : {
     "app_flavor" : "googleplay_pro",
     "app_version" : 20009095,
-    "created_at" : [ 2023, 6, 11, 20, 9, 44, 566000000 ],
+    "created_at" : [ 2024, 1, 1, 0, 0, 0, 566000000 ],
     "a" : "googleplay_pro",
     "b" : 20009095,
-    "c" : [ 2023, 6, 11, 20, 9, 44, 566000000 ]
+    "c" : [ 2024, 1, 1, 0, 0, 0, 566000000 ]
   },
   "b" : {
     "app_version_code" : 20009095,
@@ -723,7 +723,7 @@
       "is_internal_portal" : false,
       "display_resolution" : "1280x720",
       "video_resolution" : "1080p60",
-      "mac_address" : "00:1A:79:5F:ED:04",
+      "mac_address" : "00:1A:79:6F:1B:B3",
       "serial_number" : "",
       "user_agent" : "default",
       "language" : "en",
@@ -777,7 +777,7 @@
       "is_internal_portal" : false,
       "display_resolution" : "1280x720",
       "video_resolution" : "1080p60",
-      "mac_address" : "00:1a:79:a4:d5:62",
+      "mac_address" : "00:1A:79:62:9C:D7",
       "serial_number" : "",
       "user_agent" : "default",
       "language" : "en",
@@ -831,7 +831,7 @@
       "is_internal_portal" : false,
       "display_resolution" : "1280x720",
       "video_resolution" : "1080p60",
-      "mac_address" : "00:1a:79:ad:86:41",
+      "mac_address" : "00:1A:79:6A:EB:83",
       "serial_number" : "",
       "user_agent" : "default",
       "language" : "en",
