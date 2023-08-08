@@ -204,7 +204,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] 89.45.13.201 #1",
+    "Name":"[TV] Nexon Host #1",
     "Address":"http:\/\/89.45.13.201:8080\/c\/",
     "Mac":"00:1A:79:01:7a:b0",
     "Username":"",
@@ -223,7 +223,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] 89.45.13.201 #2",
+    "Name":"[TV] Nexon Host #2",
     "Address":"http:\/\/89.45.13.201:8080\/c\/",
     "Mac":"00:1A:79:01:70:51",
     "Username":"",
@@ -240,7 +240,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] 89.45.13.201 #3",
+    "Name":"[TV] Nexon Host #3",
     "Address":"http:\/\/89.45.13.201:8080\/c\/",
     "Mac":"00:1A:79:11:2F:5E",
     "Username":"",
