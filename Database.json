@@ -1,8 +1,8 @@
 [
   {
-    "Name":"[TV] IPTV Panel #1",
-    "Address":"http:\/\/tv.iptvpanel.tv:8080\/c\/",
-    "Mac":"00:1A:79:AD:7D:72",
+    "Name":"[TV] 89.45.13.201 #1",
+    "Address":"http:\/\/89.45.13.201:8080\/c\/",
+    "Mac":"00:1A:79:ab:59:c0",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -17,9 +17,9 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] IPTV Panel #2",
-    "Address":"http:\/\/tv.iptvpanel.tv:8080\/c\/",
-    "Mac":"00:1A:79:22:0F:03",
+    "Name":"[TV] 89.45.13.201 #2",
+    "Address":"http:\/\/89.45.13.201:8080\/c\/",
+    "Mac":"00:1A:79:4F:19:EF",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -34,9 +34,9 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] IPTV Panel #3",
-    "Address":"http:\/\/tv.iptvpanel.tv:8080\/c\/",
-    "Mac":"00:1A:79:C6:B5:3A",
+    "Name":"[TV] 89.45.13.201 #3",
+    "Address":"http:\/\/89.45.13.201:8080\/c\/",
+    "Mac":"00:1A:79:41:65:34",
     "Username":"",
     "Password":"",
     "SerialNumber":"",

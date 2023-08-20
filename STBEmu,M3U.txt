@@ -2,6 +2,13 @@
 PORTAL						MAC			EXPIRE
 -----------------------------------------------------------------------------------------------
 
+http://cmskos.bekaks.net:777/c/			00:1A:79:57:76:14	September 1, 2023
+http://cmskos.bekaks.net:777/c/			00:1A:79:46:B6:70	November 6, 2023
+
+http://89.45.13.201:8080/c/			00:1A:79:ab:59:c0
+http://89.45.13.201:8080/c/			00:1A:79:4F:19:EF	October 3, 2023
+http://89.45.13.201:8080/c/			00:1A:79:41:65:34	February 25, 2024
+
 http://letmein.fun:8080/c/			00:1a:79:ab:19:66	May 21, 2024
 http://letmein.fun:8080/c/			00:1a:79:ab:4f:37	May 17, 2024
 http://letmein.fun:8080/c/			00:1a:79:ab:3d:8f	May 16, 2024
@@ -39,18 +46,6 @@ http://letmein.fun:8080/c/			00:1A:79:38:41:90	September 16, 2023
 http://letmein.fun:8080/c/			00:1a:79:ad:4f:d8	September 8, 2023
 http://letmein.fun:8080/c/			00:1A:79:58:0D:00	September 5, 2023
 http://letmein.fun:8080/c/			00:1A:79:4F:4B:74	September 5, 2023
-http://letmein.fun:8080/c/			00:1a:79:a6:0c:6f	August 26, 2023
-http://letmein.fun:8080/c/			00:1a:79:a5:97:97	August 25, 2023
-http://letmein.fun:8080/c/			00:1a:79:ae:be:d2	August 22, 2023
-http://letmein.fun:8080/c/			00:1A:79:48:23:50	August 19, 2023
-http://letmein.fun:8080/c/			00:1A:79:BA:11:E1	August 12, 2023
-http://letmein.fun:8080/c/			00:1A:79:39:31:33	July 30, 2023
-http://letmein.fun:8080/c/			00:1A:79:BA:0C:40	July 30, 2023
-http://letmein.fun:8080/c/			00:1a:79:ab:42:3a	July 21, 2023
-http://letmein.fun:8080/c/			00:1a:79:a5:28:a0	July 21, 2023
-http://letmein.fun:8080/c/			00:1A:79:AE:D9:01	July 6, 2023
-http://letmein.fun:8080/c/			00:1a:79:ad:01:d1	July 6, 2023
-http://letmein.fun:8080/c/			00:1a:79:a5:bb:62	July 4, 2023
 
 http://liveline.store:8000/c/			00:1A:79:5C:E4:5A	June 20, 2024
 http://liveline.store:8000/c/			00:1A:79:56:C7:F2	June 3, 2024
@@ -85,19 +80,7 @@ http://liveline.store:8000/c/			00:1a:79:6e:90:82	September 23, 2023
 http://liveline.store:8000/c/			00:1A:79:5F:BD:78	September 20, 2023
 http://liveline.store:8000/c/			00:1A:79:60:69:DD	September 17, 2023, 9:51 pm
 http://liveline.store:8000/c/			00:1a:79:a3:d2:45	September 3, 2023
-http://liveline.store:8000/c/			00:1A:79:60:63:3B	August 28, 2023
-http://liveline.store:8000/c/			00:1a:79:05:f4:f2	August 28, 2023
-http://liveline.store:8000/c/			00:1A:79:01:00:31	August 26, 2023
-http://liveline.store:8000/c/			00:1A:79:60:5E:5F	August 17, 2023
-http://liveline.store:8000/c/			00:1a:79:9e:e5:c6	August 12, 2023
-http://liveline.store:8000/c/			00:1a:79:22:49:2b	August 10, 2023
-http://liveline.store:8000/c/			00:1A:79:54:DA:D3	August 8, 2023
-http://liveline.store:8000/c/			00:1A:79:52:EB:DC	August 4, 2023
-http://liveline.store:8000/c/			00:1A:79:60:0B:B9	August 4, 2023
-http://liveline.store:8000/c/			00:1a:79:54:58:bb	July 31, 2023
-http://liveline.store:8000/c/			00:1A:79:59:FC:AC	July 27, 2023
-http://liveline.store:8000/c/			00:1A:79:60:60:F8	July 27, 2023
-http://liveline.store:8000/c/			00:1A:79:5D:2B:68	July 22, 2023
+
 
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:59:52:DB	July 31, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:EE:D1	June 25, 2024
@@ -170,99 +153,9 @@ http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:70:0F:06	September 3, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:62:F6:89	September 2, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ab:f2:ad	September 1, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ad:41:fd	September 1, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a9:bc:03	August 28, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a4:d3:5d	August 23, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6A:FA:47	August 20, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6D:90:62	August 15, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:69:FA:58	August 14, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6A:5F:49	August 13, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ad:7c:87	August 13, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6B:0B:9B	August 12, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:C6:FA:4B	August 6, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:AB:55:48	August 5, 2023
 
-http://spainott.site/c/				00:1A:79:d0:93:07	November 29, 2024
-http://spainott.site/c/				00:1A:79:07:70:6c	April 19, 2024
-http://spainott.site/c/				00:1A:79:04:d6:b8	April 3, 2024
-http://spainott.site/c/				00:1A:79:70:6e:c7	March 11, 2024
-http://spainott.site/c/				00:1A:79:65:05:bc	March 8, 2024
-http://spainott.site/c/				00:1A:79:32:86:03	February 24, 2024
-http://spainott.site/c/				00:1A:79:c6:3e:b3	January 14, 2024
-http://spainott.site/c/				00:1A:79:ce:89:3d	January 13, 2024
-http://spainott.site/c/				00:1A:79:b9:98:32	January 10, 2024
-http://spainott.site/c/				00:1A:79:54:20:45	January 7, 2024 
-http://spainott.site/c/				00:1A:79:73:cb:bf	January 3, 2024
-http://spainott.site/c/				00:1A:79:00:19:5c	July 29, 2023
-http://spainott.site/c/				00:1A:79:09:c0:b5	July 28, 2023
-http://spainott.site/c/				00:1A:79:1c:ad:d0	July 20, 2023
-http://spainott.site/c/				00:1A:79:27:10:a4	July 26, 2023
-http://spainott.site/c/				00:1A:79:28:9b:33	July 29, 2023
-http://spainott.site/c/				00:1A:79:39:44:ce	July 20, 2023
-http://spainott.site/c/				00:1A:79:3d:75:23	July 21, 2023
-http://spainott.site/c/				00:1A:79:42:4f:5e	July 28, 2023
-http://spainott.site/c/				00:1A:79:49:cf:89	July 22, 2023
-http://spainott.site/c/				00:1A:79:54:2c:5d	July 23, 2023
-http://spainott.site/c/				00:1A:79:55:c5:38	July 26, 2023
-http://spainott.site/c/				00:1A:79:56:d7:3e	July 29, 2023
-http://spainott.site/c/				00:1A:79:5f:01:cb	July 30, 2023
-http://spainott.site/c/				00:1A:79:63:36:08	July 29, 2023
-http://spainott.site/c/				00:1A:79:6c:8a:82	July 29, 2023
-http://spainott.site/c/				00:1A:79:6c:c1:75	July 27, 2023
-http://spainott.site/c/				00:1A:79:6e:91:84	July 20, 2023
-http://spainott.site/c/				00:1A:79:6e:b5:d0	July 20, 2023
-http://spainott.site/c/				00:1A:79:71:fe:4f	July 24, 2023
-http://spainott.site/c/				00:1A:79:75:4e:9f	July 28, 2023
-http://spainott.site/c/				00:1A:79:75:6c:6f	July 29, 2023
-http://spainott.site/c/				00:1A:79:75:6c:a1	July 29, 2023
-http://spainott.site/c/				00:1A:79:76:ee:77	July 28, 2023
-http://spainott.site/c/				00:1A:79:98:05:f9	July 20, 2023
-http://spainott.site/c/				00:1A:79:a7:82:ec	July 22, 2023
-http://spainott.site/c/				00:1A:79:ac:55:44	July 21, 2023
-http://spainott.site/c/				00:1A:79:b1:58:5f	July 28, 2023
-http://spainott.site/c/				00:1A:79:b5:85:50	July 25, 2023
-http://spainott.site/c/				00:1A:79:c9:3c:5a	July 20, 2023
-http://spainott.site/c/				00:1A:79:d2:01:62	July 20, 2023
-http://spainott.site/c/				00:1A:79:d2:72:91	July 28, 2023
-http://spainott.site/c/				00:1A:79:d9:e7:10	July 30, 2023
-http://spainott.site/c/				00:1A:79:73:16:dc	July 19, 2023
-http://spainott.site/c/				00:1A:79:c3:e7:18	July 19, 2023
-http://spainott.site/c/				00:1A:79:b2:c9:60	July 18, 2023
-http://spainott.site/c/				00:1A:79:39:60:38	July 17, 2023
-http://spainott.site/c/				00:1A:79:28:52:67	July 17, 2023
-http://spainott.site/c/				00:1A:79:0f:fd:0b	July 16, 2023
-http://spainott.site/c/				00:1A:79:6e:bd:8f	July 15, 2023
-http://spainott.site/c/				00:1A:79:8e:8a:04	July 15, 2023
-http://spainott.site/c/				00:1A:79:3a:b5:41	July 14, 2023
-http://spainott.site/c/				00:1A:79:68:f6:8d	July 14, 2023
-http://spainott.site/c/				00:1A:79:50:26:28	July 13, 2023
-http://spainott.site/c/				00:1A:79:3e:81:68	July 12, 2023
-http://spainott.site/c/				00:1A:79:6b:07:ce	July 11, 2023
-http://spainott.site/c/				00:1A:79:b8:2b:a7	July 11, 2023
-http://spainott.site/c/				00:1A:79:4e:bd:fe	July 11, 2023
-http://spainott.site/c/				00:1A:79:0f:08:ee	July 11, 2023
-http://spainott.site/c/				00:1A:79:8a:8d:98	July 11, 2023
-http://spainott.site/c/				00:1A:79:38:11:3c	July 10, 2023
-http://spainott.site/c/				00:1A:79:bc:5e:f8	July 7, 2023
-http://spainott.site/c/				00:1A:79:c1:ed:88	July 7, 2023
-http://spainott.site/c/				00:1A:79:1f:e7:fd	July 7, 2023
-http://spainott.site/c/				00:1A:79:4c:57:86	July 4, 2023
-http://spainott.site/c/				00:1A:79:4c:c2:da	July 4, 2023
-http://spainott.site/c/				00:1A:79:c1:b0:90	July 3, 2023
-http://spainott.site/c/				00:1A:79:c1:28:fe	July 3, 2023
-http://spainott.site/c/				00:1A:79:43:3d:d7	July 2, 2023
-http://spainott.site/c/				00:1A:79:43:49:45	July 2, 2023
 
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:4C:46:33	May 17, 2024
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:AD:7D:72	May 10, 2024
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:4C:37:4E	May 10, 2024
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:D4:F3:CC	February 7, 2024
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:4F:CB:1C	January 14, 2024
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:5B:11:7E	December 12, 2023
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:C6:B5:3A	November 27, 2023
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:AA:10:39	October 20, 2023
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:34:14:4B	September 12, 2023
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:22:0F:03	September 9, 2023
-http://tv.iptvpanel.tv:8080/c/			00:1A:79:4B:9D:98	September 8, 2023
+
 
 ===============================================================================================
 
@@ -273,7 +166,7 @@ M3U PLUS (STRM)		http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&passwo
 EPG XML			http://<STALKER-PORTAL:PORT>/xmltv.php?username=<USERNAME>&password=<PASSWORD>
 FFMPEG (STRM)		http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=create_link&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F151_&series=0&forced_storage=false&disable_ad=false&download=false&force_ch_link_check=false&JsHttpRequest=1-xml
 GET GENRE INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=get_genres&JsHttpRequest=1-xml"
-GET MAIN INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml
+GET MAIN USER INFO	http://<STALKER-PORTAL:PORT>/portal.php?type=account_info&action=get_main_info&mac=<MAC>
 GET ORDERED LIST	http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=get_ordered_list&genre=*&force_ch_link_check=&fav=0&sortby=number&hd=0&p=0
 GET PORTAL INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=stb&action=get_profile
 HANDSHAKE (TOKEN)	http://<STALKER-PORTAL:PORT>/portal.php?type=stb&action=handshake
