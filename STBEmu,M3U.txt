@@ -2,33 +2,41 @@
 PORTAL						MAC			EXPIRE
 -----------------------------------------------------------------------------------------------
 
+						PORTAL #1
+						=========
+http://89.45.13.201:8080/c/			00:1A:79:A9:5F:7F	May 31, 2029
 http://89.45.13.201:8080/c/			00:1A:79:A1:00:02	July 26, 2024
 http://89.45.13.201:8080/c/			00:1A:79:AE:C6:88	May 31, 2024
+http://89.45.13.201:8080/c/			00:1A:79:AB:EC:41	May 26, 2024
 http://89.45.13.201:8080/c/			00:1A:79:50:22:12	May 26, 2024
+http://89.45.13.201:8080/c/			00:1A:79:AB:F0:E4	May 25, 2024
+http://89.45.13.201:8080/c/			00:1A:79:B0:B6:D3	May 1, 2024
 http://89.45.13.201:8080/c/			00:1A:79:47:80:94	April 3, 2024
 http://89.45.13.201:8080/c/			00:1A:79:41:65:34	February 25, 2024
 http://89.45.13.201:8080/c/			00:1A:79:ab:59:c0	January 25, 2024
+http://89.45.13.201:8080/c/			00:1A:79:AF:6E:74	January 13, 2024
 http://89.45.13.201:8080/c/			00:1A:79:AE:73:F4	December 25, 2023
 http://89.45.13.201:8080/c/			00:1A:79:AB:92:10	December 15, 2023
 http://89.45.13.201:8080/c/			00:1A:79:50:22:09	December 2, 2023
 http://89.45.13.201:8080/c/			00:1A:79:AB:94:AA	December 29, 2023
+http://89.45.13.201:8080/c/			00:1A:79:A2:F6:6A	August 21, 2023
+http://89.45.13.201:8080/c/			00:1A:79:AE:D1:80	November 28, 2023
 http://89.45.13.201:8080/c/			00:1A:79:A5:2A:0B	November 28, 2023
 http://89.45.13.201:8080/c/			00:1A:79:AB:94:23	November 25, 2023
+http://89.45.13.201:8080/c/			00:1A:79:AF:71:E7	November 19, 2023
+http://89.45.13.201:8080/c/			00:1A:79:AA:57:FE	October 15, 2023
 http://89.45.13.201:8080/c/			00:1A:79:A1:00:BB	October 7, 2023
 http://89.45.13.201:8080/c/			00:1A:79:4F:19:EF	October 3, 2023
+http://89.45.13.201:8080/c/			00:1A:79:AA:57:E1	September 25, 2023
 
-http://89.45.13.201:8080/c/			00:1A:79:B0:B6:D3	May 1, 2024
-http://89.45.13.201:8080/c/			00:1A:79:AF:6E:74	January 13, 2024
-http://89.45.13.201:8080/c/			00:1A:79:AB:EC:41	May 26, 2024
-http://89.45.13.201:8080/c/			00:1A:79:A2:F6:6A	August 21, 2023
-http://89.45.13.201:8080/c/			00:1A:79:AF:71:E7	November 19, 2023
-http://89.45.13.201:8080/c/			00:1A:79:A9:5F:7F	May 31, 2029
 http://89.45.13.201:8080/c/
-http://89.45.13.201:8080/c/			
-http://89.45.13.201:8080/c/			
+http://89.45.13.201:8080/c/
+http://89.45.13.201:8080/c/
+http://89.45.13.201:8080/c/
 
 
-
+						PORTAL #2
+						=========
 http://letmein.fun:8080/c/			00:1a:79:ab:19:66	May 21, 2024
 http://letmein.fun:8080/c/			00:1a:79:ab:4f:37	May 17, 2024
 http://letmein.fun:8080/c/			00:1a:79:ab:3d:8f	May 16, 2024
@@ -67,6 +75,8 @@ http://letmein.fun:8080/c/			00:1a:79:ad:4f:d8	September 8, 2023
 http://letmein.fun:8080/c/			00:1A:79:58:0D:00	September 5, 2023
 http://letmein.fun:8080/c/			00:1A:79:4F:4B:74	September 5, 2023
 
+						PORTAL #3
+						=========
 http://liveline.store:8000/c/			00:1A:79:5C:E4:5A	June 20, 2024
 http://liveline.store:8000/c/			00:1A:79:56:C7:F2	June 3, 2024
 http://liveline.store:8000/c/			00:1A:79:5F:6B:E4	May 31, 2024
@@ -98,10 +108,11 @@ http://liveline.store:8000/c/			00:1a:79:2a:d2:4a	October 3, 2023
 http://liveline.store:8000/c/			00:1a:79:bb:c7:28	September 24, 2023
 http://liveline.store:8000/c/			00:1a:79:6e:90:82	September 23, 2023
 http://liveline.store:8000/c/			00:1A:79:5F:BD:78	September 20, 2023
-http://liveline.store:8000/c/			00:1A:79:60:69:DD	September 17, 2023, 9:51 pm
+http://liveline.store:8000/c/			00:1A:79:60:69:DD	September 17, 2023
 http://liveline.store:8000/c/			00:1a:79:a3:d2:45	September 3, 2023
 
-
+						PORTAL #4
+						=========
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:59:52:DB	July 31, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:EE:D1	June 25, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:38:EC	May 18, 2024
@@ -173,7 +184,6 @@ http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:70:0F:06	September 3, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:62:F6:89	September 2, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ab:f2:ad	September 1, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ad:41:fd	September 1, 2023
-
 
 
 
