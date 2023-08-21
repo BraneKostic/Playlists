@@ -2,7 +2,7 @@
   {
     "Name":"[TV] 89.45.13.201 #1",
     "Address":"http:\/\/89.45.13.201:8080\/c\/",
-    "Mac":"00:1A:79:ab:59:c0",
+    "Mac":"00:1A:79:A5:2A:0B",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -19,7 +19,7 @@
   {
     "Name":"[TV] 89.45.13.201 #2",
     "Address":"http:\/\/89.45.13.201:8080\/c\/",
-    "Mac":"00:1A:79:4F:19:EF",
+    "Mac":"00:1A:79:A1:00:02",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -36,7 +36,7 @@
   {
     "Name":"[TV] 89.45.13.201 #3",
     "Address":"http:\/\/89.45.13.201:8080\/c\/",
-    "Mac":"00:1A:79:41:65:34",
+    "Mac":"00:1A:79:A1:00:BB",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
