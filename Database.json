@@ -1,6 +1,6 @@
 [
   {
-    "Name":"[TV] 89.45.13.201 #1",
+    "Name":"[TV] Portal 1 #1",
     "Address":"http:\/\/89.45.13.201:8080\/c\/",
     "Mac":"00:1A:79:A5:2A:0B",
     "Username":"",
@@ -17,7 +17,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] 89.45.13.201 #2",
+    "Name":"[TV] Portal 1 #2",
     "Address":"http:\/\/89.45.13.201:8080\/c\/",
     "Mac":"00:1A:79:A1:00:02",
     "Username":"",
@@ -34,7 +34,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] 89.45.13.201 #3",
+    "Name":"[TV] Portal 1 #3",
     "Address":"http:\/\/89.45.13.201:8080\/c\/",
     "Mac":"00:1A:79:A1:00:BB",
     "Username":"",
@@ -51,7 +51,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Let Me In #1",
+    "Name":"[TV] Portal 2 #1",
     "Address":"http:\/\/letmein.fun:8080\/c\/",
     "Mac":"00:1a:79:a6:0c:6f",
     "Username":"",
@@ -68,7 +68,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Let Me In #2",
+    "Name":"[TV] Portal 2 #2",
     "Address":"http:\/\/letmein.fun:8080\/c\/",
     "Mac":"00:1a:79:ab:42:3a",
     "Username":"",
@@ -85,7 +85,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Let Me In #3",
+    "Name":"[TV] Portal 2 #3",
     "Address":"http:\/\/letmein.fun:8080\/c\/",
     "Mac":"00:1A:79:BA:11:E1",
     "Username":"",
@@ -102,7 +102,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] LiveLine #1",
+    "Name":"[TV] Portal 3 #1",
     "Address":"http:\/\/liveline.store:8000\/c\/",
     "Mac":"00:1a:79:2a:d2:4a",
     "Username":"",
@@ -119,7 +119,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] LiveLine #2",
+    "Name":"[TV] Portal 3 #2",
     "Address":"http:\/\/liveline.store:8000\/c\/",
     "Mac":"00:1a:79:2a:d2:20",
     "Username":"",
@@ -136,7 +136,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] LiveLine #3",
+    "Name":"[TV] Portal 3 #3",
     "Address":"http:\/\/liveline.store:8000\/c\/",
     "Mac":"00:1A:79:00:a9:03",
     "Username":"",
@@ -153,7 +153,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] MAG M1 Giillmig #1",
+    "Name":"[TV] Portal 4 #1",
     "Address":"http:\/\/magm1giillmig.funtogether.xyz:8080\/c\/",
     "Mac":"00:1A:79:6F:1B:B3",
     "Username":"",
@@ -170,7 +170,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] MAG M1 Giillmig #2",
+    "Name":"[TV] Portal 4 #2",
     "Address":"http:\/\/magm1giillmig.funtogether.xyz:8080\/c\/",
     "Mac":"00:1A:79:62:9C:D7",
     "Username":"",
@@ -187,62 +187,9 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] MAG M1 Giillmig #3",
+    "Name":"[TV] Portal 4 #3",
     "Address":"http:\/\/magm1giillmig.funtogether.xyz:8080\/c\/",
     "Mac":"00:1A:79:6A:EB:83",
-    "Username":"",
-    "Password":"",
-    "SerialNumber":"",
-    "DeviceID":"",
-    "DeviceID2":"",
-    "Firmware":"",
-    "StbModel":"",
-    "TimeZone":"",
-    "UserAgent":"",
-    "PlayerUserAgent":"",
-    "HttpProxy":"",
-    "RequestMethod":"POST"
-  },
-  {
-    "Name":"[TV] Nexon Host #1",
-    "Address":"http:\/\/89.45.13.201:8080\/c\/",
-    "Mac":"00:1A:79:01:7a:b0",
-    "Username":"",
-    "Password":"",
-    "SerialNumber":"",
-    "DeviceID":"",
-    "DeviceID2":"",
-    "Firmware":"",
-    "StbModel":"",
-    "TimeZone":"",
-    "UserAgent":"",
-    "PlayerUserAgent":"",
-    "Headers":"",
-    "Cookie":"",
-    "HttpProxy":"",
-    "RequestMethod":"POST"
-  },
-  {
-    "Name":"[TV] Nexon Host #2",
-    "Address":"http:\/\/89.45.13.201:8080\/c\/",
-    "Mac":"00:1A:79:01:70:51",
-    "Username":"",
-    "Password":"",
-    "SerialNumber":"",
-    "DeviceID":"",
-    "DeviceID2":"",
-    "Firmware":"",
-    "StbModel":"",
-    "TimeZone":"",
-    "UserAgent":"",
-    "PlayerUserAgent":"",
-    "HttpProxy":"",
-    "RequestMethod":"POST"
-  },
-  {
-    "Name":"[TV] Nexon Host #3",
-    "Address":"http:\/\/89.45.13.201:8080\/c\/",
-    "Mac":"00:1A:79:11:2F:5E",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
