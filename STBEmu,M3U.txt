@@ -208,9 +208,24 @@ http://89.45.13.201:8080/c/			00:1A:79:AD:50:4B	September 5, 2023
 
 						PORTAL #2
 						=========
+http://letmein.fun:8080/c/			00:1A:79:A6:C7:DB	September 5, 2024
+http://letmein.fun:8080/c/			00:1A:79:AF:6E:85	August 13, 2024
+http://letmein.fun:8080/c/			00:1A:79:A4:96:69	August 8, 2024
+http://letmein.fun:8080/c/			00:1A:79:A3:8F:B2	July 27, 2024
+http://letmein.fun:8080/c/			00:1A:79:AB:98:05	June 23, 2024
+http://letmein.fun:8080/c/			00:1A:79:AE:C6:95	July 22, 2024
+http://letmein.fun:8080/c/			00:1A:79:A3:F0:64	June 20, 2024
+http://letmein.fun:8080/c/			00:1A:79:A5:D4:29	June 7, 2024
+http://letmein.fun:8080/c/			00:1A:79:A3:F3:81	June 6, 2024
+http://letmein.fun:8080/c/			00:1A:79:A6:74:9E	June 3, 2024
 http://letmein.fun:8080/c/			00:1a:79:ab:19:66	May 21, 2024
 http://letmein.fun:8080/c/			00:1a:79:ab:4f:37	May 17, 2024
 http://letmein.fun:8080/c/			00:1a:79:ab:3d:8f	May 16, 2024
+http://letmein.fun:8080/c/			00:1A:79:AB:4E:52	May 16, 2024
+http://letmein.fun:8080/c/			00:1A:79:AB:A5:60	May 1, 2024
+http://letmein.fun:8080/c/			00:1A:79:A3:9F:3C	April 11, 2024
+http://letmein.fun:8080/c/			00:1A:79:A3:9F:67	March 29, 2024
+http://letmein.fun:8080/c/			00:1A:79:AD:7F:11	March 23, 2024
 http://letmein.fun:8080/c/			00:1a:79:aa:7c:ec	March 17, 2024
 http://letmein.fun:8080/c/			00:1a:79:a9:1b:16	March 15, 2024
 http://letmein.fun:8080/c/			00:1a:79:a4:60:38	March 9, 2024
@@ -221,64 +236,143 @@ http://letmein.fun:8080/c/			00:1A:79:3B:18:31	March 1, 2024
 http://letmein.fun:8080/c/			00:1A:79:5A:A6:3F	March 1, 2024
 http://letmein.fun:8080/c/			00:1A:79:56:A9:A7	February 26, 2024
 http://letmein.fun:8080/c/			00:1A:79:AE:2C:FF	February 21, 2024
+http://letmein.fun:8080/c/			00:1A:79:AB:51:8B	February 19, 2024
 http://letmein.fun:8080/c/			00:1a:79:ab:51:8b	February 12, 2024
 http://letmein.fun:8080/c/			00:1a:79:a3:5b:81	February 11, 2024
+http://letmein.fun:8080/c/			00:1A:79:A3:F7:89	February 9, 2024
+http://letmein.fun:8080/c/			00:1A:79:AE:21:0D	February 6, 2024
 http://letmein.fun:8080/c/			00:1A:79:5C:F0:35	February 6, 2024
 http://letmein.fun:8080/c/			00:1a:79:a3:f7:89	February 2, 2024
+http://letmein.fun:8080/c/			00:1A:79:B0:C1:69	January 29, 2024
+http://letmein.fun:8080/c/			00:1A:79:A9:01:4E	January 22, 2024
+http://letmein.fun:8080/c/			00:1A:79:AF:74:BD	January 18, 2024
 http://letmein.fun:8080/c/			00:1a:79:ae:50:16	January 17, 2024
+http://letmein.fun:8080/c/			00:1A:79:AF:78:A4	January 4, 2024
+http://letmein.fun:8080/c/			00:1A:79:AB:94:62	December 31, 2023
 http://letmein.fun:8080/c/			00:1a:79:a4:30:a3	December 26, 2023
+http://letmein.fun:8080/c/			00:1A:79:AB:9A:A0	December 25, 2023
+http://letmein.fun:8080/c/			00:1A:79:A2:EF:9F	December 17, 2023
 http://letmein.fun:8080/c/			00:1A:79:BA:11:42	December 15, 2023
+http://letmein.fun:8080/c/			00:1A:79:AA:AD:D0	December 15, 2023
+http://letmein.fun:8080/c/			00:1A:79:AD:33:26	December 11, 2023
 http://letmein.fun:8080/c/			00:1a:79:ab:d2:90	December 4, 2023
+http://letmein.fun:8080/c/			00:1A:79:A2:F7:34	December 1, 2023
 http://letmein.fun:8080/c/			00:1A:79:30:E6:93	November 29, 2023
+http://letmein.fun:8080/c/			00:1A:79:AD:E3:00	November 28, 2023
 http://letmein.fun:8080/c/			00:1A:79:B0:91:1D	November 27, 2023
 http://letmein.fun:8080/c/			00:1a:79:ae:77:c0	November 26, 2023
+http://letmein.fun:8080/c/			00:1A:79:AB:A5:85	November 25, 2023
+http://letmein.fun:8080/c/			00:1A:79:AE:21:D4	November 23, 2023
+http://letmein.fun:8080/c/			00:1A:79:AF:70:04	November 15, 2023
+http://letmein.fun:8080/c/			00:1A:79:B0:B6:34	November 14, 2023
+http://letmein.fun:8080/c/			00:1A:79:AE:20:C0	November 13, 2023
+http://letmein.fun:8080/c/			00:1A:79:B0:BE:4A	November 7, 2023
+http://letmein.fun:8080/c/			00:1A:79:A1:07:7D	November 5, 2023
+http://letmein.fun:8080/c/			00:1A:79:AF:1F:6E	November 4, 2023
+http://letmein.fun:8080/c/			00:1A:79:AF:71:4E	November 4, 2023
 http://letmein.fun:8080/c/			00:1A:79:34:1E:19	November 1, 2023
+http://letmein.fun:8080/c/			00:1A:79:AF:6E:79	November 1, 2023
 http://letmein.fun:8080/c/			00:1a:79:a4:8b:00	October 31, 2023
+http://letmein.fun:8080/c/			00:1A:79:A6:81:97	October 28, 2023
 http://letmein.fun:8080/c/			00:1a:79:a3:db:e9	October 28, 2023
+http://letmein.fun:8080/c/			00:1A:79:AB:48:D7	October 20, 2023
+http://letmein.fun:8080/c/			00:1A:79:B0:71:0D	October 19, 2023
 http://letmein.fun:8080/c/			00:1a:79:ad:04:59	October 19, 2023
 http://letmein.fun:8080/c/			00:1A:79:AA:C1:E2	October 17, 2023
 http://letmein.fun:8080/c/			00:1A:79:3B:7F:73	October 14, 2023
 http://letmein.fun:8080/c/			00:1A:79:50:38:F4	October 6, 2023
+http://letmein.fun:8080/c/			00:1A:79:AE:20:88	October 3, 2023
 http://letmein.fun:8080/c/			00:1A:79:BA:11:07	September 30, 2023
 http://letmein.fun:8080/c/			00:1A:79:4E:B8:B0	September 26, 2023
+http://letmein.fun:8080/c/			00:1A:79:A4:38:E1	September 24, 2023
+http://letmein.fun:8080/c/			00:1A:79:A1:AB:F4	September 22, 2023
+http://letmein.fun:8080/c/			00:1A:79:AC:DE:C1	September 21, 2023
 http://letmein.fun:8080/c/			00:1A:79:38:41:90	September 16, 2023
+http://letmein.fun:8080/c/			00:1A:79:AB:E8:0D	September 15, 2023
+http://letmein.fun:8080/c/			00:1A:79:AE:D9:7A	September 15, 2023
+http://letmein.fun:8080/c/			00:1A:79:AB:9A:26	September 13, 2023
+http://letmein.fun:8080/c/			00:1A:79:AD:7E:0E	September 12, 2023
+http://letmein.fun:8080/c/			00:1A:79:AB:F2:AD	September 8, 2023
 http://letmein.fun:8080/c/			00:1a:79:ad:4f:d8	September 8, 2023
+http://letmein.fun:8080/c/			00:1A:79:AF:6E:61	September 7, 2023
+http://letmein.fun:8080/c/			00:1A:79:AE:C3:25	September 7, 2023
 http://letmein.fun:8080/c/			00:1A:79:58:0D:00	September 5, 2023
 http://letmein.fun:8080/c/			00:1A:79:4F:4B:74	September 5, 2023
+http://letmein.fun:8080/c/			00:1A:79:B0:C3:E0	September 3, 2023
 
 						PORTAL #3
 						=========
+http://liveline.store:8000/c/			00:1A:79:A6:82:B4	July 31, 2024
+http://liveline.store:8000/c/			00:1A:79:A1:AC:47	July 8, 2024
+http://liveline.store:8000/c/			00:1A:79:AB:F4:A4	June 25, 2024
 http://liveline.store:8000/c/			00:1A:79:5C:E4:5A	June 20, 2024
 http://liveline.store:8000/c/			00:1A:79:25:CD:D1	June 17, 2024
 http://liveline.store:8000/c/			00:1A:79:56:C7:F2	June 3, 2024
 http://liveline.store:8000/c/			00:1A:79:5F:6B:E4	May 31, 2024
+http://liveline.store:8000/c/			00:1A:79:AD:87:7C	May 27, 2024
+http://liveline.store:8000/c/			00:1A:79:AE:7F:B2	May 25, 2024
+http://liveline.store:8000/c/			00:1A:79:A1:F9:F5	May 25, 2024
 http://liveline.store:8000/c/			00:1A:79:5E:CF:F1	May 24, 2024
+http://liveline.store:8000/c/			00:1A:79:AD:CE:B8	May 9, 2024
+http://liveline.store:8000/c/			00:1A:79:A3:00:78	May 8, 2024
+http://liveline.store:8000/c/			00:1A:79:AC:DE:01	March 30, 2024
 http://liveline.store:8000/c/			00:1A:79:00:a9:03	April 28, 2024
 http://liveline.store:8000/c/			00:1A:79:28:0F:82	April 28, 2024
 http://liveline.store:8000/c/			00:1A:79:5F:C0:AB	April 17, 2024
+http://liveline.store:8000/c/			00:1A:79:A3:96:EC	April 14, 2024
+http://liveline.store:8000/c/			00:1A:79:A3:3F:67	April 3, 2024
 http://liveline.store:8000/c/			00:1A:79:23:E2:6E	March 25, 2024
 http://liveline.store:8000/c/			00:1A:79:57:19:46	March 25, 2024
+http://liveline.store:8000/c/			00:1A:79:AB:98:7C	March 11, 2024
 http://liveline.store:8000/c/			00:1A:79:21:01:8A	February 19, 2024
 http://liveline.store:8000/c/			00:1A:79:29:02:11	February 15, 2024
+http://liveline.store:8000/c/			00:1A:79:AF:6D:84	February 13, 2024
 http://liveline.store:8000/c/			00:1A:79:59:05:23	February 11, 2024
 http://liveline.store:8000/c/			00:1A:79:29:01:21	February 7, 2024
 http://liveline.store:8000/c/			00:1A:79:25:D2:B1	February 7, 2024
+http://liveline.store:8000/c/			00:1A:79:AF:C0:D3	February 7, 2024
+http://liveline.store:8000/c/			00:1A:79:A9:B0:5A	February 5, 2024
+http://liveline.store:8000/c/			00:1A:79:B0:C2:82	February 5, 2024
+http://liveline.store:8000/c/			00:1A:79:A2:EE:7C	January 31, 2024
+http://liveline.store:8000/c/			00:1A:79:AA:59:32	January 19, 2024
+http://liveline.store:8000/c/			00:1A:79:B0:BE:90	January 14, 2024
+http://liveline.store:8000/c/			00:1A:79:A3:A5:B6	January 9, 2024
 http://liveline.store:8000/c/			00:1A:79:5E:26:E0	January 7, 2024
+http://liveline.store:8000/c/			00:1A:79:A3:EB:EB	January 6, 2024
+http://liveline.store:8000/c/			00:1A:79:AF:76:79	January 6, 2024
+http://liveline.store:8000/c/			00:1A:79:AC:8E:EA	January 2, 2024
+http://liveline.store:8000/c/			00:1A:79:AE:CB:8A	December 30, 2023
 http://liveline.store:8000/c/			00:1A:79:2A:49:9A	December 29, 2023
 http://liveline.store:8000/c/			00:1A:79:5E:27:C6	December 28, 2023
 http://liveline.store:8000/c/			00:1A:79:31:D1:D8	December 18, 2023
+http://liveline.store:8000/c/			00:1A:79:AB:52:61	December 15, 2023
+http://liveline.store:8000/c/			00:1A:79:A9:F8:8F	December 14, 2023
+http://liveline.store:8000/c/			00:1A:79:AE:C5:4F	December 7, 2023
+http://liveline.store:8000/c/			00:1A:79:AB:EA:39	December 1, 2023
 http://liveline.store:8000/c/			00:1A:79:56:72:D5	November 30, 2023
 http://liveline.store:8000/c/			00:1A:79:58:18:4F	November 30, 2023
+http://liveline.store:8000/c/			00:1A:79:A1:AF:D6	November 30, 2023
+http://liveline.store:8000/c/			00:1A:79:A1:A3:D7	November 30, 2023
 http://liveline.store:8000/c/			00:1A:79:5B:96:E2	November 29, 2023
+http://liveline.store:8000/c/			00:1A:79:A7:BC:8D	November 28, 2023
 http://liveline.store:8000/c/			00:1a:79:a2:f9:9e	November 28, 2023
+http://liveline.store:8000/c/			00:1A:79:A6:82:0D	November 26, 2023
 http://liveline.store:8000/c/			00:1A:79:28:5F:73	November 19, 2023
+http://liveline.store:8000/c/			00:1A:79:A1:FF:7A	November 19, 2023
 http://liveline.store:8000/c/			00:1A:79:1D:6B:60	November 18, 2023
+http://liveline.store:8000/c/			00:1A:79:AD:7D:88	November 17, 2023
+http://liveline.store:8000/c/			00:1A:79:A2:F6:D8	November 16, 2023
 http://liveline.store:8000/c/			00:1a:79:45:21:8f	November 14, 2023
+http://liveline.store:8000/c/			00:1A:79:A1:0F:B5	November 11, 2023
 http://liveline.store:8000/c/			00:1A:79:5E:CC:05	November 6, 2023
+http://liveline.store:8000/c/			00:1A:79:AB:E2:5D	November 2, 2023
 http://liveline.store:8000/c/			00:1A:79:56:2C:2D	October 31, 2023
 http://liveline.store:8000/c/			00:1A:79:54:87:4C	October 30, 2023
+http://liveline.store:8000/c/			00:1A:79:AF:71:99	October 25, 2023
+http://liveline.store:8000/c/			00:1A:79:AB:51:8A	October 24, 2023
 http://liveline.store:8000/c/			00:1a:79:ad:0d:a4	October 21, 2023
 http://liveline.store:8000/c/			00:1A:79:56:2C:2D	October 31, 2023
+http://liveline.store:8000/c/			00:1A:79:AF:71:9C	October 18, 2023
 http://liveline.store:8000/c/			00:1A:79:56:28:C0	October 16, 2023
 http://liveline.store:8000/c/			00:1a:79:ec:c2:be	October 15, 2023
 http://liveline.store:8000/c/			00:1A:79:23:43:A1	October 14, 2023
@@ -286,27 +380,39 @@ http://liveline.store:8000/c/			00:1a:79:c3:6c:05	October 10, 2023
 http://liveline.store:8000/c/			00:1A:79:60:6B:98	October 7, 2023
 http://liveline.store:8000/c/			00:1a:79:2a:d2:20	October 3, 2023
 http://liveline.store:8000/c/			00:1a:79:2a:d2:4a	October 3, 2023
+http://liveline.store:8000/c/			00:1A:79:AC:D7:9E	September 26, 2023
+http://liveline.store:8000/c/			00:1A:79:A4:44:83	September 26, 2023
 http://liveline.store:8000/c/			00:1a:79:bb:c7:28	September 24, 2023
 http://liveline.store:8000/c/			00:1a:79:6e:90:82	September 23, 2023
+http://liveline.store:8000/c/			00:1A:79:A6:85:2B	September 23, 2023
+http://liveline.store:8000/c/			00:1A:79:A5:DC:2F	September 23, 2023
+http://liveline.store:8000/c/			00:1A:79:A6:2B:AA	September 22, 2023
 http://liveline.store:8000/c/			00:1A:79:21:A5:58	September 21, 2023
 http://liveline.store:8000/c/			00:1A:79:5F:BD:78	September 20, 2023
 http://liveline.store:8000/c/			00:1A:79:60:69:DD	September 17, 2023
 http://liveline.store:8000/c/			00:1A:79:29:04:A0	September 14, 2023
+http://liveline.store:8000/c/			00:1A:79:A7:CC:49	September 10, 2023
 http://liveline.store:8000/c/			00:1a:79:a3:d2:45	September 3, 2023
+http://liveline.store:8000/c/			00:1A:79:A6:D6:30	September 1, 2023
 
 						PORTAL #4
 						=========
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:69:6C:9F	February 13, 2025
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:59:52:DB	July 31, 2024
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6B:63:A9	July 24, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:48:3E	July 20, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:66:21:5A	July 16, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:EE:D1	June 25, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:3F:BD	June 18, 2024
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:69:C7:E9	June 12, 2024
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:0E:7B	May 23, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:38:EC	May 18, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:62:B8:BC	May 16, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:62:5E:08	April 29, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6D:DD:89	April 25, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:65:36:36	April 16, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:8E:FB	March 24, 2024
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:66:8C:95	March 2, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:40:6A:35	April 23, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ad:de:a7	March 18, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ae:1f:6c	March 16, 2024
@@ -316,18 +422,23 @@ http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6B:9A:93	March 11, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:69:1D:73	March 8, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6A:A5:FA	March 7, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ab:49:ef	March 5, 2024
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6E:45:59	March 3, 2024
+http://magm1giillmig.funtogether.xyz:8080/c/ 	00:1A:79:62:10:54	February 24, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:65:8B:7F	February 21, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ae:64:50	February 21, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:65:8B:7F	February 21, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a2:96:d7	February 17, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:5E:A7	February 14, 2024
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:5E:A7	February 14, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a3:5b:81	February 11, 2024
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6A:0F:7E	February 8, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ae:00:2d	February 8, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6B:F1:A2	January 30, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a7:a5:8a	January 26, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a6:47:39	January 20, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:5A:9A:1C	January 20, 2024	
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:8A:F7	January 18, 2024
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:F1:00	January 18, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:B0:56	January 12, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a5:e2:2b	January 10, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a2:14:0e	January 5, 2024
@@ -340,6 +451,7 @@ http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6A:05:78	December 15, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6E:92:26	December 9, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:AB:56:5D	December 6, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:62:5F:F2	December 2, 2023
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:02:36	November 28, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:91:A3	November 21, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ae:70:67	November 19, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6D:3B:31	November 5, 2023
@@ -372,8 +484,11 @@ http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6D:8B:33	September 24, 202
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a3:b4:2b	September 22, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:52:39	September 20, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6A:5C:83	September 19, 2023
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:50:95	September 19, 2023
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:5B:13	September 19, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:67:2B:5C	September 18, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:69:FA:5B	September 17, 2023
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:61:1A:2D	September 16, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6F:C1:7D	September 15, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:66:26:53	September 14, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:67:7B:5F	September 9, 2023
@@ -390,12 +505,6 @@ http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ab:f2:ad	September 1, 2023
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ad:41:fd	September 1, 2023
 
 
-
-http://magm1giillmig.funtogether.xyz:8080/c/
-http://magm1giillmig.funtogether.xyz:8080/c/
-http://magm1giillmig.funtogether.xyz:8080/c/
-http://magm1giillmig.funtogether.xyz:8080/c/
-http://magm1giillmig.funtogether.xyz:8080/c/
 
 ===============================================================================================
 
