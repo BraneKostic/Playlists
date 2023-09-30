@@ -339,7 +339,7 @@
   }, {
     "profile" : {
       "uuid" : "00000000-0000-0000-0000-000000000013",
-      "name" : "Portal 1 #3 (OFFLINE)",
+      "name" : "Portal 1 #3",
       "stb_model" : "mag-424",
       "portal_url" : "http://putin.streamtv.to:8080/c/",
       "is_internal_portal" : false,
@@ -453,7 +453,7 @@
       "is_internal_portal" : false,
       "display_resolution" : "1280x720",
       "video_resolution" : "1080p60",
-      "mac_address" : "00:1a:79:a3:db:e9",
+      "mac_address" : "00:1A:79:AB:94:62",
       "serial_number" : "",
       "user_agent" : "default",
       "language" : "en",
@@ -777,7 +777,7 @@
       "is_internal_portal" : false,
       "display_resolution" : "1280x720",
       "video_resolution" : "1080p60",
-      "mac_address" : "00:1A:79:62:9C:D7",
+      "mac_address" : "00:1A:79:64:35:27",
       "serial_number" : "",
       "user_agent" : "default",
       "language" : "en",
