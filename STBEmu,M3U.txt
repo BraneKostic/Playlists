@@ -7,6 +7,7 @@ PORTAL						MAC			EXPIRE
 http://putin.streamtv.to:8080/c/		00:1A:79:4F:26:70	September 9, 2024, 3:21 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:48:14:D8	September 3, 2024, 7:42 am
 http://putin.streamtv.to:8080/c/		00:1A:79:A8:B3:4C	August 26, 2024, 2:31 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:AF:7A:EF	August 26, 2024, 10:59 am
 http://putin.streamtv.to:8080/c/		00:1A:79:AA:A8:6F	August 20, 2024, 9:18 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:A9:F6:FA	August 20, 2024, 4:58 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:50:18:AE	August 20, 2024, 3:46 pm
@@ -19,19 +20,33 @@ http://putin.streamtv.to:8080/c/		00:1A:79:A3:8F:B2	July 27, 2024, 12:07 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AF:BD:20	July 27, 2024, 8:52 am
 http://putin.streamtv.to:8080/c/		00:1A:79:4E:84:D3	July 24, 2024, 9:34 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AB:98:05	June 23, 2024, 6:06 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:A5:D4:29	June 7, 2024, 12:49 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:AB:51:2D	June 23, 2024, 2:17 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:44:89:A9	June 22, 2024, 3:07 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:A5:D4:29	June 7, 2024, 12:49 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:AA:5A:94	June 7, 2024, 10:20 am
 http://putin.streamtv.to:8080/c/		00:1A:79:4E:84:1A	May 30, 2024, 8:58 am
+http://putin.streamtv.to:8080/c/		00:1A:79:AB:4E:70	May 17, 2024, 5:13 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:4A:AC:FB	May 14, 2024, 6:09 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AB:3F:2B	May 6, 2024, 10:37 am
+http://putin.streamtv.to:8080/c/		00:1A:79:AD:90:BD	May 6, 2024, 6:20 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:AB:A2:12	April 29, 2024, 6:16 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:4E:83:7E	April 19, 2024, 11:38 am
 http://putin.streamtv.to:8080/c/		00:1A:79:45:D6:B4	April 17, 2024, 4:20 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:B0:BF:2A	March 30, 2024, 6:35 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:48:11:EE	March 26, 2024, 7:07 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:AD:DE:A7	March 25, 2024, 11:46 am
 http://putin.streamtv.to:8080/c/		00:1A:79:50:C2:0D	March 23, 2024, 5:16 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:4D:3B:FF	March 9, 2024, 10:02 am
+http://putin.streamtv.to:8080/c/		00:1A:79:A2:FB:1D	March 5, 2024, 8:19 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:A5:3B:9E	March 1, 2024, 6:51 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:AB:54:22	February 25, 2024, 6:22 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:48:0E:AF	February 17, 2024, 6:14 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:A2:FE:52	February 16, 2024, 7:54 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:AF:77:0E	February 12, 2024, 2:57 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:AD:3C:62	January 28, 2024, 11:59 am
 http://putin.streamtv.to:8080/c/		00:1A:79:AE:24:46	January 22, 2024, 9:24 am
 http://putin.streamtv.to:8080/c/		00:1A:79:4B:94:3E	January 13, 2024, 6:50 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:B0:C3:96	January 3, 2024, 9:12 am
 http://putin.streamtv.to:8080/c/		00:1A:79:4F:1E:6B	December 31, 2023, 11:47 am
 http://putin.streamtv.to:8080/c/		00:1A:79:AD:83:52	December 30, 2023, 12:01 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:4A:49:2E	December 24, 2023, 4:35 pm
@@ -61,26 +76,6 @@ http://putin.streamtv.to:8080/c/		00:1A:79:AB:50:71	November 8, 2023, 2:03 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AF:1F:6E	November 4, 2023, 4:58 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:41:AB:5E	November 3, 2023, 5:10 am
 http://putin.streamtv.to:8080/c/		00:1A:79:A3:97:C6	November 2, 2023, 2:03 pm
-
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:4E:70	May 17, 2024, 5:13 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AF:77:0E	February 12, 2024, 2:57 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:B0:BF:2A	March 30, 2024, 6:35 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:A2:FB:1D	March 5, 2024, 8:19 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:A2:FE:52	February 16, 2024, 7:54 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AD:3C:62	January 28, 2024, 11:59 am
-http://putin.streamtv.to:8080/c/		00:1A:79:A5:3B:9E	March 1, 2024, 6:51 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:A2:12	April 29, 2024, 6:16 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AD:DE:A7	March 25, 2024, 11:46 am
-http://putin.streamtv.to:8080/c/		00:1A:79:AA:5A:94	June 7, 2024, 10:20 am
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:51:2D	June 23, 2024, 2:17 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AF:7A:EF	August 26, 2024, 10:59 am
-http://putin.streamtv.to:8080/c/		00:1A:79:B0:C3:96	January 3, 2024, 9:12 am
-http://putin.streamtv.to:8080/c/		00:1A:79:AD:90:BD	May 6, 2024, 6:20 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:54:22	February 25, 2024, 6:22 pm
-
-
-
-
 
 						PORTAL #2
 						=========
