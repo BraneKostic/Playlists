@@ -4,8 +4,12 @@ PORTAL						MAC			EXPIRE
 
 						PORTAL #1
 						=========
+http://putin.streamtv.to:8080/c/		00:1A:79:59:53:34	November 12, 2024, 11:17 am
+http://putin.streamtv.to:8080/c/		00:1A:79:58:0D:5B	October 30, 2024, 8:44 am
+http://putin.streamtv.to:8080/c/		00:1A:79:5A:9D:AC	September 13, 2024, 7:46 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:4F:26:70	September 9, 2024, 3:21 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:48:14:D8	September 3, 2024, 7:42 am
+http://putin.streamtv.to:8080/c/		00:1A:79:57:BA:38	August 28, 2024, 9:35 am
 http://putin.streamtv.to:8080/c/		00:1A:79:A8:B3:4C	August 26, 2024, 2:31 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AF:7A:EF	August 26, 2024, 10:59 am
 http://putin.streamtv.to:8080/c/		00:1A:79:AA:A8:6F	August 20, 2024, 9:18 pm
@@ -25,57 +29,37 @@ http://putin.streamtv.to:8080/c/		00:1A:79:44:89:A9	June 22, 2024, 3:07 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:A5:D4:29	June 7, 2024, 12:49 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AA:5A:94	June 7, 2024, 10:20 am
 http://putin.streamtv.to:8080/c/		00:1A:79:4E:84:1A	May 30, 2024, 8:58 am
+http://putin.streamtv.to:8080/c/		00:1A:79:54:DD:75	May 19, 2024, 9:27 am
 http://putin.streamtv.to:8080/c/		00:1A:79:AB:4E:70	May 17, 2024, 5:13 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:4A:AC:FB	May 14, 2024, 6:09 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AB:3F:2B	May 6, 2024, 10:37 am
 http://putin.streamtv.to:8080/c/		00:1A:79:AD:90:BD	May 6, 2024, 6:20 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:5D:CF:B9	April 30, 2024, 12:45 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AB:A2:12	April 29, 2024, 6:16 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:5D:D1:28	April 27, 2024, 3:13 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:5B:92:A3	April 26, 2024, 11:11 am
 http://putin.streamtv.to:8080/c/		00:1A:79:4E:83:7E	April 19, 2024, 11:38 am
 http://putin.streamtv.to:8080/c/		00:1A:79:45:D6:B4	April 17, 2024, 4:20 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:5E:C7:16	April 1, 2024, 10:41 am
 http://putin.streamtv.to:8080/c/		00:1A:79:B0:BF:2A	March 30, 2024, 6:35 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:48:11:EE	March 26, 2024, 7:07 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AD:DE:A7	March 25, 2024, 11:46 am
 http://putin.streamtv.to:8080/c/		00:1A:79:50:C2:0D	March 23, 2024, 5:16 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:59:01:E0	March 22, 2024, 10:20 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:5A:9E:66	March 10, 2024, 9:15 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:4D:3B:FF	March 9, 2024, 10:02 am
 http://putin.streamtv.to:8080/c/		00:1A:79:A2:FB:1D	March 5, 2024, 8:19 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:A5:3B:9E	March 1, 2024, 6:51 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:59:02:32	February 29, 2024, 4:20 pm	
 http://putin.streamtv.to:8080/c/		00:1A:79:AB:54:22	February 25, 2024, 6:22 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:48:0E:AF	February 17, 2024, 6:14 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:A2:FE:52	February 16, 2024, 7:54 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AF:77:0E	February 12, 2024, 2:57 pm
+http://putin.streamtv.to:8080/c/		00:1A:79:5D:D3:F0	February 4, 2024, 2:54 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:AD:3C:62	January 28, 2024, 11:59 am
 http://putin.streamtv.to:8080/c/		00:1A:79:AE:24:46	January 22, 2024, 9:24 am
 http://putin.streamtv.to:8080/c/		00:1A:79:4B:94:3E	January 13, 2024, 6:50 pm
 http://putin.streamtv.to:8080/c/		00:1A:79:B0:C3:96	January 3, 2024, 9:12 am
-http://putin.streamtv.to:8080/c/		00:1A:79:4F:1E:6B	December 31, 2023, 11:47 am
-http://putin.streamtv.to:8080/c/		00:1A:79:AD:83:52	December 30, 2023, 12:01 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:4A:49:2E	December 24, 2023, 4:35 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:E5:B3	December 22, 2023, 10:47 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:4D:7B:3E	December 22, 2023, 8:54 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:4F:1A:BE	December 20, 2023, 4:12 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:B0:BD:C6	December 19, 2023, 5:24 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:4F:CD:01	December 18, 2023, 2:00 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AF:76:2D	December 17, 2023, 6:26 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:A6:33:57	December 15, 2023, 8:16 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:A5:77	December 15, 2023, 4:02 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AD:33:26	December 11, 2023, 2:10 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:A1:F8:C5	December 10, 2023, 7:26 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:4E:31:BC	December 6, 2023, 6:42 am
-http://putin.streamtv.to:8080/c/		00:1A:79:4F:C4:CD	December 6, 2023, 8:43 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:B0:BA:23	December 4, 2023, 7:37 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:A3:F0:A6	December 2, 2023, 2:57 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:47:73:84	December 2, 2023, 10:51 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AF:76:32	December 1, 2023, 10:06 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:4B:43:6C	December 1, 2023, 4:42 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:9C:E5	December 1, 2023, 9:58 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AF:6A:4F	November 28, 2023, 3:20 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:47:30	November 26, 2023, 5:51 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:B0:B6:34	November 14, 2023, 9:04 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:47:1E:C7	November 10, 2023, 7:46 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:50:71	November 8, 2023, 2:03 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:AF:1F:6E	November 4, 2023, 4:58 pm
-http://putin.streamtv.to:8080/c/		00:1A:79:41:AB:5E	November 3, 2023, 5:10 am
-http://putin.streamtv.to:8080/c/		00:1A:79:A3:97:C6	November 2, 2023, 2:03 pm
 
 						PORTAL #2
 						=========
@@ -113,35 +97,12 @@ http://letmein.fun:8080/c/			00:1a:79:a3:5b:81	February 11, 2024
 http://letmein.fun:8080/c/			00:1A:79:A3:F7:89	February 9, 2024
 http://letmein.fun:8080/c/			00:1A:79:AE:21:0D	February 6, 2024
 http://letmein.fun:8080/c/			00:1A:79:5C:F0:35	February 6, 2024
+http://letmein.fun:8080/c/			00:1a:79:a3:f7:89	February 2, 2024
 http://letmein.fun:8080/c/			00:1A:79:B0:C1:69	January 29, 2024
 http://letmein.fun:8080/c/			00:1A:79:A9:01:4E	January 22, 2024
 http://letmein.fun:8080/c/			00:1A:79:AF:74:BD	January 18, 2024
 http://letmein.fun:8080/c/			00:1a:79:ae:50:16	January 17, 2024
 http://letmein.fun:8080/c/			00:1A:79:AF:78:A4	January 4, 2024
-http://letmein.fun:8080/c/			00:1A:79:AB:94:62	December 31, 2023
-http://letmein.fun:8080/c/			00:1a:79:a4:30:a3	December 26, 2023
-http://letmein.fun:8080/c/			00:1A:79:AB:9A:A0	December 25, 2023
-http://letmein.fun:8080/c/			00:1A:79:A2:EF:9F	December 17, 2023
-http://letmein.fun:8080/c/			00:1A:79:BA:11:42	December 15, 2023
-http://letmein.fun:8080/c/			00:1A:79:AA:AD:D0	December 15, 2023
-http://letmein.fun:8080/c/			00:1A:79:AD:33:26	December 11, 2023
-http://letmein.fun:8080/c/			00:1a:79:ab:d2:90	December 4, 2023
-http://letmein.fun:8080/c/			00:1A:79:A2:F7:34	December 1, 2023
-http://letmein.fun:8080/c/			00:1A:79:30:E6:93	November 29, 2023
-http://letmein.fun:8080/c/			00:1A:79:AD:E3:00	November 28, 2023
-http://letmein.fun:8080/c/			00:1A:79:B0:91:1D	November 27, 2023
-http://letmein.fun:8080/c/			00:1a:79:ae:77:c0	November 26, 2023
-http://letmein.fun:8080/c/			00:1A:79:AB:A5:85	November 25, 2023
-http://letmein.fun:8080/c/			00:1A:79:AE:21:D4	November 23, 2023
-http://letmein.fun:8080/c/			00:1A:79:AF:70:04	November 15, 2023
-http://letmein.fun:8080/c/			00:1A:79:B0:B6:34	November 14, 2023
-http://letmein.fun:8080/c/			00:1A:79:AE:20:C0	November 13, 2023
-http://letmein.fun:8080/c/			00:1A:79:B0:BE:4A	November 7, 2023
-http://letmein.fun:8080/c/			00:1A:79:A1:07:7D	November 5, 2023
-http://letmein.fun:8080/c/			00:1A:79:AF:1F:6E	November 4, 2023
-http://letmein.fun:8080/c/			00:1A:79:AF:71:4E	November 4, 2023
-http://letmein.fun:8080/c/			00:1A:79:34:1E:19	November 1, 2023
-http://letmein.fun:8080/c/			00:1A:79:AF:6E:79	November 1, 2023
 
 						PORTAL #3
 						=========
@@ -184,31 +145,6 @@ http://liveline.store:8000/c/			00:1A:79:5E:26:E0	January 7, 2024
 http://liveline.store:8000/c/			00:1A:79:A3:EB:EB	January 6, 2024
 http://liveline.store:8000/c/			00:1A:79:AF:76:79	January 6, 2024
 http://liveline.store:8000/c/			00:1A:79:AC:8E:EA	January 2, 2024
-http://liveline.store:8000/c/			00:1A:79:AE:CB:8A	December 30, 2023
-http://liveline.store:8000/c/			00:1A:79:2A:49:9A	December 29, 2023
-http://liveline.store:8000/c/			00:1A:79:5E:27:C6	December 28, 2023
-http://liveline.store:8000/c/			00:1A:79:31:D1:D8	December 18, 2023
-http://liveline.store:8000/c/			00:1A:79:AB:52:61	December 15, 2023
-http://liveline.store:8000/c/			00:1A:79:A9:F8:8F	December 14, 2023
-http://liveline.store:8000/c/			00:1A:79:AE:C5:4F	December 7, 2023
-http://liveline.store:8000/c/			00:1A:79:AB:EA:39	December 1, 2023
-http://liveline.store:8000/c/			00:1A:79:56:72:D5	November 30, 2023
-http://liveline.store:8000/c/			00:1A:79:58:18:4F	November 30, 2023
-http://liveline.store:8000/c/			00:1A:79:A1:AF:D6	November 30, 2023
-http://liveline.store:8000/c/			00:1A:79:A1:A3:D7	November 30, 2023
-http://liveline.store:8000/c/			00:1A:79:5B:96:E2	November 29, 2023
-http://liveline.store:8000/c/			00:1A:79:A7:BC:8D	November 28, 2023
-http://liveline.store:8000/c/			00:1a:79:a2:f9:9e	November 28, 2023
-http://liveline.store:8000/c/			00:1A:79:A6:82:0D	November 26, 2023
-http://liveline.store:8000/c/			00:1A:79:28:5F:73	November 19, 2023
-http://liveline.store:8000/c/			00:1A:79:A1:FF:7A	November 19, 2023
-http://liveline.store:8000/c/			00:1A:79:1D:6B:60	November 18, 2023
-http://liveline.store:8000/c/			00:1A:79:AD:7D:88	November 17, 2023
-http://liveline.store:8000/c/			00:1A:79:A2:F6:D8	November 16, 2023
-http://liveline.store:8000/c/			00:1a:79:45:21:8f	November 14, 2023
-http://liveline.store:8000/c/			00:1A:79:A1:0F:B5	November 11, 2023
-http://liveline.store:8000/c/			00:1A:79:5E:CC:05	November 6, 2023
-http://liveline.store:8000/c/			00:1A:79:AB:E2:5D	November 2, 2023
 
 						PORTAL #4
 						=========
@@ -244,6 +180,7 @@ http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ae:64:50	February 21, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:65:8B:7F	February 21, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a2:96:d7	February 17, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:5E:A7	February 14, 2024
+http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:5E:A7	February 14, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a3:5b:81	February 11, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6A:0F:7E	February 8, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ae:00:2d	February 8, 2024
@@ -257,21 +194,13 @@ http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:B0:56	January 12, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a5:e2:2b	January 10, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a2:14:0e	January 5, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:48:D5	January 1, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6F:1B:B3	December 30, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:35:27	December 26, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:62:9C:D7	December 18, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ac:0d:04	December 16, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6A:05:78	December 15, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6E:92:26	December 9, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:AB:56:5D	December 6, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:62:5F:F2	December 2, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:02:36	November 28, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:91:A3	November 21, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ae:70:67	November 19, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6D:3B:31	November 5, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:4C:99	November 4, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ab:4e:30	November 3, 2023
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a4:d5:62	November 1, 2023
+
+
+
+http://95.211.148.101:88/stalker_portal/c/
+MAC	00:1A:79:02:69:C9
+Max Connect	1500
+Expired Date	Unlimited
 
 ===============================================================================================
 
