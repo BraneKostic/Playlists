@@ -291,7 +291,7 @@
       "is_internal_portal" : false,
       "display_resolution" : "1280x720",
       "video_resolution" : "1080p60",
-      "mac_address" : "00:1A:79:4D:3B:FF",
+      "mac_address" : "00:1A:79:5D:D1:28",
       "serial_number" : "",
       "user_agent" : "default",
       "language" : "en",
@@ -831,7 +831,7 @@
       "is_internal_portal" : false,
       "display_resolution" : "1280x720",
       "video_resolution" : "1080p60",
-      "mac_address" : "00:1A:79:62:B8:BC",
+      "mac_address" : "00:1A:79:6D:DD:89",
       "serial_number" : "",
       "user_agent" : "default",
       "language" : "en",
@@ -874,9 +874,11 @@
       "created_by_user" : true,
       "enable_ministra_compatibility" : true,
       "use_browser_forwarding" : false
+  },
+    "data" : [ ]
   }, {
     "profile" : {
-      "uuid" : "00000000-0000-0000-0000-000000000043",
+      "uuid" : "00000000-0000-0000-0000-000000000044",
       "name" : "Portal 5",
       "stb_model" : "mag-424",
       "portal_url" : "http://95.211.148.101:88/stalker_portal/c/",
