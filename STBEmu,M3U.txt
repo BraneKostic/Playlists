@@ -197,10 +197,6 @@ http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a2:14:0e	January 5, 2024
 http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:48:D5	January 1, 2024
 
 
-http://95.211.148.101:88/stalker_portal/c/
-MAC	00:1A:79:02:69:C9
-Max Connect	1500
-Expired Date	Unlimited
 
 ===============================================================================================
 
