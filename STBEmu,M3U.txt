@@ -1,204 +1,267 @@
-===============================================================================================
-PORTAL						MAC			EXPIRE
------------------------------------------------------------------------------------------------
+##################################################################
 
-						PORTAL #1
-						=========
-http://putin.streamtv.to:8080/c/		00:1A:79:59:53:34	November 12, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:58:0D:5B	October 30, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:5A:9D:AC	September 13, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:4F:26:70	September 9, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:48:14:D8	September 3, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:57:BA:38	August 28, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:A8:B3:4C	August 26, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AF:7A:EF	August 26, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AA:A8:6F	August 20, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:A9:F6:FA	August 20, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:50:18:AE	August 20, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:4A:AD:83	August 17, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:49:11:9E	August 15, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:42:3A	August 13, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:B0:BC:53	August 7, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:A4:41:D2	July 29, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:A3:8F:B2	July 27, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AF:BD:20	July 27, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:4E:84:D3	July 24, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:98:05	June 23, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:51:2D	June 23, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:44:89:A9	June 22, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:A5:D4:29	June 7, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AA:5A:94	June 7, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:4E:84:1A	May 30, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:54:DD:75	May 19, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:4E:70	May 17, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:4A:AC:FB	May 14, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:3F:2B	May 6, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AD:90:BD	May 6, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:5D:CF:B9	April 30, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:A2:12	April 29, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:5D:D1:28	April 27, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:5B:92:A3	April 26, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:4E:83:7E	April 19, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:45:D6:B4	April 17, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:5E:C7:16	April 1, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:B0:BF:2A	March 30, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:48:11:EE	March 26, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AD:DE:A7	March 25, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:50:C2:0D	March 23, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:59:01:E0	March 22, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:5A:9E:66	March 10, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:4D:3B:FF	March 9, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:A2:FB:1D	March 5, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:A5:3B:9E	March 1, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:59:02:32	February 29, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AB:54:22	February 25, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:48:0E:AF	February 17, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:A2:FE:52	February 16, 2024,
-http://putin.streamtv.to:8080/c/		00:1A:79:AF:77:0E	February 12, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:5D:D3:F0	February 4, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AD:3C:62	January 28, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:AE:24:46	January 22, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:4B:94:3E	January 13, 2024
-http://putin.streamtv.to:8080/c/		00:1A:79:B0:C3:96	January 3, 2024
-
-						PORTAL #2
-						=========
-http://letmein.fun:8080/c/			00:1A:79:A6:C7:DB	September 5, 2024
-http://letmein.fun:8080/c/			00:1A:79:AF:6E:85	August 13, 2024
-http://letmein.fun:8080/c/			00:1A:79:A4:96:69	August 8, 2024
-http://letmein.fun:8080/c/			00:1A:79:A3:8F:B2	July 27, 2024
-http://letmein.fun:8080/c/			00:1A:79:AB:98:05	June 23, 2024
-http://letmein.fun:8080/c/			00:1A:79:AE:C6:95	July 22, 2024
-http://letmein.fun:8080/c/			00:1A:79:A3:F0:64	June 20, 2024
-http://letmein.fun:8080/c/			00:1A:79:A5:D4:29	June 7, 2024
-http://letmein.fun:8080/c/			00:1A:79:A3:F3:81	June 6, 2024
-http://letmein.fun:8080/c/			00:1A:79:A6:74:9E	June 3, 2024
-http://letmein.fun:8080/c/			00:1a:79:ab:19:66	May 21, 2024
-http://letmein.fun:8080/c/			00:1a:79:ab:4f:37	May 17, 2024
-http://letmein.fun:8080/c/			00:1a:79:ab:3d:8f	May 16, 2024
-http://letmein.fun:8080/c/			00:1A:79:AB:4E:52	May 16, 2024
-http://letmein.fun:8080/c/			00:1A:79:AB:A5:60	May 1, 2024
-http://letmein.fun:8080/c/			00:1A:79:A3:9F:3C	April 11, 2024
-http://letmein.fun:8080/c/			00:1A:79:A3:9F:67	March 29, 2024
-http://letmein.fun:8080/c/			00:1A:79:AD:7F:11	March 23, 2024
-http://letmein.fun:8080/c/			00:1a:79:aa:7c:ec	March 17, 2024
-http://letmein.fun:8080/c/			00:1a:79:a9:1b:16	March 15, 2024
-http://letmein.fun:8080/c/			00:1a:79:a4:60:38	March 9, 2024
-http://letmein.fun:8080/c/			00:1a:79:a9:2e:f2	March 8, 2024
-http://letmein.fun:8080/c/			00:1A:79:56:8D:39	March 3, 2024
-http://letmein.fun:8080/c/			00:1a:79:a9:30:73	March 3, 2024
-http://letmein.fun:8080/c/			00:1A:79:3B:18:31	March 1, 2024
-http://letmein.fun:8080/c/			00:1A:79:5A:A6:3F	March 1, 2024
-http://letmein.fun:8080/c/			00:1A:79:56:A9:A7	February 26, 2024
-http://letmein.fun:8080/c/			00:1A:79:AE:2C:FF	February 21, 2024
-http://letmein.fun:8080/c/			00:1A:79:AB:51:8B	February 19, 2024
-http://letmein.fun:8080/c/			00:1a:79:ab:51:8b	February 12, 2024
-http://letmein.fun:8080/c/			00:1a:79:a3:5b:81	February 11, 2024
-http://letmein.fun:8080/c/			00:1A:79:A3:F7:89	February 9, 2024
-http://letmein.fun:8080/c/			00:1A:79:AE:21:0D	February 6, 2024
-http://letmein.fun:8080/c/			00:1A:79:5C:F0:35	February 6, 2024
-http://letmein.fun:8080/c/			00:1a:79:a3:f7:89	February 2, 2024
-http://letmein.fun:8080/c/			00:1A:79:B0:C1:69	January 29, 2024
-http://letmein.fun:8080/c/			00:1A:79:A9:01:4E	January 22, 2024
-http://letmein.fun:8080/c/			00:1A:79:AF:74:BD	January 18, 2024
-http://letmein.fun:8080/c/			00:1a:79:ae:50:16	January 17, 2024
-http://letmein.fun:8080/c/			00:1A:79:AF:78:A4	January 4, 2024
-
-						PORTAL #3
-						=========
-http://liveline.store:8000/c/			00:1A:79:A6:82:B4	July 31, 2024
-http://liveline.store:8000/c/			00:1A:79:A1:AC:47	July 8, 2024
-http://liveline.store:8000/c/			00:1A:79:AB:F4:A4	June 25, 2024
-http://liveline.store:8000/c/			00:1A:79:5C:E4:5A	June 20, 2024
-http://liveline.store:8000/c/			00:1A:79:25:CD:D1	June 17, 2024
-http://liveline.store:8000/c/			00:1A:79:56:C7:F2	June 3, 2024
-http://liveline.store:8000/c/			00:1A:79:5F:6B:E4	May 31, 2024
-http://liveline.store:8000/c/			00:1A:79:AD:87:7C	May 27, 2024
-http://liveline.store:8000/c/			00:1A:79:AE:7F:B2	May 25, 2024
-http://liveline.store:8000/c/			00:1A:79:A1:F9:F5	May 25, 2024
-http://liveline.store:8000/c/			00:1A:79:5E:CF:F1	May 24, 2024
-http://liveline.store:8000/c/			00:1A:79:AD:CE:B8	May 9, 2024
-http://liveline.store:8000/c/			00:1A:79:A3:00:78	May 8, 2024
-http://liveline.store:8000/c/			00:1A:79:AC:DE:01	March 30, 2024
-http://liveline.store:8000/c/			00:1A:79:00:a9:03	April 28, 2024
-http://liveline.store:8000/c/			00:1A:79:28:0F:82	April 28, 2024
-http://liveline.store:8000/c/			00:1A:79:5F:C0:AB	April 17, 2024
-http://liveline.store:8000/c/			00:1A:79:A3:96:EC	April 14, 2024
-http://liveline.store:8000/c/			00:1A:79:A3:3F:67	April 3, 2024
-http://liveline.store:8000/c/			00:1A:79:23:E2:6E	March 25, 2024
-http://liveline.store:8000/c/			00:1A:79:57:19:46	March 25, 2024
-http://liveline.store:8000/c/			00:1A:79:AB:98:7C	March 11, 2024
-http://liveline.store:8000/c/			00:1A:79:21:01:8A	February 19, 2024
-http://liveline.store:8000/c/			00:1A:79:29:02:11	February 15, 2024
-http://liveline.store:8000/c/			00:1A:79:AF:6D:84	February 13, 2024
-http://liveline.store:8000/c/			00:1A:79:59:05:23	February 11, 2024
-http://liveline.store:8000/c/			00:1A:79:29:01:21	February 7, 2024
-http://liveline.store:8000/c/			00:1A:79:25:D2:B1	February 7, 2024
-http://liveline.store:8000/c/			00:1A:79:AF:C0:D3	February 7, 2024
-http://liveline.store:8000/c/			00:1A:79:A9:B0:5A	February 5, 2024
-http://liveline.store:8000/c/			00:1A:79:B0:C2:82	February 5, 2024
-http://liveline.store:8000/c/			00:1A:79:A2:EE:7C	January 31, 2024
-http://liveline.store:8000/c/			00:1A:79:AA:59:32	January 19, 2024
-http://liveline.store:8000/c/			00:1A:79:B0:BE:90	January 14, 2024
-http://liveline.store:8000/c/			00:1A:79:A3:A5:B6	January 9, 2024
-http://liveline.store:8000/c/			00:1A:79:5E:26:E0	January 7, 2024
-http://liveline.store:8000/c/			00:1A:79:A3:EB:EB	January 6, 2024
-http://liveline.store:8000/c/			00:1A:79:AF:76:79	January 6, 2024
-http://liveline.store:8000/c/			00:1A:79:AC:8E:EA	January 2, 2024
-
-						PORTAL #4
-						=========
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:91:A3	November 21, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:69:6C:9F	February 13, 2025
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:59:52:DB	July 31, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6B:63:A9	July 24, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:48:3E	July 20, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:66:21:5A	July 16, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:EE:D1	June 25, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:3F:BD	June 18, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:69:C7:E9	June 12, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:0E:7B	May 23, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:38:EC	May 18, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:62:B8:BC	May 16, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:62:5E:08	April 29, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6D:DD:89	April 25, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:65:36:36	April 16, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:8E:FB	March 24, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:66:8C:95	March 2, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:40:6A:35	April 23, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ad:de:a7	March 18, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ae:1f:6c	March 16, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:67:D4:BF	March 14, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:61:BC:03	March 13, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6B:9A:93	March 11, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:69:1D:73	March 8, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6A:A5:FA	March 7, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ab:49:ef	March 5, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6E:45:59	March 3, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/ 	00:1A:79:62:10:54	February 24, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:65:8B:7F	February 21, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ae:64:50	February 21, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:65:8B:7F	February 21, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a2:96:d7	February 17, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:5E:A7	February 14, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:5E:A7	February 14, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a3:5b:81	February 11, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6A:0F:7E	February 8, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:ae:00:2d	February 8, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6B:F1:A2	January 30, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a7:a5:8a	January 26, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a6:47:39	January 20, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:5A:9A:1C	January 20, 2024	
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:8A:F7	January 18, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:64:F1:00	January 18, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:63:B0:56	January 12, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a5:e2:2b	January 10, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1a:79:a2:14:0e	January 5, 2024
-http://magm1giillmig.funtogether.xyz:8080/c/	00:1A:79:6C:48:D5	January 1, 2024
+PORTAL #1 [ http://putin.streamtv.to:8080/c/ ]
+==============================================
+EXPIRE			MAC
+-----------------------------------------
+April 1, 2024		00:1A:79:5E:C7:16
+April 17, 2024		00:1A:79:45:D6:B4
+April 19, 2024		00:1A:79:4E:83:7E
+April 26, 2024		00:1A:79:5B:92:A3
+April 27, 2024		00:1A:79:5D:D1:28
+April 29, 2024		00:1A:79:AB:A2:12
+April 30, 2024		00:1A:79:5D:CF:B9
+August 13, 2024		00:1A:79:AB:42:3A
+August 15, 2024		00:1A:79:49:11:9E
+August 17, 2024		00:1A:79:4A:AD:83
+August 20, 2024		00:1A:79:50:18:AE
+August 20, 2024		00:1A:79:A9:F6:FA
+August 20, 2024		00:1A:79:AA:A8:6F
+August 26, 2024		00:1A:79:A8:B3:4C
+August 26, 2024		00:1A:79:AF:7A:EF
+August 28, 2024		00:1A:79:57:BA:38
+August 7, 2024		00:1A:79:B0:BC:53
+February 12, 2024	00:1A:79:AF:77:0E
+February 16, 2024	00:1A:79:A2:FE:52
+February 17, 2024	00:1A:79:48:0E:AF
+February 25, 2024	00:1A:79:AB:54:22
+February 29, 2024	00:1A:79:59:02:32
+February 4, 2024	00:1A:79:5D:D3:F0
+January 13, 2024	00:1A:79:4B:94:3E
+January 22, 2024	00:1A:79:AE:24:46
+January 28, 2024	00:1A:79:AD:3C:62
+January 3, 2024		00:1A:79:B0:C3:96
+July 24, 2024		00:1A:79:4E:84:D3
+July 27, 2024		00:1A:79:A3:8F:B2
+July 27, 2024		00:1A:79:AF:BD:20
+July 29, 2024		00:1A:79:A4:41:D2
+June 22, 2024		00:1A:79:44:89:A9
+June 23, 2024		00:1A:79:AB:51:2D
+June 23, 2024		00:1A:79:AB:98:05
+June 7, 2024		00:1A:79:A5:D4:29
+June 7, 2024		00:1A:79:AA:5A:94
+March 1, 2024		00:1A:79:A5:3B:9E
+March 10, 2024		00:1A:79:5A:9E:66
+March 22, 2024		00:1A:79:59:01:E0
+March 23, 2024		00:1A:79:50:C2:0D
+March 25, 2024		00:1A:79:AD:DE:A7
+March 26, 2024		00:1A:79:48:11:EE
+March 30, 2024		00:1A:79:B0:BF:2A
+March 5, 2024		00:1A:79:A2:FB:1D
+March 9, 2024		00:1A:79:4D:3B:FF
+May 14, 2024		00:1A:79:4A:AC:FB
+May 17, 2024		00:1A:79:AB:4E:70
+May 19, 2024		00:1A:79:54:DD:75
+May 30, 2024		00:1A:79:4E:84:1A
+May 6, 2024		00:1A:79:AB:3F:2B
+May 6, 2024		00:1A:79:AD:90:BD
+November 12, 2024	00:1A:79:59:53:34
+October 30, 2024	00:1A:79:58:0D:5B
+September 13, 2024	00:1A:79:5A:9D:AC
+September 3, 2024	00:1A:79:48:14:D8
+September 9, 2024	00:1A:79:4F:26:70
 
 
 
-===============================================================================================
+PORTAL #2 [ http://letmein.fun:8080/c/ ]
+=========================================
+EXPIRE			MAC
+-----------------------------------------
+April 11, 2024		00:1A:79:A3:9F:3C
+August 13, 2024		00:1A:79:AF:6E:85
+August 8, 2024		00:1A:79:A4:96:69
+February 11, 2024	00:1a:79:a3:5b:81
+February 12, 2024	00:1a:79:ab:51:8b
+February 19, 2024	00:1A:79:AB:51:8B
+February 2, 2024	00:1a:79:a3:f7:89
+February 21, 2024	00:1A:79:AE:2C:FF
+February 26, 2024	00:1A:79:56:A9:A7
+February 6, 2024	00:1A:79:5C:F0:35
+February 6, 2024	00:1A:79:AE:21:0D
+February 9, 2024	00:1A:79:A3:F7:89
+January 17, 2024	00:1a:79:ae:50:16
+January 18, 2024	00:1A:79:AF:74:BD
+January 22, 2024	00:1A:79:A9:01:4E
+January 29, 2024	00:1A:79:B0:C1:69
+January 4, 2024		00:1A:79:AF:78:A4
+July 22, 2024		00:1A:79:AE:C6:95
+July 27, 2024		00:1A:79:A3:8F:B2
+June 20, 2024		00:1A:79:A3:F0:64
+June 23, 2024		00:1A:79:AB:98:05
+June 3, 2024		00:1A:79:A6:74:9E
+June 6, 2024		00:1A:79:A3:F3:81
+June 7, 2024		00:1A:79:A5:D4:29
+March 1, 2024		00:1A:79:3B:18:31
+March 1, 2024		00:1A:79:5A:A6:3F
+March 15, 2024		00:1a:79:a9:1b:16
+March 17, 2024		00:1a:79:aa:7c:ec
+March 23, 2024		00:1A:79:AD:7F:11
+March 29, 2024		00:1A:79:A3:9F:67
+March 3, 2024		00:1A:79:56:8D:39
+March 3, 2024		00:1a:79:a9:30:73
+March 8, 2024		00:1a:79:a9:2e:f2
+March 9, 2024		00:1a:79:a4:60:38
+May 1, 2024		00:1A:79:AB:A5:60
+May 16, 2024		00:1A:79:AB:4E:52
+May 16, 2024		00:1a:79:ab:3d:8f
+May 17, 2024		00:1a:79:ab:4f:37
+May 21, 2024		00:1a:79:ab:19:66
+September 5, 2024	00:1A:79:A6:C7:DB
+
+PORTAL #3 [ http://liveline.store:8000/c/ ]===========================================
+EXPIRE			MAC-----------------------------------------EXPIRE			MAC
+-----------------------------------------
+April 12, 2024		00:1A:79:50:C5:BD
+April 13, 2024		00:1A:79:43:64:67
+April 14, 2024		00:1A:79:A3:96:EC
+April 17, 2024		00:1A:79:5F:C0:AB
+April 24, 2024		00:1A:79:43:56:B6
+April 28, 2024		00:1A:79:00:a9:03
+April 28, 2024		00:1A:79:28:0F:82
+April 3, 2024		00:1A:79:41:70:FC
+April 3, 2024		00:1A:79:41:B0:23
+April 3, 2024		00:1A:79:4E:44:17
+April 3, 2024		00:1A:79:A3:3F:67
+April 8, 2024		00:1A:79:41:AA:BA
+August 19, 2024		00:1A:79:4A:13:23
+August 20, 2024		00:1A:79:4B:E6:4B
+August 20, 2024		00:1A:79:4F:6F:00
+August 26, 2024		00:1A:79:4A:4C:D4
+August 29, 2024		00:1A:79:43:E3:E8
+December 21, 2024	00:1A:79:49:B1:58
+December 24, 2025	00:1A:79:45:F0:7D
+December 28, 2024	00:1A:79:4C:A1:0E
+February 1, 2024	00:1A:79:46:36:E3
+February 1, 2024	00:1A:79:4D:3B:39
+February 11, 2024	00:1A:79:43:E9:63
+February 11, 2024	00:1A:79:59:05:23
+February 13, 2024	00:1A:79:4F:33:37
+February 13, 2024	00:1A:79:AF:6D:84
+February 15, 2024	00:1A:79:29:02:11
+February 19, 2024	00:1A:79:21:01:8A
+February 28, 2024	00:1A:79:4C:A6:33
+February 5, 2024	00:1A:79:A9:B0:5A
+February 5, 2024	00:1A:79:B0:C2:82
+February 6, 2024	00:1A:79:50:D0:89
+February 7, 2024	00:1A:79:25:D2:B1
+February 7, 2024	00:1A:79:29:01:21
+February 7, 2024	00:1A:79:50:CB:C0
+February 7, 2024	00:1A:79:AF:C0:D3
+February 9, 2024	00:1A:79:44:F1:B0
+February 9, 2024	00:1A:79:46:D3:73
+February 9, 2024	00:1A:79:4E:96:96
+January 14, 2024	00:1A:79:B0:BE:90
+January 19, 2024	00:1A:79:AA:59:32
+January 2, 2024		00:1A:79:AC:8E:EA
+January 26, 2024	00:1A:79:43:96:2D
+January 31, 2024	00:1A:79:A2:EE:7C
+January 6, 2024		00:1A:79:A3:EB:EB
+January 6, 2024		00:1A:79:AF:76:79
+January 7, 2024		00:1A:79:5E:26:E0
+January 9, 2024		00:1A:79:A3:A5:B6
+July 1, 2024		00:1A:79:45:87:D8
+July 31, 2024		00:1A:79:A6:82:B4
+July 6, 2024		00:1A:79:4D:A0:2A
+July 8, 2024		00:1A:79:A1:AC:47
+June 17, 2024		00:1A:79:25:CD:D1
+June 20, 2024		00:1A:79:5C:E4:5A
+June 25, 2024		00:1A:79:AB:F4:A4
+June 3, 2024		00:1A:79:56:C7:F2
+June 4, 2024		00:1A:79:4F:34:BD
+June 8, 2024		00:1A:79:4F:C0:C9
+March 11, 2024		00:1A:79:AB:98:7C
+March 19, 2024		00:1A:79:48:B4:DA
+March 25, 2024		00:1A:79:23:E2:6E
+March 25, 2024		00:1A:79:49:B1:0B
+March 25, 2024		00:1A:79:57:19:46
+March 30, 2024		00:1A:79:AC:DE:01
+March 9, 2024		00:1A:79:4F:CA:73
+May 1, 2024		00:1A:79:43:4F:A2
+May 12, 2024		00:1A:79:4E:88:1F
+May 13, 2024		00:1A:79:45:A1:21
+May 16, 2024		00:1A:79:4E:84:39
+May 21, 2024		00:1A:79:50:C6:FB
+May 24, 2024		00:1A:79:5E:CF:F1
+May 25, 2024		00:1A:79:A1:F9:F5
+May 25, 2024		00:1A:79:AE:7F:B2
+May 27, 2024		00:1A:79:43:F0:EA
+May 27, 2024		00:1A:79:AD:87:7C
+May 29, 2024		00:1A:79:42:51:E1
+May 31, 2024		00:1A:79:45:EB:7F
+May 31, 2024		00:1A:79:5F:6B:E4
+May 8, 2024		00:1A:79:A3:00:78
+May 9, 2024		00:1A:79:AD:CE:B8
+November 16, 2024	00:1A:79:47:7B:51
+November 16, 2024	00:1A:79:48:BC:09
+November 17, 2024	00:1A:79:48:D1:88
+November 3, 2024	00:1A:79:4C:35:34
+November 30, 2024	00:1A:79:44:F1:B0
+November 4, 2024	00:1A:79:43:0E:D6
+October 11, 2024	00:1A:79:4B:5B:2E
+October 21, 2024	00:1A:79:4E:74:D9
+October 25, 2024	00:1A:79:47:69:E1
+October 27, 2024	00:1A:79:4A:51:9C
+October 9, 2024		00:1A:79:43:64:06
+September 1, 2024	00:1A:79:48:23:24
+September 1, 2024	00:1A:79:50:73:83
+September 14, 2024	00:1A:79:42:AB:09
+September 18, 2024	00:1A:79:45:EE:BD
+September 20, 2024	00:1A:79:43:F9:52
+September 28, 2024	00:1A:79:42:AC:92
+
+PORTAL #4 [ http://magm1giillmig.funtogether.xyz:8080/c/ ]
+==========================================================
+EXPIRE			MAC
+-----------------------------------------	
+April 16, 2024		00:1A:79:65:36:36
+April 23, 2024		00:1A:79:40:6A:35
+April 25, 2024		00:1A:79:6D:DD:89
+April 29, 2024		00:1A:79:62:5E:08
+February 11, 2024	00:1a:79:a3:5b:81
+February 13, 2025	00:1A:79:69:6C:9F
+February 14, 2024	00:1A:79:63:5E:A7
+February 14, 2024	00:1A:79:63:5E:A7
+February 17, 2024	00:1a:79:a2:96:d7
+February 21, 2024	00:1A:79:65:8B:7F
+February 21, 2024	00:1A:79:65:8B:7F
+February 21, 2024	00:1a:79:ae:64:50
+February 24, 2024	00:1A:79:62:10:54
+February 8, 2024	00:1A:79:6A:0F:7E
+February 8, 2024	00:1a:79:ae:00:2d
+January 1, 2024		00:1A:79:6C:48:D5
+January 10, 2024	00:1a:79:a5:e2:2b
+January 12, 2024	00:1A:79:63:B0:56
+January 18, 2024	00:1A:79:64:F1:00
+January 18, 2024	00:1A:79:6C:8A:F7
+January 20, 2024	00:1A:79:5A:9A:1C
+January 20, 2024	00:1a:79:a6:47:39
+January 26, 2024	00:1a:79:a7:a5:8a
+January 30, 2024	00:1A:79:6B:F1:A2
+January 5, 2024		00:1a:79:a2:14:0e
+July 16, 2024		00:1A:79:66:21:5A
+July 20, 2024		00:1A:79:6C:48:3E
+July 24, 2024		00:1A:79:6B:63:A9
+July 31, 2024		00:1A:79:59:52:DB
+June 12, 2024		00:1A:79:69:C7:E9
+June 18, 2024		00:1A:79:64:3F:BD
+June 25, 2024		00:1A:79:64:EE:D1
+March 11, 2024		00:1A:79:6B:9A:93
+March 13, 2024		00:1A:79:61:BC:03
+March 14, 2024		00:1A:79:67:D4:BF
+March 16, 2024		00:1a:79:ae:1f:6c
+March 18, 2024		00:1a:79:ad:de:a7
+March 2, 2024		00:1A:79:66:8C:95
+March 24, 2024		00:1A:79:6C:8E:FB
+March 3, 2024		00:1A:79:6E:45:59
+March 5, 2024		00:1a:79:ab:49:ef
+March 7, 2024		00:1A:79:6A:A5:FA
+March 8, 2024		00:1A:79:69:1D:73
+May 16, 2024		00:1A:79:62:B8:BC
+May 18, 2024		00:1A:79:64:38:EC
+May 23, 2024		00:1A:79:63:0E:7B
+November 21, 2024	00:1A:79:63:91:A3
+
+##################################################################
 
 M3U			http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=m3u
 M3U SIMPLE		http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=simple&output=<TS/RTMP/M3U8>
@@ -217,9 +280,9 @@ BROWSER			http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?mac=<MAC>
 BROWSER (DEBUG)		http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?debug&debug_key=<DEBUG KEY>&mac=<MAC>
 BROWSER (KEYS)		ENTER [OK], F1 [Red], F2 [Green], F3 [Yellow], F4 [Blue], ESC [Exit] 
 
-===============================================================================================
+##################################################################
 
 SEARCH FOR DOMAINS, IPS, FILENAMES, HASHES, ASNS
 https://urlscan.io/search/#filename:%22keydown.keycodes.js%22
 
-===============================================================================================
+##################################################################
