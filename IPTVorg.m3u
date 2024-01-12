@@ -1,0 +1,2359 @@
+#EXTM3U
+
+#EXTINF:-1, Animation
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/animation.m3u
+
+#EXTINF:-1, Auto
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/auto.m3u
+
+#EXTINF:-1, Business
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/business.m3u
+
+#EXTINF:-1, Classic
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/classic.m3u
+
+#EXTINF:-1, Comedy
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/comedy.m3u
+
+#EXTINF:-1, Cooking
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/cooking.m3u
+
+#EXTINF:-1, Culture
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/culture.m3u
+
+#EXTINF:-1, Documentary
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+
+#EXTINF:-1, Education
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/education.m3u
+
+#EXTINF:-1, Entertainment
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
+
+#EXTINF:-1, Family
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/family.m3u
+
+#EXTINF:-1, General
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/general.m3u
+
+#EXTINF:-1, Kids
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/kids.m3u
+
+#EXTINF:-1, Legislative
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/legislative.m3u
+
+#EXTINF:-1, Lifestyle
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/lifestyle.m3u
+
+#EXTINF:-1, Local
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/local.m3u
+
+#EXTINF:-1, Movies
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1, Music
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+#EXTINF:-1, News
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/news.m3u
+
+#EXTINF:-1, Other
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/other.m3u
+
+#EXTINF:-1, Outdoor
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/outdoor.m3u
+
+#EXTINF:-1, Relax
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/relax.m3u
+
+#EXTINF:-1, Religious
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/religious.m3u
+
+#EXTINF:-1, Science
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/science.m3u
+
+#EXTINF:-1, Series
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/series.m3u
+
+#EXTINF:-1, Shop
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/shop.m3u
+
+#EXTINF:-1, Sports
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1, Travel
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/travel.m3u
+
+#EXTINF:-1, Weather
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/weather.m3u
+
+#EXTINF:-1, XXX
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/xxx.m3u
+
+#EXTINF:-1, Andorra
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ad.m3u
+
+#EXTINF:-1, Afghanistan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/af.m3u
+
+#EXTINF:-1, American Samoa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/as.m3u
+
+#EXTINF:-1, Antigua and Barbuda
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ag.m3u
+
+#EXTINF:-1, Albania
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/al.m3u
+
+#EXTINF:-1, Algeria
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dz.m3u
+
+#EXTINF:-1, Angola
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ao.m3u
+
+#EXTINF:-1, Anguilla
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/ai.m3u
+
+#EXTINF:-1, Antarctica
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/aq.m3u
+
+#EXTINF:-1, Argentina
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ar.m3u
+
+#EXTINF:-1, Argentina: Buenos Aires
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-b.m3u
+
+#EXTINF:-1, Argentina: Catamarca
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-k.m3u
+
+#EXTINF:-1, Argentina: Chubut
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-h.m3u
+
+#EXTINF:-1, Argentina: Ciudad Autonoma de Buenos Aires
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-c.m3u
+
+#EXTINF:-1, Argentina: Cordoba
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-x.m3u
+
+#EXTINF:-1, Argentina: Corrientes
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-w.m3u
+
+#EXTINF:-1, Argentina: Entre Rios
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-e.m3u
+
+#EXTINF:-1, Argentina: Formosa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-p.m3u
+
+#EXTINF:-1, Argentina: Jujuy
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-y.m3u
+
+#EXTINF:-1, Argentina: La Pampa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-l.m3u
+
+#EXTINF:-1, Argentina: La Rioja
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-f.m3u
+
+#EXTINF:-1, Argentina: Mendoza
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-m.m3u
+
+#EXTINF:-1, Argentina: Misiones
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-n.m3u
+
+#EXTINF:-1, Argentina: Neuquen
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-q.m3u
+
+#EXTINF:-1, Argentina: Rio Negro
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-r.m3u
+
+#EXTINF:-1, Argentina: Salta
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-a.m3u
+
+#EXTINF:-1, Argentina: San Juan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-j.m3u
+
+#EXTINF:-1, Argentina: San Luis
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-d.m3u
+
+#EXTINF:-1, Argentina: Santa Cruz
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-z.m3u
+
+#EXTINF:-1, Argentina: Santa Fe
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-s.m3u
+
+#EXTINF:-1, Argentina: Tucuman
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-t.m3u
+
+#EXTINF:-1, Armenia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/am.m3u
+
+#EXTINF:-1, Aruba
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/aw.m3u
+
+#EXTINF:-1, Austria
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at.m3u
+
+#EXTINF:-1, Australia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au.m3u
+
+#EXTINF:-1, Azerbaijan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az.m3u
+
+#EXTINF:-1, Bahamas
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bs.m3u
+
+#EXTINF:-1, Bangladesh
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
+
+#EXTINF:-1, Barbados
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bb.m3u
+
+#EXTINF:-1, Bahrain
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bh.m3u
+
+#EXTINF:-1, Belarus
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by.m3u
+
+#EXTINF:-1, Belgium
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be.m3u
+
+#EXTINF:-1, Belize
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bz.m3u
+
+#EXTINF:-1, Benin
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bj.m3u
+
+#EXTINF:-1, Bermuda
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/bm.m3u
+
+#EXTINF:-1, Bhutan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/bt.m3u
+
+#EXTINF:-1, Bolivia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bo.m3u
+
+#EXTINF:-1, Bolivia: Santa Cruz
+#EXTGRP: Country
+
+#EXTINF:-1, Bonaire
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bq.m3u
+
+#EXTINF:-1, Bosnia and Herzegovina
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ba.m3u
+
+#EXTINF:-1, Botswana
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/bw.m3u
+
+#EXTINF:-1, Bouvet Island
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/bv.m3u3u
+
+#EXTINF:-1, Brazil
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u
+
+#EXTINF:-1, Brazil: Rio de Janeiro
+#EXTGRP: Country
+
+#EXTINF:-1, Brunei
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bn.m3u
+
+#EXTINF:-1, Burkina Faso
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bf.m3u
+
+#EXTINF:-1, Bulgaria
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bg.m3u
+
+#EXTINF:-1, Cambodia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kh.m3u
+
+#EXTINF:-1, Cameroon
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cm.m3u
+
+#EXTINF:-1, Canada
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca.m3u
+
+#EXTINF:-1, Canada: British Columbia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ca-bc.m3u
+
+#EXTINF:-1, Canada: Manitoba
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ca-mb.m3u
+
+#EXTINF:-1, Canada: New Brunswick
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ca-nb.m3u
+
+#EXTINF:-1, Canada: Newfoundland and Labrador
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ca-nl.m3u
+
+#EXTINF:-1, Canada: Quebec
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ca-qc.m3u
+
+#EXTINF:-1, Cape Verde
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cv.m3u
+
+#EXTINF:-1, Cape Verde: Boa Vista
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/cv-bv.m3u
+
+#EXTINF:-1, Cape Verde: Sal
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/cv-sl.m3u
+
+#EXTINF:-1, Chad
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/td.m3u
+
+#EXTINF:-1, Chile
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u
+
+#EXTINF:-1, Chile: Magallanes
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/cl-ma.m3u
+
+#EXTINF:-1, Chile: Nuble
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/cl-nb.m3u
+
+#EXTINF:-1, China
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+
+#EXTINF:-1, Colombia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/co.m3u
+
+#EXTINF:-1, Colombia: Antioquia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-ant.m3u
+
+#EXTINF:-1, Colombia: Atlantico
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-atl.m3u
+
+#EXTINF:-1, Colombia: Bolivar
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-bol.m3u
+
+#EXTINF:-1, Colombia: Caldas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-cal.m3u
+
+#EXTINF:-1, Colombia: Cauca
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-cau.m3u
+
+#EXTINF:-1, Colombia: Choco
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-cho.m3u
+
+#EXTINF:-1, Colombia: Huila
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-hui.m3u
+
+#EXTINF:-1, Colombia: Magdalena
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-mag.m3u
+
+#EXTINF:-1, Colombia: Narino
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-nar.m3u
+
+#EXTINF:-1, Colombia: Norte de Santander
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-nsa.m3u
+
+#EXTINF:-1, Colombia: Quindio
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-qui.m3u
+
+#EXTINF:-1, Colombia: Risaralda
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-ris.m3u
+
+#EXTINF:-1, Colombia: San Andres, Providencia y Santa Catalina
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-sap.m3u
+
+#EXTINF:-1, Colombia: Tolima
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-tol.m3u
+
+#EXTINF:-1, Colombia: Valle del Cauca
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-vac.m3u
+
+#EXTINF:-1, Costa Rica
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cr.m3u
+
+#EXTINF:-1, Croatia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hr.m3u
+
+#EXTINF:-1, Cuba
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cu.m3u
+
+#EXTINF:-1, Curacao
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cw.m3u
+
+#EXTINF:-1, Cyprus
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cy.m3u
+
+#EXTINF:-1, Czech Republic
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cz.m3u
+
+#EXTINF:-1, Democratic Republic of the Congo
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cd.m3u
+
+#EXTINF:-1, Denmark
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk.m3u
+
+#EXTINF:-1, Djibouti
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dj.m3u
+
+#EXTINF:-1, Dominican Republic
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/do.m3u
+
+#EXTINF:-1, Dominican Republic: Distrito Nacional (Santo Domingo)
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/do-01.m3u
+
+#EXTINF:-1, Dominican Republic: El Seibo
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/do-08.m3u
+
+#EXTINF:-1, Dominican Republic: La Altagracia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/do-11.m3u
+
+#EXTINF:-1, Dominican Republic: Monsenor Nouel
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/do-28.m3u
+
+#EXTINF:-1, Dominican Republic: Santiago
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/do-25.m3u
+
+#EXTINF:-1, East Timor
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tl.m3u
+
+#EXTINF:-1, Ecuador
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ec.m3u
+
+#EXTINF:-1, Ecuador: Loja
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ec-l.m3u
+
+#EXTINF:-1, Egypt
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/eg.m3u
+   
+#EXTINF:-1, El Salvador
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sv.m3u
+
+#EXTINF:-1, Equatorial Guinea
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gq.m3u
+
+#EXTINF:-1, Estonia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ee.m3u
+
+#EXTINF:-1, Ethiopia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/et.m3u
+
+#EXTINF:-1, Faroe Islands
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fo.m3u
+
+#EXTINF:-1, Fiji
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fj.m3u
+
+#EXTINF:-1, Finland
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi.m3u
+
+#EXTINF:-1, Finland: Pohjanmaa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/fi-12.m3u
+
+#EXTINF:-1, France
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr.m3u
+
+#EXTINF:-1, French Polynesia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pf.m3u
+
+#EXTINF:-1, Gabon
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ga.m3u
+
+#EXTINF:-1, Gambia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gm.m3u
+
+#EXTINF:-1, Georgia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ge.m3u
+
+#EXTINF:-1, Germany
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de.m3u
+
+#EXTINF:-1, Ghana
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gh.m3u
+
+#EXTINF:-1, Greece
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gr.m3u
+
+#EXTINF:-1, Greenland
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gl.m3u
+
+#EXTINF:-1, Guadeloupe
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gp.m3u
+
+#EXTINF:-1, Guatemala
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gt.m3u
+
+#EXTINF:-1, Guatemala: Solola
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/gt-07.m3u
+
+#EXTINF:-1, Guatemala: Totonicapan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/gt-08.m3u
+
+#EXTINF:-1, Guinea
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gn.m3u
+
+#EXTINF:-1, Haiti
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ht.m3u
+
+#EXTINF:-1, Honduras
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hn.m3u
+
+#EXTINF:-1, Hong Kong
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+
+#EXTINF:-1, Hungary
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hu.m3u
+
+#EXTINF:-1, Iceland
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/is.m3u
+
+#EXTINF:-1, India
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in.m3u
+
+#EXTINF:-1, Indonesia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/id.m3u
+
+#EXTINF:-1, Indonesia: Aceh
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ac.m3u
+
+#EXTINF:-1, Indonesia: Bali
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ba.m3u
+
+#EXTINF:-1, Indonesia: Bengkulu
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-be.m3u
+
+#EXTINF:-1, Indonesia: Gorontalo
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-go.m3u
+
+#EXTINF:-1, Indonesia: Jakarta Raya
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-jk.m3u
+
+#EXTINF:-1, Indonesia: Jambi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ja.m3u
+
+#EXTINF:-1, Indonesia: Jawa Barat
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-jb.m3u
+
+#EXTINF:-1, Indonesia: Jawa Tengah
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-jt.m3u
+
+#EXTINF:-1, Indonesia: Jawa Timur
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ji.m3u
+
+#EXTINF:-1, Indonesia: Kalimantan Barat
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-kb.m3u
+
+#EXTINF:-1, Indonesia: Kalimantan Selatan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ks.m3u
+
+#EXTINF:-1, Indonesia: Kalimantan Tengah
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-kt.m3u
+
+#EXTINF:-1, Indonesia: Kalimantan Timur
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ki.m3u
+
+#EXTINF:-1, Indonesia: Kepulauan Bangka Belitung
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-bb.m3u
+
+#EXTINF:-1, Indonesia: Lampung
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-la.m3u
+
+#EXTINF:-1, Indonesia: Maluku Utara
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-mu.m3u
+
+#EXTINF:-1, Indonesia: Maluku
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ml.m3u
+
+#EXTINF:-1, Indonesia: Nusa Tenggara Barat
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-nb.m3u
+
+#EXTINF:-1, Indonesia: Nusa Tenggara Timur
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-nt.m3u
+
+#EXTINF:-1, Indonesia: Papua
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-pp.m3u
+
+#EXTINF:-1, Indonesia: Riau
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ri.m3u
+
+#EXTINF:-1, Indonesia: Sulawesi Barat
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-sr.m3u
+
+#EXTINF:-1, Indonesia: Sulawesi Selatan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-sn.m3u
+
+#EXTINF:-1, Indonesia: Sulawesi Tengah
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-st.m3u
+
+#EXTINF:-1, Indonesia: Sulawesi Tenggara
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-sg.m3u
+
+#EXTINF:-1, Indonesia: Sulawesi Utara
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-sa.m3u
+
+#EXTINF:-1, Indonesia: Sumatera Barat
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-sb.m3u
+
+#EXTINF:-1, Indonesia: Sumatera Selatan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ss.m3u
+
+#EXTINF:-1, Indonesia: Yogyakarta
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-yo.m3u
+
+#EXTINF:-1, Iraq
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/iq.m3u
+
+#EXTINF:-1, Iran
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir.m3u
+
+#EXTINF:-1, Ireland
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie.m3u
+
+#EXTINF:-1, Israel
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/il.m3u
+
+#EXTINF:-1, Italy
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it.m3u
+
+#EXTINF:-1, Ivory Coast
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ci.m3u
+
+#EXTINF:-1, Jamaica
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jm.m3u
+
+#EXTINF:-1, Japan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jp.m3u
+
+#EXTINF:-1, Jordan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jo.m3u
+
+#EXTINF:-1, Kazakhstan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kz.m3u
+
+#EXTINF:-1, Kenya
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ke.m3u
+
+#EXTINF:-1, Kosovo
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/xk.m3u
+
+#EXTINF:-1, Kuwait
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kw.m3u
+
+#EXTINF:-1, Kyrgyzstan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kg.m3u
+
+#EXTINF:-1, Laos
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/la.m3u
+
+#EXTINF:-1, Lebanon
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lb.m3u
+
+#EXTINF:-1, Liechtenstein
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/li.m3u
+
+#EXTINF:-1, Latvia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lv.m3u
+
+#EXTINF:-1, Libya
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ly.m3u
+
+#EXTINF:-1, Lithuania
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lt.m3u
+
+#EXTINF:-1, Luxembourg
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lu.m3u
+
+#EXTINF:-1, Macao
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mo.m3u
+
+#EXTINF:-1, Malawi
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mw.m3u
+
+#EXTINF:-1, Malaysia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/my.m3u
+
+#EXTINF:-1, Maldives
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mv.m3u
+
+#EXTINF:-1, Mali
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ml.m3u
+
+#EXTINF:-1, Malta
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mt.m3u
+
+#EXTINF:-1, Martinique
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mq.m3u
+
+#EXTINF:-1, Mauritania
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mr.m3u
+
+#EXTINF:-1, Mexico
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx.m3u
+
+#EXTINF:-1, Mexico: Aguascalientes
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-agu.m3u
+
+#EXTINF:-1, Mexico: Baja California
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-bcn.m3u
+
+#EXTINF:-1, Mexico: Chihuahua
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-chh.m3u
+
+#EXTINF:-1, Mexico: Ciudad de Mexico
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-cmx.m3u
+
+#EXTINF:-1, Mexico: Coahuila de Zaragoza
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-coa.m3u
+
+#EXTINF:-1, Mexico: Guerrero
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-gro.m3u
+
+#EXTINF:-1, Mexico: Mexico
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-mex.m3u
+
+#EXTINF:-1, Mexico: Nuevo Leon
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-nle.m3u
+
+#EXTINF:-1, Mexico: Puebla
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-pue.m3u
+
+#EXTINF:-1, Mexico: Queretaro
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-que.m3u
+
+#EXTINF:-1, Mexico: Quintana Roo
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-roo.m3u
+
+#EXTINF:-1, Mexico: San Luis Potosi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-slp.m3u
+
+#EXTINF:-1, Mexico: Sinaloa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-sin.m3u
+
+#EXTINF:-1, Mexico: Sonora
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-son.m3u
+
+#EXTINF:-1, Mexico: Tamaulipas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-tam.m3u
+
+#EXTINF:-1, Mexico: Zacatecas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-zac.m3u
+
+#EXTINF:-1, Moldova
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/md.m3u
+
+#EXTINF:-1, Monaco
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mc.m3u
+
+#EXTINF:-1, Mongolia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mn.m3u
+
+#EXTINF:-1, Montenegro
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/me.m3u
+
+#EXTINF:-1, Morocco
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ma.m3u
+
+#EXTINF:-1, Mozambique
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mz.m3u
+
+#EXTINF:-1, Myanmar [Burma]
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mm.m3u
+
+#EXTINF:-1, Nepal
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/np.m3u
+
+#EXTINF:-1, Netherlands
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nl.m3u
+
+#EXTINF:-1, New Zealand
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nz.m3u
+
+#EXTINF:-1, Nicaragua
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ni.m3u
+
+#EXTINF:-1, Niger
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ne.m3u
+
+#EXTINF:-1, Nigeria
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ng.m3u
+
+#EXTINF:-1, North Korea
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kp.m3u
+
+#EXTINF:-1, North Macedonia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mk.m3u
+
+#EXTINF:-1, Norway
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/no.m3u
+
+#EXTINF:-1, Oman
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/om.m3u
+
+#EXTINF:-1, Pakistan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pk.m3u
+
+#EXTINF:-1, Pakistan: Islamabad
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pk-is.m3u
+
+#EXTINF:-1, Palestine
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ps.m3u
+
+#EXTINF:-1, Panama
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pa.m3u
+
+#EXTINF:-1, Paraguay
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/py.m3u
+
+#EXTINF:-1, Paraguay: Alto Parana
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-10.m3u
+
+#EXTINF:-1, Paraguay: Boqueron
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-19.m3u
+
+#EXTINF:-1, Paraguay: Caaguazu
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-5.m3u
+
+#EXTINF:-1, Paraguay: Central
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-11.m3u
+
+#EXTINF:-1, Paraguay: Itapua
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-7.m3u
+
+#EXTINF:-1, Paraguay: Presidente Hayes
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-15.m3u
+
+#EXTINF:-1, Peru
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pe.m3u
+
+#EXTINF:-1, Peru: Ancash
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-anc.m3u
+
+#EXTINF:-1, Peru: Apurimac
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-apu.m3u
+
+#EXTINF:-1, Peru: Arequipa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-are.m3u
+
+#EXTINF:-1, Peru: Junin
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-jun.m3u
+
+#EXTINF:-1, Peru: Lima
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-lim.m3u
+
+#EXTINF:-1, Peru: Piura
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-piu.m3u
+
+#EXTINF:-1, Philippines
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ph.m3u
+      
+#EXTINF:-1, Poland
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pl.m3u
+
+#EXTINF:-1, Portugal
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt.m3u
+
+#EXTINF:-1, Puerto Rico
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pr.m3u
+
+#EXTINF:-1, Qatar
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/qa.m3u
+
+#EXTINF:-1, Republic of the Congo
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cg.m3u
+
+#EXTINF:-1, Romania
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ro.m3u
+
+#EXTINF:-1, Russia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+
+#EXTINF:-1, Rwanda
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/rw.m3u
+
+#EXTINF:-1, Saudi Arabia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sa.m3u
+
+#EXTINF:-1, San Marino
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sm.m3u
+
+#EXTINF:-1, Senegal
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sn.m3u
+
+#EXTINF:-1, Serbia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/rs.m3u
+
+#EXTINF:-1, Sierra Leone
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sl.m3u
+
+#EXTINF:-1, Singapore
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sg.m3u
+
+#EXTINF:-1, Slovakia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sk.m3u
+
+#EXTINF:-1, Slovenia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/si.m3u
+
+#EXTINF:-1, Somalia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/so.m3u
+
+#EXTINF:-1, South Africa
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/za.m3u
+
+#EXTINF:-1, South Korea
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u
+
+#EXTINF:-1, South Korea: Busan-gwangyeoksi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-26.m3u
+
+#EXTINF:-1, South Korea: Chungcheongbuk-do
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-43.m3u
+
+#EXTINF:-1, South Korea: Daegu-gwangyeoksi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-27.m3u
+
+#EXTINF:-1, South Korea: Daejeon-gwangyeoksi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-30.m3u
+
+#EXTINF:-1, South Korea: Gangwon-do
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-42.m3u
+
+#EXTINF:-1, South Korea: Gyeongsangbuk-do
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-47.m3u
+
+#EXTINF:-1, South Korea: Jeju-teukbyeoljachido
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-49.m3u
+
+#EXTINF:-1, South Korea: Jeollabuk-do
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-45.m3u
+
+#EXTINF:-1, South Korea: Jeollanam-do
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-46.m3u
+
+#EXTINF:-1, South Korea: Ulsan-gwangyeoksi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-31.m3u
+
+#EXTINF:-1, Spain
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es.m3u
+
+#EXTINF:-1, Spain: Madrid, Comunidad de
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-md.m3u
+
+#EXTINF:-1, Spain: Andalucia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-an.m3u
+
+#EXTINF:-1, Spain: Aragon
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-ar.m3u
+
+#EXTINF:-1, Spain: Canarias
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-cn.m3u
+
+#EXTINF:-1, Spain: Castilla-La Mancha
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-cm.m3u
+
+#EXTINF:-1, Spain: Catalunya
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-ct.m3u
+
+#EXTINF:-1, Spain: Extremadura
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-ex.m3u
+
+#EXTINF:-1, Sri Lanka
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lk.m3u
+
+#EXTINF:-1, Sudan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sd.m3u
+
+#EXTINF:-1, Sweden
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/se.m3u
+
+#EXTINF:-1, Switzerland
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch.m3u
+
+#EXTINF:-1, Syria
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sy.m3u
+
+#EXTINF:-1, Taiwan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+
+#EXTINF:-1, Tajikistan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tj.m3u
+
+#EXTINF:-1, Tanzania
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tz.m3u
+
+#EXTINF:-1, Thailand
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/th.m3u
+
+#EXTINF:-1, Trinidad and Tobago
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tt.m3u
+
+#EXTINF:-1, Tunisia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tn.m3u
+
+#EXTINF:-1, Turkey
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr.m3u
+
+#EXTINF:-1, Turkmenistan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tm.m3u
+
+#EXTINF:-1, Uganda
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ug.m3u
+
+#EXTINF:-1, Ukraine
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ua.m3u
+
+#EXTINF:-1, United Arab Emirates
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ae.m3u
+
+#EXTINF:-1, United Kingdom
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk.m3u
+
+#EXTINF:-1, United Kingdom: Wales
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/gb-wls.m3u
+
+#EXTINF:-1, United States
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
+
+#EXTINF:-1, United States: Alabama
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-al.m3u
+
+#EXTINF:-1, United States: Alaska
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ak.m3u
+
+#EXTINF:-1, United States: Arizona
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-az.m3u
+
+#EXTINF:-1, United States: Arkansas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ar.m3u
+
+#EXTINF:-1, United States: California
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ca.m3u
+
+#EXTINF:-1, United States: California
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-co.m3u
+
+#EXTINF:-1, United States: Connecticut
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ct.m3u
+
+#EXTINF:-1, United States: Delaware
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-de.m3u
+
+#EXTINF:-1, United States: District of Columbia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-dc.m3u
+
+#EXTINF:-1, United States: Florida
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-fl.m3u
+
+#EXTINF:-1, United States: Georgia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ga.m3u
+
+#EXTINF:-1, United States: Hawaii
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-hi.m3u
+
+#EXTINF:-1, United States: Idaho
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-id.m3u
+
+#EXTINF:-1, United States: Illinois
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-il.m3u
+
+#EXTINF:-1, United States: Indiana
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-in.m3u
+
+#EXTINF:-1, United States: Iowa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ia.m3u
+
+#EXTINF:-1, United States: Kansas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ks.m3u
+
+#EXTINF:-1, United States: Kentucky
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ky.m3u
+
+#EXTINF:-1, United States: Louisiana
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-la.m3u
+
+#EXTINF:-1, United States: Maine
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-me.m3u
+
+#EXTINF:-1, United States: Maryland
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-md.m3u
+
+#EXTINF:-1, United States: Massachusetts
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ma.m3u
+
+#EXTINF:-1, United States: Michigan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-mi.m3u
+
+#EXTINF:-1, United States: Minnesota
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-mn.m3u
+
+#EXTINF:-1, United States: Mississippi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ms.m3u
+
+#EXTINF:-1, United States: Missouri
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-mo.m3u
+
+#EXTINF:-1, United States: Montana
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-mt.m3u
+
+#EXTINF:-1, United States: Nebraska
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ne.m3u
+
+#EXTINF:-1, United States: Nevada
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nv.m3u
+
+#EXTINF:-1, United States: New Hampshire
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nh.m3u
+
+#EXTINF:-1, United States: New Jersey
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nj.m3u
+
+#EXTINF:-1, United States: New Mexico
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nm.m3u
+
+#EXTINF:-1, United States: New York
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ny.m3u
+
+#EXTINF:-1, United States: North Carolina
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nc.m3u
+
+#EXTINF:-1, United States: North Dakota
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nd.m3u
+
+#EXTINF:-1, United States: Ohio
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-oh.m3u
+
+#EXTINF:-1, United States: Oklahoma
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ok.m3u
+
+#EXTINF:-1, United States: Oregon
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-or.m3u
+
+#EXTINF:-1, United States: Pennsylvania
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-pa.m3u
+
+#EXTINF:-1, United States: Puerto Rico
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-pr.m3u
+
+#EXTINF:-1, United States: Rhode Island
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ri.m3u
+
+#EXTINF:-1, United States: South Carolina
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-sc.m3u
+
+#EXTINF:-1, United States: South Dakota
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-sd.m3u
+
+#EXTINF:-1, United States: Tennessee
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-tn.m3u
+
+#EXTINF:-1, United States: Texas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-tx.m3u
+
+#EXTINF:-1, United States: Utah
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ut.m3u
+
+#EXTINF:-1, United States: Vermont
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-vt.m3u
+
+#EXTINF:-1, United States: Virginia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-va.m3u
+
+#EXTINF:-1, United States: Washington
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-wa.m3u
+
+#EXTINF:-1, United States: Wisconsin
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-wi.m3u
+
+#EXTINF:-1, United States: Wyoming
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-wy.m3u
+
+#EXTINF:-1, Uruguay
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uy.m3u
+
+#EXTINF:-1, Uzbekistan
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uz.m3u
+
+#EXTINF:-1, Vatican City
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/va.m3u
+
+#EXTINF:-1, Venezuela
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ve.m3u
+
+#EXTINF:-1, Vietnam
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/vn.m3u
+
+#EXTINF:-1, Western Sahara
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/eh.m3u
+
+#EXTINF:-1, Yemen
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ye.m3u
+
+#EXTINF:-1, Zambia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/zm.m3u
+
+#EXTINF:-1, Afrikaans
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/afr.m3u
+
+#EXTINF:-1, Akan
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/aka.m3u
+
+#EXTINF:-1, Albanian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/sqi.m3u
+
+#EXTINF:-1, Amharic
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/amh.m3u
+
+#EXTINF:-1, Arabic
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ara.m3u
+
+#EXTINF:-1, Armenian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/hye.m3u
+
+#EXTINF:-1, Assyrian Neo-Aramaic
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/aii.m3u
+
+#EXTINF:-1, Azerbaijani
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/aze.m3u
+
+#EXTINF:-1, Bashkir
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bak.m3u
+
+#EXTINF:-1, Belarusian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bel.m3u
+
+#EXTINF:-1, Bengali
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ben.m3u
+
+#EXTINF:-1, Bhojpuri
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bho.m3u
+
+#EXTINF:-1, Bislama
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bis.m3u
+
+#EXTINF:-1, Bosnian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bos.m3u
+
+#EXTINF:-1, Bulgarian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bul.m3u
+
+#EXTINF:-1, Burmese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mya.m3u
+
+#EXTINF:-1, Catalan
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/cat.m3u
+
+#EXTINF:-1, Chichewa
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nya.m3u
+
+#EXTINF:-1, Chinese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/zho.m3u
+
+#EXTINF:-1, Croatian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/hrv.m3u
+
+#EXTINF:-1, Czech
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ces.m3u
+
+#EXTINF:-1, Danish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/dan.m3u
+
+#EXTINF:-1, Dhivehi
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/div.m3u
+
+#EXTINF:-1, Dutch
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nld.m3u
+
+#EXTINF:-1, Dzongkha
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/dzo.m3u
+
+#EXTINF:-1, English
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/eng.m3u
+
+#EXTINF:-1, Estonian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/est.m3u
+
+#EXTINF:-1, Faroese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/fao.m3u
+
+#EXTINF:-1, Finnish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/fin.m3u
+
+#EXTINF:-1, French
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/fra.m3u
+
+#EXTINF:-1, Galician
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/glg.m3u
+
+#EXTINF:-1, Georgian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kat.m3u
+
+#EXTINF:-1, German
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/deu.m3u
+
+#EXTINF:-1, Greek
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ell.m3u
+
+#EXTINF:-1, Greenlandic
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kal.m3u
+
+#EXTINF:-1, Hebrew
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/heb.m3u
+
+#EXTINF:-1, Hindi
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/hin.m3u
+
+#EXTINF:-1, Hungarian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/hun.m3u
+
+#EXTINF:-1, Icelandic
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/isl.m3u
+
+#EXTINF:-1, Indonesian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ind.m3u
+
+#EXTINF:-1, Inuktitut
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/iku.m3u
+
+#EXTINF:-1, Irish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/gle.m3u
+
+#EXTINF:-1, Italian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ita.m3u
+
+#EXTINF:-1, Japanese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/jpn.m3u
+
+#EXTINF:-1, Javanese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/jav.m3u
+
+#EXTINF:-1, Kannada
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kan.m3u
+
+#EXTINF:-1, Kazakh
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kaz.m3u
+
+#EXTINF:-1, Khmer
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/khm.m3u
+
+#EXTINF:-1, Kinyarwanda
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kin.m3u
+
+#EXTINF:-1, Korean
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kor.m3u
+
+#EXTINF:-1, Kurdish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kur.m3u
+
+#EXTINF:-1, Kyrgyz
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kir.m3u
+
+#EXTINF:-1, Lao
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/lao.m3u
+
+#EXTINF:-1, Latvian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/lav.m3u
+
+#EXTINF:-1, Lingala
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/lin.m3u
+
+#EXTINF:-1, Lithuanian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/lit.m3u
+
+#EXTINF:-1, Luxembourgish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ltz.m3u
+
+#EXTINF:-1, Macedonian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mkd.m3u
+
+#EXTINF:-1, Malay
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/msa.m3u
+
+#EXTINF:-1, Malayalam
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mal.m3u
+
+#EXTINF:-1, Maltese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mlt.m3u
+
+#EXTINF:-1, Mandarin Chinese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/cmn.m3u
+
+#EXTINF:-1, Mandinka
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mnk.m3u
+
+#EXTINF:-1, Maori
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mri.m3u
+
+#EXTINF:-1, Marathi
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mar.m3u
+
+#EXTINF:-1, Min Nan Chinese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nan.m3u
+
+#EXTINF:-1, Mongolian
+#EXTGRP: Language
+ttps://iptv-org.github.io/iptv/languages/mon.m3u
+
+#EXTINF:-1, Montenegrin
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/cnr.m3u
+
+#EXTINF:-1, Nepali
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nep.m3u
+
+#EXTINF:-1, Norwegian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nor.m3u
+
+#EXTINF:-1, Norwegian Bokmal
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nob.m3u
+
+#EXTINF:-1, Papiamento
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/pap.m3u
+
+#EXTINF:-1, Pashto
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/pus.m3u
+
+#EXTINF:-1, Persian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/fas.m3u
+
+#EXTINF:-1, Polish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/pol.m3u
+
+#EXTINF:-1, Portuguese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/por.m3u
+
+#EXTINF:-1, Punjabi
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/pan.m3u
+
+#EXTINF:-1, Romanian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ron.m3u
+
+#EXTINF:-1, Russian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/rus.m3u
+
+#EXTINF:-1, Samoan
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/smo.m3u
+
+#EXTINF:-1, Serbian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/srp.m3u
+
+#EXTINF:-1, Sinhala
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/sin.m3u
+
+#EXTINF:-1, Slovak
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/slk.m3u
+
+#EXTINF:-1, Slovenian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/slv.m3u
+
+#EXTINF:-1, Somali
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/som.m3u
+
+#EXTINF:-1, Spanish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/spa.m3u
+
+#EXTINF:-1, Sundanese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/sun.m3u
+
+#EXTINF:-1, Swahili
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/swa.m3u
+
+#EXTINF:-1, Swedish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/swe.m3u
+
+#EXTINF:-1, Tagalog
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tgl.m3u
+
+#EXTINF:-1, Tajik
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tgk.m3u
+
+#EXTINF:-1, Tamil
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tam.m3u
+
+#EXTINF:-1, Telugu
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tel.m3u
+
+#EXTINF:-1, Thai
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tha.m3u
+
+#EXTINF:-1, Tigrinya
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tir.m3u
+
+#EXTINF:-1, Turkish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tur.m3u
+
+#EXTINF:-1, Turkmen
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tuk.m3u
+
+#EXTINF:-1, Ukrainian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ukr.m3u
+
+#EXTINF:-1, Urdu
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/urd.m3u
+
+#EXTINF:-1, Uzbek
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/uzb.m3u
+
+#EXTINF:-1, Vietnamese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/vie.m3u
+
+#EXTINF:-1, Western Frisian	
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/fry.m3u
+
+#EXTINF:-1, Wolof
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/wol.m3u
+
+#EXTINF:-1, Yue Chinese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/yue.m3u
+
+#EXTINF:-1, Undefined
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/undefined.m3u
+
+#EXTINF:-1, Africa
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/afr.m3u
+
+#EXTINF:-1, Americas
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/amer.m3u
+
+#EXTINF:-1, Arab world
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/arab.m3u
+
+#EXTINF:-1, Asia
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/asia.m3u
+
+#EXTINF:-1, Asia-Pacific
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/apac.m3u
+
+#EXTINF:-1, Caribbean
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/carib.m3u
+
+#EXTINF:-1, Central Asia
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/cas.m3u
+
+#EXTINF:-1, Commonwealth of Independent States
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/cis.m3u
+
+#EXTINF:-1, Europe
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/eur.m3u
+
+#EXTINF:-1, Europe, the Middle East and Africa
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/emea.m3u
+
+#EXTINF:-1, Hispanic America
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/hispam.m3u
+
+#EXTINF:-1, Latin America
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/latam.m3u
+
+#EXTINF:-1, Latin America and the Caribbean
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/lac.m3u
+
+#EXTINF:-1, Maghreb
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/maghreb.m3u
+
+#EXTINF:-1, Middle East
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/mideast.m3u
+
+#EXTINF:-1, Middle East and North Africa
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/mena.m3u
+
+#EXTINF:-1, Nordics
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/nord.m3u
+
+#EXTINF:-1, North America
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/noram.m3u
+
+#EXTINF:-1, Northern America
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/nam.m3u
+
+#EXTINF:-1, Oceania
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/oce.m3u
+
+#EXTINF:-1, South Asia
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/sas.m3u
+
+#EXTINF:-1, Sub-Saharan Africa
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/ssa.m3u
+
+#EXTINF:-1, Undefined
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/undefined.m3u
+
+#EXTINF:-1, West Africa
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/wafr.m3u
+
+#EXTINF:-1, Worldwide
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/int.m3u
+
+#EXTINF:-1, Adult
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_adultiptv.m3u
+
+#EXTINF:-1, Adult Swim [Germany]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_adultswim.m3u
+
+#EXTINF:-1, Adult Swim [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_adultswim.m3u
+
+#EXTINF:-1, BTV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_localbtv.m3u
+
+#EXTINF:-1, Bumble Bee [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_bumblebee.m3u
+
+#EXTINF:-1, Catcast [Russia]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_catcast.m3u
+
+#EXTINF:-1, Channel Box [UK]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_channelbox.m3u
+
+#EXTINF:-1, Distro TV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_distro.m3u
+
+#EXTINF:-1, Euronews [France]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_euronews.m3u
+
+#EXTINF:-1, fuboTV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_fubo.m3u
+
+#EXTINF:-1, Glewed TV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_glewedtv.m3u
+
+#EXTINF:-1, IMDb TV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_imdbtv.m3u
+
+#EXTINF:-1, JagoBD [Bangladeshi]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd_jagobd.m3u
+
+#EXTINF:-1, Klowd TV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_klowdtv.m3u
+
+#EXTINF:-1, Okko TV [Russia]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_okkotv.m3u
+
+#EXTINF:-1, PBS [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pbs.m3u
+
+#EXTINF:-1, Plex [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_plex.m3u
+
+#EXTINF:-1, Pluto TV [Brasil]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
+
+#EXTINF:-1, Pluto TV [Mexico]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_pluto.m3u
+
+#EXTINF:-1, Pluto TV [France]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_pluto.m3u
+
+#EXTINF:-1, Pluto TV [Germany]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_pluto.m3u
+
+#EXTINF:-1, Pluto TV [Spain]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_pluto.m3u
+
+#EXTINF:-1, Pluto TV [UK]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_pluto.m3u
+
+#EXTINF:-1, Pluto TV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pluto.m3u
+
+#EXTINF:-1, Rakuten [Finland]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_rakuten.m3u
+
+#EXTINF:-1, Rakuten [France]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u
+
+#EXTINF:-1, Rakuten [Germany]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_rakuten.m3u
+
+#EXTINF:-1, Rakuten [Italy]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it_rakuten.m3u
+
+#EXTINF:-1, Rakuten [Spain]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_rakuten.m3u
+
+#EXTINF:-1, Rakuten [UK]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_rakuten.m3u
+
+#EXTINF:-1, Redbox [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_redbox.m3u
+
+#EXTINF:-1, Red Traffic [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_redtraffic.m3u
+
+#EXTINF:-1, Roku [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_roku.m3u
+
+#EXTINF:-1, Samsung TV Plus [Australia]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Austria]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Belgium]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Brasil]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Canada]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Denmark]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Finland]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [France]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Germany]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Ireland]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [India]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Italy]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Luxemburg]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lu_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Mexico]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Netherland]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nl_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [New Zeland]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nz_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Norway]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/no_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Portugal]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Spain]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Sweden]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/se_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Swiss]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [UK]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_samsung.m3u
+
+#EXTINF:-1, SimulTV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_simultv.m3u
+
+#EXTINF:-1, Sluhay [Belarusian]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by_sluhay.m3u
+
+#EXTINF:-1, Sports Tribal [UK]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_sportstribal.m3u
+
+#EXTINF:-1, SSH101 [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_ssh101.m3u
+
+#EXTINF:-1, Stingray [Canada]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_stingray.m3u
+
+#EXTINF:-1, Stirr [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_stirr.m3u
+
+#EXTINF:-1, TCL [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tcl.m3u
+
+#EXTINF:-1, Tubi [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tubi.m3u
+
+#EXTINF:-1, Vizio [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_vizio.m3u
+
+#EXTINF:-1, WFMZ [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_wfmz.m3u
+
+#EXTINF:-1, Xumo [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_xumo.m3u
