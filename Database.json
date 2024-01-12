@@ -207,7 +207,7 @@
   },
   {
     "Name":"[VOD] Documentaries",
-    "Address":"https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/LISTE\/\/main\/\/Documentaries.m3u",
+    "Address":"https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/STBEmu\/\/main\/\/Documentaries.m3u",
     "Mac":"",
     "Username":"",
     "Password":"",
@@ -217,7 +217,7 @@
   },
   {
     "Name":"[VOD] Family Guy",
-    "Address":"https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/LISTE\/\/main\/\/FamilyGuy.m3u",
+    "Address":"https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/STBEmu\/\/main\/\/FamilyGuy.m3u",
     "Mac":"",
     "Username":"",
     "Password":"",
@@ -227,7 +227,7 @@
   },
   {
     "Name":"[VOD] The Simpsons",
-    "Address":"https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/LISTE\/\/main\/\/TheSimpsons.m3u",
+    "Address":"https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/STBEmu\/\/main\/\/TheSimpsons.m3u",
     "Mac":"",
     "Username":"",
     "Password":"",
