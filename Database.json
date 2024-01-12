@@ -203,7 +203,24 @@
     "HttpProxy": "",
     "RequestMethod": "POST"
   },
-  {
+ {
+    "Name": "IPTVorg",
+    "Address": "https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/IPTVorg.m3u",
+    "Mac": "",
+    "Username": "",
+    "Password": "",
+    "SerialNumber": "",
+    "DeviceID": "",
+    "DeviceID2": "",
+    "Firmware": "",
+    "StbModel": "",
+    "TimeZone": "",
+    "UserAgent": "",
+    "PlayerUserAgent": "",
+    "HttpProxy": "",
+    "RequestMethod": "GET"
+  }, 
+ {
     "Name": "[VOD] Documentaries",
     "Address": "https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/Documentaries.m3u",
     "Mac": "",
@@ -222,23 +239,6 @@
     "SerialNumber": "",
     "DeviceID": "",
     "DeviceID2": ""
-  },
-  {
-    "Name": "[VOD] IPTVorg",
-    "Address": "https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/IPTVorg.m3u",
-    "Mac": "",
-    "Username": "",
-    "Password": "",
-    "SerialNumber": "",
-    "DeviceID": "",
-    "DeviceID2": "",
-    "Firmware": "",
-    "StbModel": "",
-    "TimeZone": "",
-    "UserAgent": "",
-    "PlayerUserAgent": "",
-    "HttpProxy": "",
-    "RequestMethod": "GET"
   },
   {
     "Name": "[VOD] The Simpsons",
