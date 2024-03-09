@@ -154,8 +154,8 @@
   },
   {
     "Name": "[TV] Portal 4 #1",
-    "Address": "http:\/\/magm1giillmig.funtogether.xyz:8080\/c\/",
-    "Mac": "00:1A:79:67:D4:BF",
+    "Address": "http:\/\/fastopen.live:8080\/c\/",
+    "Mac": "00:1A:79:5D:42:30",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -171,8 +171,8 @@
   },
   {
     "Name": "[TV] Portal 4 #2",
-    "Address": "http:\/\/magm1giillmig.funtogether.xyz:8080\/c\/",
-    "Mac": "00:1A:79:63:91:A3",
+    "Address": "http:\/\/fastopen.live:8080\/c\/",
+    "Mac": "00:1A:79:5A:0E:36",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -188,8 +188,8 @@
   },
   {
     "Name": "[TV] Portal 4 #3",
-    "Address": "http:\/\/magm1giillmig.funtogether.xyz:8080\/c\/",
-    "Mac": "00:1A:79:6D:DD:89",
+    "Address": "http:\/\/fastopen.live:8080\/c\/",
+    "Mac": "00:1A:79:43:9E:E8",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -203,7 +203,7 @@
     "HttpProxy": "",
     "RequestMethod": "POST"
   },
- {
+  {
     "Name": "IPTVorg",
     "Address": "https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/IPTVorg.m3u",
     "Mac": "",
@@ -219,8 +219,8 @@
     "PlayerUserAgent": "",
     "HttpProxy": "",
     "RequestMethod": "GET"
-  }, 
- {
+  },
+  {
     "Name": "[VOD] Documentaries",
     "Address": "https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/Documentaries.m3u",
     "Mac": "",
