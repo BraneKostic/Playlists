@@ -1,8 +1,8 @@
 [
   {
     "Name": "[TV] Portal 1 #1",
-    "Address": "http:\/\/putin.streamtv.to:8080\/c\/",
-    "Mac": "00:1A:79:A2:FB:1D",
+    "Address": "http:\/\/ledir.thund.re\/c\/",
+    "Mac": "00:1a:79:23:7f:3c",
     "Username": "",
     "Password": "",
     "SerialNumber": "",
@@ -243,6 +243,16 @@
   {
     "Name": "[VOD] The Simpsons",
     "Address": "https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/TheSimpsons.m3u",
+    "Mac": "",
+    "Username": "",
+    "Password": "",
+    "SerialNumber": "",
+    "DeviceID": "",
+    "DeviceID2": ""
+  },
+  {
+    "Name": "[VOD] WebCams",
+    "Address": "https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/WebCams.m3u",
     "Mac": "",
     "Username": "",
     "Password": "",
