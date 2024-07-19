@@ -1,11 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, 13Th
-#EXTGRP: #
+
+#EXTINF:0 tvg-id="channel-x" tvg-name="13Th" group-title="Entertainment" tvg-chno="10" tvg-logo="http://path-to-icons/channel-x.png" radio="true" tvg-shift="-3.5",Channel X
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/13Th.2016.Webrip.720P.x264-MkvCage%20%28www.Downloadha.com%29.mkv
 
-#EXTINF:-1, 20th Century With Mike Wallace: Cuba And Castro
-#EXTGRP: #
+#EXTINF:0 tvg-id="channel-x" tvg-name="20th Century With Mike Wallace: Cuba And Castro" group-title="Entertainment" tvg-chno="10" tvg-logo="http://path-to-icons/channel-x.png" radio="true" tvg-shift="-3.5",Channel X
 https://ftphost.nohum.net/video/History Channel/20th Century with Mike Wallace - Cuba and Castro.mp4
 
 #EXTINF:-1, 20th Century With Mike Wallace: Vietnam How We Went To War
