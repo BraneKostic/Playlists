@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:-1, group-title="Documentaries #", 10 Days That Changed America E1: Antietam
 https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 1_5.mp4
@@ -1724,10 +1725,9 @@ http://doc.downloadha.com/h/Documentaries/May2020/BBC.Blue.Planet.Revisited/BBC.
 http://doc.downloadha.com/h/Documentaries/May2020/BBC.Blue.Planet.Revisited/BBC.Blue.Planet.Revisited.2of2.Great.Barrier.Reef.1080p.HDTV.x265.AAC.MVGroup_www.Downloadha.com_.mkv
 
 #EXTINF:-1, group-title="Documentaries B", BBC Blue Planet UK S01E01
-#EXT-X-PLAYLIST-TYPE:VOD
 http://doc.downloadha.com/parsa/March2019/BBC.Blue.Planet.UK.2019/BBC.Blue.Planet.UK.2019.1of5.720p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mkv
 
-#EXTINF:-1, media="true", group-title="Documentaries B", BBC Blue Planet UK S01E02
+#EXTINF:-1, group-title="Documentaries B", BBC Blue Planet UK S01E02
 http://doc.downloadha.com/parsa/March2019/BBC.Blue.Planet.UK.2019/BBC.Blue.Planet.UK.2019.2of5.720p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mkv
 
 #EXTINF:-1, group-title="Documentaries B", BBC Blue Planet UK S01E03
