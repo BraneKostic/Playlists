@@ -1727,7 +1727,7 @@ http://doc.downloadha.com/h/Documentaries/May2020/BBC.Blue.Planet.Revisited/BBC.
 #EXT-X-PLAYLIST-TYPE:VOD
 http://doc.downloadha.com/parsa/March2019/BBC.Blue.Planet.UK.2019/BBC.Blue.Planet.UK.2019.1of5.720p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mkv
 
-#EXTINF:-1, group-title="Documentaries B", BBC Blue Planet UK S01E02
+#EXTINF:-1, media="true", group-title="Documentaries B", BBC Blue Planet UK S01E02
 http://doc.downloadha.com/parsa/March2019/BBC.Blue.Planet.UK.2019/BBC.Blue.Planet.UK.2019.2of5.720p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mkv
 
 #EXTINF:-1, group-title="Documentaries B", BBC Blue Planet UK S01E03
