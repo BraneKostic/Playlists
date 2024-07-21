@@ -1,4 +1,7 @@
 #EXTM3U
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 
 #EXTINF:-1, group-title="Documentaries #", 10 Days That Changed America E1: Antietam
 https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 1_5.mp4
@@ -3330,9 +3333,6 @@ http//s5.bitdl.ir/Clips/Documentary/BBC.The.Beauty.of.Anatomy/BBC.The.Beauty.of.
 http://doc.downloadha.com/Behnam/Documentaries/December2017/BBC.The.Best.King.We.Never.Had.PDTV.x264.AAC-MVGroup_www.Downloadha.com_.mkv
 
 #EXTINF:-1, group-title="Documentaries B", BBC The Blue Planet S01E01: Ocean World
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part1.1080p.BluRay.H264.AAC-RARBG_www.Downloadha.com_.mp4
 
 #EXTINF:-1, group-title="Documentaries B", BBC The Blue Planet S01E01: Ocean World
