@@ -2,7 +2,7 @@
   {
     "Name":"[TV] Portal 1 #1",
     "Address":"http:\/\/putin.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:4C:EE:E0",
+    "Mac":"00:1A:79:A2:F9:CD",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -21,7 +21,7 @@
   {
     "Name":"[TV] Portal 1 #2",
     "Address":"http:\/\/putin.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:A3:8D:87",
+    "Mac":"00:1A:79:AE:63:9F",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -38,7 +38,7 @@
   {
     "Name":"[TV] Portal 1 #3",
     "Address":"http:\/\/putin.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:A9:F1:FF",
+    "Mac":"00:1A:79:AE:63:A8",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -55,7 +55,7 @@
   {
     "Name":"[TV] Portal 2 #1",
     "Address":"http:\/\/line.greatstar.me\/c\/",
-    "Mac":"00:1A:79:BA:A8:0F",
+    "Mac":"00:1A:79:B1:8C:6D",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -89,7 +89,7 @@
   {
     "Name":"[TV] Portal 2 #3",
     "Address":"http:\/\/line.greatstar.me\/c\/",
-    "Mac":"00:1A:79:C0:17:6F",
+    "Mac":"00:1A:79:B4:AF:AB",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -106,7 +106,7 @@
   {
     "Name":"[TV] Portal 3 #1",
     "Address":"http:\/\/liveline.store:8000\/c\/",
-    "Mac":"00:1A:79:6C:D7:EF",
+    "Mac":"00:1A:79:6E:C5:00",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -123,7 +123,7 @@
   {
     "Name":"[TV] Portal 3 #2",
     "Address":"http:\/\/liveline.store:8000\/c\/",
-    "Mac":"00:1A:79:AB:C7:62",
+    "Mac":"00:1A:79:6E:C2:97",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -140,7 +140,7 @@
   {
     "Name":"[TV] Portal 3 #3",
     "Address":"http:\/\/liveline.store:8000\/c\/",
-    "Mac":"00:1A:79:AB:C0:F6",
+    "Mac":"00:1A:79:6F:14:EE",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -157,7 +157,7 @@
   {
     "Name":"[TV] Portal 4 #1",
     "Address":"http:\/\/fastopen.live:8080\/c\/",
-    "Mac":"00:1A:79:53:0A:0A",
+    "Mac":"00:1A:79:B7:84:96",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -174,7 +174,7 @@
   {
     "Name":"[TV] Portal 4 #2",
     "Address":"http:\/\/fastopen.live:8080\/c\/",
-    "Mac":"00:1A:79:58:62:53",
+    "Mac":"00:1A:79:4A:5A:BC",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -191,7 +191,7 @@
   {
     "Name":"[TV] Portal 4 #3",
     "Address":"http:\/\/fastopen.live:8080\/c\/",
-    "Mac":"00:1A:79:B3:1F:3D",
+    "Mac":"00:1A:79:58:24:26",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
