@@ -105,7 +105,7 @@
   },
   {
     "Name":"[TV] Portal 3 #1",
-    "Address":"http:\/\/liveline.store:8000\/c\/",
+    "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
     "Mac":"00:1A:79:6E:C5:00",
     "Username":"",
     "Password":"",
@@ -122,8 +122,8 @@
   },
   {
     "Name":"[TV] Portal 3 #2",
-    "Address":"http:\/\/liveline.store:8000\/c\/",
-    "Mac":"00:1A:79:6E:C2:97",
+    "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
+    "Mac":"00:1A:79:B8:7E:58",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -138,9 +138,9 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 3 #3",
-    "Address":"http:\/\/liveline.store:8000\/c\/",
-    "Mac":"00:1A:79:6F:14:EE",
+    "Name":"{OFFLINE} [TV] Portal 3 #3",
+    "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
+    "Mac":"00:1A:79:BC:DD:91",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
