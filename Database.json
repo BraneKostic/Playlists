@@ -138,7 +138,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"{OFFLINE} [TV] Portal 3 #3",
+    "Name":"[TV] Portal 3 #3",
     "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
     "Mac":"00:1A:79:C1:C1:8C",
     "Username":"",
