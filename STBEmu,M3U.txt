@@ -1,0 +1,225 @@
+##################################################################
+
+PORTAL #1 [ http://putin.streamtv.to:8080/c/ ]
+==============================================
+EXPIRE			MAC
+-----------------------------------------
+April 20, 2026		00:1A:79:AE:48:6F
+August 14, 2026		00:1A:79:AD:4F:19
+February 14, 2026	00:1A:79:54:E6:3F
+February 6, 2026	00:1A:79:BF:1F:31
+January 13, 2026	00:1A:79:AB:41:76
+January 14, 2026	00:1A:79:5C:E5:C0
+January 21, 2026	00:1A:79:BC:EB:7D
+January 24, 2026	00:1A:79:A9:E5:9C
+January 24, 2026	00:1A:79:B3:1B:C5
+January 4, 2026		00:1A:79:B8:DB:25
+July 6, 2026		00:1A:79:AD:14:28
+June 4, 2026		00:1A:79:A9:D6:84
+March 10, 2026		00:1A:79:AD:58:FA
+March 13, 2026		00:1A:79:AA:77:52
+March 14, 2026		00:1A:79:C0:75:59
+March 25, 2026		00:1A:79:50:C2:0D
+May 1, 2026		00:1A:79:5E:31:F9
+May 21, 2026		00:1A:79:45:81:F1
+May 21, 2026		00:1A:79:B0:46:58
+May 24, 2026		00:1A:79:A1:FD:69
+November 20, 2026	00:1A:79:AD:59:B6
+October 12, 2026	00:1A:79:A9:F1:2F
+October 19, 2026	00:1A:79:A4:63:8F
+
+April 5, 2026		00:1A:79:BD:96:B0	2
+August 17, 2026		00:1A:79:BB:3D:36
+December 7, 2026	00:1A:79:B4:48:59
+February 1, 2026	00:1A:79:C0:B4:37	2
+February 16, 2026	00:1A:79:BF:2F:82	2
+February 20, 2026	00:1A:79:4D:8B:9D	3
+February 27, 2026	00:1A:79:B2:8C:4D	2
+February 3, 2026	00:1A:79:BA:B4:27	3
+January 20, 2026	00:1A:79:BB:BF:AF	2
+January 27, 2026	00:1A:79:B7:53:D0	3
+January 5, 2026		00:1A:79:B9:87:DE	2
+January 5, 2026		00:1A:79:BA:73:F1	3
+January 5, 2026		00:1A:79:C0:96:55	2
+January 7, 2026		00:1A:79:B4:33:EA	3
+January 9, 2026		00:1A:79:B5:95:6B	3
+July 18, 2026		00:1A:79:BC:29:00
+June 3, 2026		00:1A:79:BC:3C:36
+March 16, 2026		00:1A:79:BA:21:FF	2
+March 19, 2026		00:1A:79:BC:8D:38	3
+March 2, 2026		00:1A:79:BB:2B:84	2
+March 30, 2026		00:1A:79:BA:A7:65	3
+May 5, 2026		00:1A:79:BA:9D:F4
+November 8, 2026	00:1A:79:C0:2C:84
+October 6, 2026		00:1A:79:C0:1C:3A
+September 24, 2026	00:1A:79:BA:66:5B
+September 5, 2026	00:1A:79:BA:AD:16
+
+
+
+
+
+PORTAL #2 [ http://hans_monika.streamtv.to:8080/c/ ]
+====================================================
+EXPIRE			MAC
+----------------------------------------------------
+April 17, 2026		00:1A:79:43:21:E3
+April 23, 2026		00:1A:79:50:23:FE
+April 30, 2026		00:1A:79:A3:FB:BC
+April 7, 2026		00:1A:79:A7:A8:79
+August 25, 2026		00:1A:79:AC:DA:13
+August 3, 2026		00:1A:79:A6:E0:B0
+August 6, 2026		00:1A:79:AE:27:95
+February 14, 2026	00:1A:79:54:E6:3F
+February 21, 2026	00:1A:79:5D:41:F7
+February 3, 2026	00:1A:79:A9:30:16
+January 20, 2026	00:1A:79:A3:1B:8C
+January 20, 2026	00:1A:79:AB:58:6E
+January 29, 2026	00:1A:79:A3:1B:8C
+January 4, 2026		00:1A:79:AD:F3:C1
+July 15, 2026		00:1A:79:4E:F1:4A
+July 17, 2026		00:1A:79:31:B1:68
+July 6, 2026		00:1A:79:AA:D7:06
+July 9, 2026		00:1A:79:32:AB:42
+June 12, 2026		00:1A:79:B0:8F:DA
+June 2, 2026		00:1A:79:39:3B:54
+June 27, 2026		00:1A:79:40:31:16
+June 27, 2026		00:1A:79:A7:DA:1B
+June 28, 2026		00:1A:79:AE:5B:C5
+June 29, 2026		00:1A:79:A6:00:F7
+March 10, 2026		00:1A:79:A2:C9:82
+March 14, 2026		00:1A:79:32:75:89
+March 22, 2026		00:1A:79:A9:C3:7D
+March 29, 2026		00:1A:79:39:DE:81
+March 7, 2026		00:1A:79:AB:1B:9D
+May 15, 2026		00:1A:79:4E:50:AC
+May 20, 2026		00:1A:79:4D:03:D7
+May 27, 2026		00:1A:79:38:C5:1F
+May 7, 2026		00:1A:79:40:63:D9
+October 3, 2026		00:1A:79:AD:44:32
+September 2, 2026	00:1A:79:AD:81:25
+September 29, 2026	00:1A:79:58:18:BD
+
+
+
+PORTAL #3 [ http://nicolaj.123tv.to:8080/c/ ]
+=============================================
+EXPIRE			MAC
+------------------------------------------
+April 12, 2026		00:1A:79:FB:3A:20	1
+April 23, 2026		00:1A:79:C3:44:F3	3
+April 9, 2026		00:1A:79:AF:87:FC	1
+February 13, 2026	00:1A:79:A6:23:91	3
+February 2, 2026	00:1A:79:AF:76:32	1
+February 4, 2026	00:1A:79:AE:92:64	2
+February 8, 2026	00:1A:79:C0:22:D4	1
+January 10, 2026	00:1A:79:C6:D8:00	1
+January 13, 2026	00:1A:79:AB:41:76	2
+January 16, 2026	00:1A:79:AD:50:52	1
+July 17, 2026		00:1A:79:C2:0E:5A	2
+June 13, 2026		00:1A:79:B6:7E:6E	1
+March 15, 2026		00:1A:79:01:6E:3F	2	ok
+March 20, 2026		00:1A:79:BA:48:FF	3	ok
+March 4, 2026		00:1A:79:05:7E:50	1
+March 8, 2026		00:1A:79:CD:2F:E3	2
+May 12, 2026		00:1A:79:A2:6D:A0	3
+November 19, 2026	00:1A:79:B0:CB:4F	3
+October 17, 2026	00:1A:79:AB:F8:A4	1
+October 3, 2026		00:1A:79:AB:56:8E	1 {offline?}
+September 10, 2026	00:1A:79:A1:AE:A6	1
+September 10, 2026	00:1A:79:A1:AE:A6	1
+September 16, 2026	00:1A:79:AB:E8:0D	2
+September 25, 2026	00:1A:79:A3:96:BF	1
+
+April 22, 2026		00:1A:79:B4:08:83	1
+April 4, 2026		00:1A:79:B2:6D:DD	2
+August 15, 2026		00:1A:79:B7:48:59	1
+February 13, 2026	00:1A:79:BD:50:64	1
+February 26, 2026	00:1A:79:B9:08:F4	2
+January 15, 2026	00:1A:79:BC:1A:29	2
+January 27, 2026	00:1A:79:B7:42:3A	1
+January 5, 2026		00:1A:79:B9:87:DE	1
+June 3, 2026		00:1A:79:C0:92:C5	2
+March 16, 2026		00:1A:79:BA:21:FF	1
+March 20, 2026		00:1A:79:B2:05:F7	2
+March 21, 2026		00:1A:79:B5:2C:6A	1
+March 30, 2026		00:1A:79:BA:A7:65	2
+March 6, 2026		00:1A:79:B7:3F:C3	1
+May 22, 2026		00:1A:79:B8:7E:E1	2
+October 17, 2026	00:1A:79:BD:53:12	2
+September 16, 2026	00:1A:79:C0:0F:E9	2
+
+
+
+PORTAL #4 [ http://fastopen.live:8080/c/ ]
+==========================================================
+EXPIRE			MAC
+----------------------------------------------------------
+April 2, 2026		00:1A:79:BF:CD:CB	2
+April 4, 2026		00:1A:79:B2:6D:DD	1
+August 29, 2026		00:1A:79:BA:60:51
+August 3, 2026		00:1A:79:BA:56:84	3
+February 12, 2026	00:1A:79:BA:53:AD	3
+February 15, 2026	00:1A:79:B5:D6:47	2	ok
+February 19, 2026	00:1A:79:B9:F7:1D	3
+February 20, 2026	00:1A:79:4D:8B:9D	2
+February 23, 2026	00:1A:79:AD:86:2E	1
+February 27, 2026	00:1A:79:58:65:31
+February 3, 2026	00:1A:79:4B:54:33	1
+February 7, 2026	00:1A:79:BD:4D:D7	1
+February 9, 2026	00:1A:79:B6:72:0B	2
+January 11, 2026	00:1A:79:B2:15:C3
+January 14, 2026	00:1A:79:BD:3B:48	1	ok
+January 2, 2026		00:1A:79:4C:90:B9	1
+January 28, 2026	00:1A:79:5E:33:2E	3
+January 29, 2026	00:1A:79:A1:0F:29	1
+January 30, 2026	00:1A:79:A5:91:8D	1
+January 7, 2026		00:1A:79:B4:33:EA
+June 11, 2026		00:1A:79:B3:A6:BB		1
+June 19, 2026		00:1A:79:BC:E4:19	2
+June 28, 2026		00:1A:79:59:B1:C0
+June 30, 2026		00:1A:79:4F:BA:8B	3   	ok
+June 5, 2026		00:1A:79:BD:2F:82		1
+March 22, 2026		00:1A:79:4F:1B:FE	2
+March 4, 2026		00:1A:79:48:60:14	1
+May 28, 2026		00:1A:79:B9:08:F7		1
+September 16, 2026	00:1A:79:B5:2C:0C
+
+April 11, 2026		00:1A:79:B8:8C:ED
+April 25, 2026		00:1A:79:B5:15:5F
+February 15, 2026	00:1A:79:B5:D6:47
+February 16, 2026	00:1A:79:BA:25:0E
+July 20, 2026		00:1A:79:B5:12:FF
+July 3, 2026		00:1A:79:BF:9D:25
+June 12, 2026		00:1A:79:BA:D2:BE
+June 14, 2026		00:1A:79:B3:9A:A7
+June 28, 2026		00:1A:79:C0:C5:72
+May 10, 2026		00:1A:79:BD:58:5E
+November 8, 2026	00:1A:79:C0:2C:84
+November 8, 2026	00:1A:79:C0:8D:AC
+
+##################################################################
+
+M3U			http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=m3u
+M3U SIMPLE		http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=simple&output=<TS/RTMP/M3U8>
+M3U USER:PASS		http://<STALKER-PORTAL:PORT>/<USERNAME>/<PASSWORD>/<STREAM#>
+M3U PLUS (STRM)		http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=m3u_plus&output=<TS/RTMP/M3U8>
+EPG XML			http://<STALKER-PORTAL:PORT>/xmltv.php?username=<USERNAME>&password=<PASSWORD>
+FFMPEG (STRM)		http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=create_link&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F151_&series=0&forced_storage=false&disable_ad=false&download=false&force_ch_link_check=false&JsHttpRequest=1-xml
+GET GENRE INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=get_genres&JsHttpRequest=1-xml"
+GET MAIN USER INFO	http://<STALKER-PORTAL:PORT>/portal.php?type=account_info&action=get_main_info&mac=<MAC>
+GET ORDERED LIST	http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=get_ordered_list&genre=*&force_ch_link_check=&fav=0&sortby=number&hd=0&p=0
+GET PORTAL INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=stb&action=get_profile
+HANDSHAKE (TOKEN)	http://<STALKER-PORTAL:PORT>/portal.php?type=stb&action=handshake
+PANEL API		http://<STALKER-PORTAL:PORT>/panel_api.php?username=<USERNAME>&password=<PASSWORD>
+STATUS,ACTIVE CONS	http://<STALKER-PORTAL:PORT>/player_api.php?username=<USERNAME>&password=<PASSWORD>	
+BROWSER			http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?mac=<MAC>
+BROWSER (DEBUG)		http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?debug&debug_key=<DEBUG KEY>&mac=<MAC>
+BROWSER (KEYS)		ENTER [OK], F1 [Red], F2 [Green], F3 [Yellow], F4 [Blue], ESC [Exit] 
+
+##################################################################
+
+SEARCH FOR DOMAINS, IPS, FILENAMES, HASHES, ASNS
+https://urlscan.io/search/#filename:%22keydown.keycodes.js%22
+
+##################################################################
