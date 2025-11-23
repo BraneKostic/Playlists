@@ -5,59 +5,56 @@ PORTAL #1 [ http://putin.streamtv.to:8080/c/ ]
 EXPIRE			MAC
 -----------------------------------------
 April 20, 2026		00:1A:79:AE:48:6F
+April 5, 2026		00:1A:79:BD:96:B0
 August 14, 2026		00:1A:79:AD:4F:19
+August 17, 2026		00:1A:79:BB:3D:36
+December 7, 2026	00:1A:79:B4:48:59	#1
+February 1, 2026	00:1A:79:C0:B4:37
+February 12, 2026	00:1A:79:56:F2:79
 February 14, 2026	00:1A:79:54:E6:3F
+February 14, 2026	00:1A:79:54:E6:3F
+February 16, 2026	00:1A:79:BF:2F:82
+February 17, 2026	00:1A:79:52:94:FF
+February 20, 2026	00:1A:79:4D:8B:9D
+February 27, 2026	00:1A:79:B2:8C:4D
+February 3, 2026	00:1A:79:BA:B4:27
 February 6, 2026	00:1A:79:BF:1F:31
 January 13, 2026	00:1A:79:AB:41:76
 January 14, 2026	00:1A:79:5C:E5:C0
+January 20, 2026	00:1A:79:BB:BF:AF
 January 21, 2026	00:1A:79:BC:EB:7D
 January 24, 2026	00:1A:79:A9:E5:9C
 January 24, 2026	00:1A:79:B3:1B:C5
+January 27, 2026	00:1A:79:B7:53:D0
 January 4, 2026		00:1A:79:B8:DB:25
+January 5, 2026		00:1A:79:B9:87:DE
+January 5, 2026		00:1A:79:BA:73:F1
+January 5, 2026		00:1A:79:C0:96:55
+January 7, 2026		00:1A:79:B4:33:EA
+January 9, 2026		00:1A:79:B5:95:6B
+July 18, 2026		00:1A:79:BC:29:00	#2
 July 6, 2026		00:1A:79:AD:14:28
+June 3, 2026		00:1A:79:BC:3C:36
 June 4, 2026		00:1A:79:A9:D6:84
 March 10, 2026		00:1A:79:AD:58:FA
 March 13, 2026		00:1A:79:AA:77:52
 March 14, 2026		00:1A:79:C0:75:59
-March 25, 2026		00:1A:79:50:C2:0D	1 OK
+March 16, 2026		00:1A:79:BA:21:FF
+March 19, 2026		00:1A:79:BC:8D:38
+March 2, 2026		00:1A:79:BB:2B:84
+March 25, 2026		00:1A:79:50:C2:0D
+March 30, 2026		00:1A:79:BA:A7:65
 May 1, 2026		00:1A:79:5E:31:F9
 May 21, 2026		00:1A:79:45:81:F1
 May 21, 2026		00:1A:79:B0:46:58
 May 24, 2026		00:1A:79:A1:FD:69
+May 5, 2026		00:1A:79:BA:9D:F4
 November 20, 2026	00:1A:79:AD:59:B6
-October 12, 2026	00:1A:79:A9:F1:2F
-October 19, 2026	00:1A:79:A4:63:8F
-
-April 5, 2026		00:1A:79:BD:96:B0	2
-August 17, 2026		00:1A:79:BB:3D:36
-December 7, 2026	00:1A:79:B4:48:59
-February 1, 2026	00:1A:79:C0:B4:37	2
-February 12, 2026	00:1A:79:56:F2:79	3
-February 14, 2026	00:1A:79:54:E6:3F	3
-February 16, 2026	00:1A:79:BF:2F:82	2
-February 17, 2026	00:1A:79:52:94:FF		3
-February 20, 2026	00:1A:79:4D:8B:9D	3
-February 27, 2026	00:1A:79:B2:8C:4D	2
-February 3, 2026	00:1A:79:BA:B4:27	3
-January 20, 2026	00:1A:79:BB:BF:AF	2
-January 27, 2026	00:1A:79:B7:53:D0	3
-January 5, 2026		00:1A:79:B9:87:DE	2
-January 5, 2026		00:1A:79:BA:73:F1	3
-January 5, 2026		00:1A:79:C0:96:55	2
-January 7, 2026		00:1A:79:B4:33:EA	3
-January 9, 2026		00:1A:79:B5:95:6B	3
-July 18, 2026		00:1A:79:BC:29:00	2 OK
-June 3, 2026		00:1A:79:BC:3C:36	3 OK
-March 16, 2026		00:1A:79:BA:21:FF	2
-March 19, 2026		00:1A:79:BC:8D:38	3
-March 2, 2026		00:1A:79:BB:2B:84	2
-March 30, 2026		00:1A:79:BA:A7:65	3
-May 5, 2026		00:1A:79:BA:9D:F4	3
-November 10, 2026	00:1A:79:52:34:F4
 November 8, 2026	00:1A:79:C0:2C:84
 October 12, 2026	00:1A:79:5C:C3:BA
-October 24, 2026	00:1A:79:5D:80:07
-October 6, 2026		00:1A:79:C0:1C:3A
+October 12, 2026	00:1A:79:A9:F1:2F
+October 19, 2026	00:1A:79:A4:63:8F
+October 6, 2026		00:1A:79:C0:1C:3A	#3
 September 24, 2026	00:1A:79:BA:66:5B
 September 5, 2026	00:1A:79:BA:AD:16
 
@@ -68,7 +65,7 @@ PORTAL #2 [ http://hans_monika.streamtv.to:8080/c/ ]
 EXPIRE			MAC
 ----------------------------------------------------
 April 17, 2026		00:1A:79:43:21:E3
-April 23, 2026		00:1A:79:50:23:FE
+April 23, 2026		00:1A:79:50:23:FE	#1
 April 30, 2026		00:1A:79:A3:FB:BC
 April 7, 2026		00:1A:79:A7:A8:79
 August 25, 2026		00:1A:79:AC:DA:13
@@ -88,12 +85,12 @@ July 9, 2026		00:1A:79:32:AB:42
 June 12, 2026		00:1A:79:B0:8F:DA
 June 2, 2026		00:1A:79:39:3B:54
 June 27, 2026		00:1A:79:40:31:16
-June 27, 2026		00:1A:79:A7:DA:1B
+June 27, 2026		00:1A:79:A7:DA:1B	#3
 June 28, 2026		00:1A:79:AE:5B:C5
 June 29, 2026		00:1A:79:A6:00:F7
 March 10, 2026		00:1A:79:A2:C9:82
 March 14, 2026		00:1A:79:32:75:89
-March 22, 2026		00:1A:79:A9:C3:7D
+March 22, 2026		00:1A:79:A9:C3:7D	#2
 March 29, 2026		00:1A:79:39:DE:81
 March 7, 2026		00:1A:79:AB:1B:9D
 May 15, 2026		00:1A:79:4E:50:AC
@@ -110,97 +107,97 @@ PORTAL #3 [ http://nicolaj.123tv.to:8080/c/ ]
 =============================================
 EXPIRE			MAC
 ------------------------------------------
+April 11, 2026		00:1A:79:B8:8C:ED	#1
 April 12, 2026		00:1A:79:FB:3A:20	1
-April 23, 2026		00:1A:79:C3:44:F3	3
-April 9, 2026		00:1A:79:AF:87:FC	1
-February 13, 2026	00:1A:79:A6:23:91	3
-February 2, 2026	00:1A:79:AF:76:32	1
-February 4, 2026	00:1A:79:AE:92:64	2
-February 8, 2026	00:1A:79:C0:22:D4	1
-January 10, 2026	00:1A:79:C6:D8:00	1
-January 13, 2026	00:1A:79:AB:41:76	2
-January 16, 2026	00:1A:79:AD:50:52	1
-July 17, 2026		00:1A:79:C2:0E:5A	2
-June 13, 2026		00:1A:79:B6:7E:6E	1
-March 15, 2026		00:1A:79:01:6E:3F	2	ok
-March 20, 2026		00:1A:79:BA:48:FF	3	ok
-March 4, 2026		00:1A:79:05:7E:50	1
-March 8, 2026		00:1A:79:CD:2F:E3	2
-May 12, 2026		00:1A:79:A2:6D:A0	3
-November 19, 2026	00:1A:79:B0:CB:4F	3
-October 17, 2026	00:1A:79:AB:F8:A4	1
-October 3, 2026		00:1A:79:AB:56:8E	1 {offline?}
-September 10, 2026	00:1A:79:A1:AE:A6	1
-September 10, 2026	00:1A:79:A1:AE:A6	1
-September 16, 2026	00:1A:79:AB:E8:0D	2
-September 25, 2026	00:1A:79:A3:96:BF	1
-
-April 22, 2026		00:1A:79:B4:08:83	1
-April 4, 2026		00:1A:79:B2:6D:DD	2
-August 15, 2026		00:1A:79:B7:48:59	1
-February 13, 2026	00:1A:79:BD:50:64	1
-February 26, 2026	00:1A:79:B9:08:F4	2
-January 15, 2026	00:1A:79:BC:1A:29	2
-January 27, 2026	00:1A:79:B7:42:3A	1
-January 5, 2026		00:1A:79:B9:87:DE	1
-June 3, 2026		00:1A:79:C0:92:C5	2
-March 16, 2026		00:1A:79:BA:21:FF	1
-March 20, 2026		00:1A:79:B2:05:F7	2
-March 21, 2026		00:1A:79:B5:2C:6A	1
-March 30, 2026		00:1A:79:BA:A7:65	2
-March 6, 2026		00:1A:79:B7:3F:C3	1
-May 22, 2026		00:1A:79:B8:7E:E1	2
-October 17, 2026	00:1A:79:BD:53:12	2
-September 16, 2026	00:1A:79:C0:0F:E9	2
-
-
-
-PORTAL #4 [ http://fastopen.live:8080/c/ ]
-==========================================================
-EXPIRE			MAC
-----------------------------------------------------------
 April 2, 2026		00:1A:79:BF:CD:CB	2
+April 22, 2026		00:1A:79:B4:08:83	1
+April 23, 2026		00:1A:79:C3:44:F3	3
+April 25, 2026		00:1A:79:B5:15:5F	2
 April 4, 2026		00:1A:79:B2:6D:DD	1
-August 29, 2026		00:1A:79:BA:60:51
+April 4, 2026		00:1A:79:B2:6D:DD	2
+April 9, 2026		00:1A:79:AF:87:FC	1
+August 15, 2026		00:1A:79:B7:48:59	1
+August 29, 2026		00:1A:79:BA:60:51	1
 August 3, 2026		00:1A:79:BA:56:84	3
 February 12, 2026	00:1A:79:BA:53:AD	3
-February 15, 2026	00:1A:79:B5:D6:47	2	ok
+February 13, 2026	00:1A:79:A6:23:91	3
+February 13, 2026	00:1A:79:BD:50:64	1
+February 15, 2026	00:1A:79:B5:D6:47	#2
+February 15, 2026	00:1A:79:B5:D6:47	2
+February 16, 2026	00:1A:79:BA:25:0E	#2
 February 19, 2026	00:1A:79:B9:F7:1D	3
+February 2, 2026	00:1A:79:AF:76:32	1
 February 20, 2026	00:1A:79:4D:8B:9D	2
 February 23, 2026	00:1A:79:AD:86:2E	1
-February 27, 2026	00:1A:79:58:65:31
+February 26, 2026	00:1A:79:B9:08:F4	2
+February 27, 2026	00:1A:79:58:65:31	1
 February 3, 2026	00:1A:79:4B:54:33	1
+February 4, 2026	00:1A:79:AE:92:64	2
 February 7, 2026	00:1A:79:BD:4D:D7	1
+February 8, 2026	00:1A:79:C0:22:D4	1
 February 9, 2026	00:1A:79:B6:72:0B	2
-January 11, 2026	00:1A:79:B2:15:C3
-January 14, 2026	00:1A:79:BD:3B:48	1	ok
+January 10, 2026	00:1A:79:C6:D8:00	1
+January 11, 2026	00:1A:79:B2:15:C3	1
+January 13, 2026	00:1A:79:AB:41:76	2
+January 14, 2026	00:1A:79:BD:3B:48	1
+January 15, 2026	00:1A:79:BC:1A:29	2
+January 16, 2026	00:1A:79:AD:50:52	1
 January 2, 2026		00:1A:79:4C:90:B9	1
+January 27, 2026	00:1A:79:B7:42:3A	1
 January 28, 2026	00:1A:79:5E:33:2E	3
 January 29, 2026	00:1A:79:A1:0F:29	1
 January 30, 2026	00:1A:79:A5:91:8D	1
-January 7, 2026		00:1A:79:B4:33:EA
-June 11, 2026		00:1A:79:B3:A6:BB		1
-June 19, 2026		00:1A:79:BC:E4:19	2
-June 28, 2026		00:1A:79:59:B1:C0
-June 30, 2026		00:1A:79:4F:BA:8B	3   	ok
-June 5, 2026		00:1A:79:BD:2F:82		1
-March 22, 2026		00:1A:79:4F:1B:FE	2
-March 4, 2026		00:1A:79:48:60:14	1
-May 28, 2026		00:1A:79:B9:08:F7		1
-September 16, 2026	00:1A:79:B5:2C:0C
-
-April 11, 2026		00:1A:79:B8:8C:ED
-April 25, 2026		00:1A:79:B5:15:5F
-February 15, 2026	00:1A:79:B5:D6:47
-February 16, 2026	00:1A:79:BA:25:0E
+January 5, 2026		00:1A:79:B9:87:DE	1
+January 7, 2026		00:1A:79:B4:33:EA	3
+July 17, 2026		00:1A:79:C2:0E:5A	2
 July 20, 2026		00:1A:79:B5:12:FF
 July 3, 2026		00:1A:79:BF:9D:25
+June 11, 2026		00:1A:79:B3:A6:BB	1
 June 12, 2026		00:1A:79:BA:D2:BE
+June 13, 2026		00:1A:79:B6:7E:6E	1
 June 14, 2026		00:1A:79:B3:9A:A7
+June 19, 2026		00:1A:79:BC:E4:19	2
+June 28, 2026		00:1A:79:59:B1:C0	3
 June 28, 2026		00:1A:79:C0:C5:72
+June 3, 2026		00:1A:79:C0:92:C5	2
+June 30, 2026		00:1A:79:4F:BA:8B	#3
+June 5, 2026		00:1A:79:BD:2F:82	1
+March 15, 2026		00:1A:79:01:6E:3F	2
+March 16, 2026		00:1A:79:BA:21:FF	1
+March 20, 2026		00:1A:79:B2:05:F7	2
+March 20, 2026		00:1A:79:BA:48:FF	#3
+March 21, 2026		00:1A:79:B5:2C:6A	1
+March 22, 2026		00:1A:79:4F:1B:FE	2
+March 30, 2026		00:1A:79:BA:A7:65	2
+March 4, 2026		00:1A:79:05:7E:50	1
+March 4, 2026		00:1A:79:48:60:14	1
+March 6, 2026		00:1A:79:B7:3F:C3	1
+March 8, 2026		00:1A:79:CD:2F:E3	2
 May 10, 2026		00:1A:79:BD:58:5E
+May 12, 2026		00:1A:79:A2:6D:A0	3
+May 22, 2026		00:1A:79:B8:7E:E1	2
+May 28, 2026		00:1A:79:B9:08:F7	1
+November 19, 2026	00:1A:79:B0:CB:4F	3
 November 8, 2026	00:1A:79:C0:2C:84
 November 8, 2026	00:1A:79:C0:8D:AC
+October 17, 2026	00:1A:79:AB:F8:A4	1
+October 17, 2026	00:1A:79:BD:53:12	2
+October 3, 2026		00:1A:79:AB:56:8E	#1
+September 10, 2026	00:1A:79:A1:AE:A6	1
+September 10, 2026	00:1A:79:A1:AE:A6	1
+September 16, 2026	00:1A:79:AB:E8:0D	2
+September 16, 2026	00:1A:79:B5:2C:0C
+September 16, 2026	00:1A:79:C0:0F:E9	2
+September 25, 2026	00:1A:79:A3:96:BF	1
+
+
+PORTAL #4 [  ]
+==========================================================
+EXPIRE			MAC
+----------------------------------------------------------
+
+
+
 
 ##################################################################
 
