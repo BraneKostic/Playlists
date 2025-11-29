@@ -616,7 +616,7 @@
   }, {
     "profile" : {
       "uuid" : "00000000-0000-0000-0000-000000000042",
-      "name" : "Portal 4 #2 {EMPTY}",
+      "name" : "Portal 4 #2 {OFFLINE}",
       "stb_model" : "mag-424",
       "portal_url" : "http://violetta.cfd:8080/c/",
       "is_internal_portal" : false,
