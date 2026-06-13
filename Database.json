@@ -1,8 +1,8 @@
 [
   {
     "Name":"[TV] Portal 1 #1",
-    "Address":"http:\/\/putin.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:5D:D8:90",
+    "Address":"http:\/\/pointpython.streamtv.to:8080\/c\/",
+    "Mac":"00:1A:79:77:24:08",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -20,8 +20,8 @@
   },
   {
     "Name":"[TV] Portal 1 #2",
-    "Address":"http:\/\/putin.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:58:65:31",
+    "Address":"http:\/\/pointpython.streamtv.to:8080\/c\/",
+    "Mac":"00:1A:79:7F:22:8E",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -37,8 +37,8 @@
   },
   {
     "Name":"[TV] Portal 1 #3",
-    "Address":"http:\/\/putin.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:C0:75:59",
+    "Address":"http:\/\/pointpython.streamtv.to:8080\/c\/",
+    "Mac":"00:1A:79:75:3B:37",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -54,8 +54,8 @@
   },
   {
     "Name":"[TV] Portal 2 #1",
-    "Address":"http:\/\/hans_monika.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:50:23:FE",
+    "Address":"http:\/\/xp1.tv\/c\/",
+    "Mac":"00:1A:79:C8:69:8F",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -71,8 +71,8 @@
   },
   {
     "Name":"[TV] Portal 2 #2",
-    "Address":"http:\/\/hans_monika.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:A9:C3:7D",
+    "Address":"http:\/\/xp1.tv\/c\/",
+    "Mac":"00:1A:79:C6:37:2E",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -88,8 +88,8 @@
   },
   {
     "Name":"[TV] Portal 2 #3",
-    "Address":"http:\/\/hans_monika.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:A7:DA:1B",
+    "Address":"http:\/\/xp1.tv\/c\/",
+    "Mac":"00:1A:79:AA:E3:2B",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -105,8 +105,8 @@
   },
   {
     "Name":"[TV] Portal 3 #1",
-    "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
-    "Mac":"00:1A:79:58:65:31",
+    "Address":"http:\/\/hans_monika.streamtv.to:8080\/c\/",
+    "Mac":"00:1A:79:0A:93:EC",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -122,8 +122,8 @@
   },
   {
     "Name":"[TV] Portal 3 #2",
-    "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
-    "Mac":"00:1A:79:BA:25:0E",
+    "Address":"http:\/\/hans_monika.streamtv.to:8080\/c\/",
+    "Mac":"00:1A:79:AD:44:32",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -139,8 +139,8 @@
   },
   {
     "Name":"[TV] Portal 3 #3",
-    "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
-    "Mac":"00:1A:79:B0:CB:4F",
+    "Address":"http:\/\/hans_monika.streamtv.to:8080\/c\/",
+    "Mac":"00:1A:79:AD:81:25",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -156,8 +156,8 @@
   },
   {
     "Name":"[TV] Portal 4 #1",
-    "Address":"http:\/\/violetta.cfd:8080\/c\/",
-    "Mac":"00:1A:79:AE:21:42",
+    "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
+    "Mac":"00:1A:79:A5:29:71",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -173,8 +173,8 @@
   },
   {
     "Name":"[TV] Portal 4 #2",
-    "Address":"http:\/\/violetta.cfd:8080\/c\/",
-    "Mac":"00:1A:79:BB:42:D8",
+    "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
+    "Mac":"00:1A:79:AE:21:CD",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -189,8 +189,8 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 4 #3",
-    "Address":"http:\/\/violetta.cfd:8080\/c\/",
+    "Name":"[TV] Portal 4 #3 {OFFLINE}",
+    "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
     "Mac":"00:1A:79:5D:DB:C0",
     "Username":"",
     "Password":"",
@@ -206,7 +206,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 5 #1",
+    "Name":"[TV] Portal 5 #1 {OFFLINE}",
     "Address":"http:\/\/iptv.jinbox.nl\/c\/",
     "Mac":"00:1A:79:4F:33:61",
     "Username":"",
@@ -240,7 +240,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 5 #3",
+    "Name":"[TV] Portal 5 #3 {OFFLINE}",
     "Address":"http:\/\/iptv.jinbox.nl\/c\/",
     "Mac":"00:1A:79:BD:CC:74",
     "Username":"",
