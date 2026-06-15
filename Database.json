@@ -191,7 +191,7 @@
   {
     "Name":"[TV] Portal 4 #3 {OFFLINE}",
     "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
-    "Mac":"00:1A:79:5D:DB:C0",
+    "Mac":"00:1A:79:A3:96:BF",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -240,9 +240,9 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 5 #3 {OFFLINE}",
+    "Name":"[TV] Portal 5 #3",
     "Address":"http:\/\/iptv.jinbox.nl\/c\/",
-    "Mac":"00:1A:79:BD:CC:74",
+    "Mac":"00:1A:79:47:74:D4",
     "Username":"",
     "Password":"",
     "SerialNumber":"",

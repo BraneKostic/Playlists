@@ -52,10 +52,15 @@ PORTAL #4 [ http://nicolaj.123tv.to:8080/c/ ]
 EXPIRE			MAC
 ---------------------------------------------
 August 15, 2026		00:1A:79:B7:48:59
+August 22, 2026		00:1A:79:AE:71:C3
+August 27, 2026		00:1A:79:AE:21:CD	#2
 August 29, 2026		00:1A:79:BA:60:51
 August 3, 2026		00:1A:79:BA:56:84
+January 29, 2027	00:1A:79:AD:2E:4C
+May 30, 2027		00:1A:79:A5:29:71	#1
 November 12, 2026	00:1A:79:59:53:34
-November 19, 2026	00:1A:79:B0:CB:4F	#3
+November 19, 2026	00:1A:79:B0:CB:4F
+November 5		00:1A:79:AB:3E:65
 November 8, 2026	00:1A:79:C0:2C:84
 November 8, 2026	00:1A:79:C0:8D:AC
 October 17, 2026	00:1A:79:AB:F8:A4
@@ -66,16 +71,8 @@ September 10, 2026	00:1A:79:A1:AE:A6
 September 16, 2026	00:1A:79:AB:E8:0D
 September 16, 2026	00:1A:79:B5:2C:0C
 September 16, 2026	00:1A:79:C0:0F:E9
-September 25, 2026	00:1A:79:A3:96:BF
+September 25, 2026	00:1A:79:A3:96:BF	#3
 
-May 30, 2027		00:1A:79:A5:29:71	#1
-November 5		00:1A:79:AB:3E:65
-August 22, 2026		00:1A:79:AE:71:C3
-August 27, 2026		00:1A:79:AE:21:CD	#2
-
-
-January 29, 2027	00:1A:79:AD:2E:4C
-December 23, 2026	00:1A:79:AE:75:8D
 
 
 PORTAL #5 [ http://iptv.jinbox.nl/c/ ]
@@ -83,12 +80,10 @@ PORTAL #5 [ http://iptv.jinbox.nl/c/ ]
 EXPIRE			MAC
 -----------------------------------------
 
-December 23, 2026	00:1A:79:BC:97:49
+
 May 26, 2026		00:1A:79:B8:79:0A	#2
 October 8, 2026		00:1A:79:A1:FC:4E
-
-
-
+August 23, 2026		00:1A:79:47:74:D4	#3
 
 ##################################################################
 
