@@ -1,8 +1,8 @@
 [
   {
     "Name":"[TV] Portal 1 #1",
-    "Address":"http:\/\/pointpython.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:77:24:08",
+    "Address":"http:\/\/foxbleu.pro\/c\/",
+    "Mac":"00:1A:79:5A:9F:50",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -20,8 +20,8 @@
   },
   {
     "Name":"[TV] Portal 1 #2",
-    "Address":"http:\/\/pointpython.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:7F:22:8E",
+    "Address":"http:\/\/foxbleu.pro\/c\/",
+    "Mac":"00:1A:79:AB:45:C5",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -37,8 +37,8 @@
   },
   {
     "Name":"[TV] Portal 1 #3",
-    "Address":"http:\/\/pointpython.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:75:3B:37",
+    "Address":"http:\/\/foxbleu.pro\/c\/",
+    "Mac":"00:1A:79:A6:22:DB",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -54,8 +54,8 @@
   },
   {
     "Name":"[TV] Portal 2 #1",
-    "Address":"http:\/\/xp1.tv\/c\/",
-    "Mac":"00:1A:79:C8:69:8F",
+    "Address":"http:\/\/mag.tivi-one-iptv.net\/c\/",
+    "Mac":"00:1A:79:61:A9:EB",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -71,8 +71,8 @@
   },
   {
     "Name":"[TV] Portal 2 #2",
-    "Address":"http:\/\/xp1.tv\/c\/",
-    "Mac":"00:1A:79:C6:37:2E",
+    "Address":"http:\/\/mag.tivi-one-iptv.net\/c\/",
+    "Mac":"00:1A:79:A6:48:57",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -88,8 +88,8 @@
   },
   {
     "Name":"[TV] Portal 2 #3",
-    "Address":"http:\/\/xp1.tv\/c\/",
-    "Mac":"00:1A:79:AA:E3:2B",
+    "Address":"http:\/\/mag.tivi-one-iptv.net\/c\/",
+    "Mac":"00:1A:79:CD:4F:82",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -106,7 +106,7 @@
   {
     "Name":"[TV] Portal 3 #1",
     "Address":"http:\/\/hans_monika.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:58:18:BD",
+    "Mac":"00:1A:79:C0:8D:AC",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -123,7 +123,7 @@
   {
     "Name":"[TV] Portal 3 #2",
     "Address":"http:\/\/hans_monika.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:D7:BB:BA",
+    "Mac":"00:1A:79:AB:F8:A4",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -140,7 +140,7 @@
   {
     "Name":"[TV] Portal 3 #3",
     "Address":"http:\/\/hans_monika.streamtv.to:8080\/c\/",
-    "Mac":"00:1A:79:A5:29:71",
+    "Mac":"00:1A:79:A3:96:BF",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -155,7 +155,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 4 #1",
+    "Name":"[TV] Portal 4 #1 {OFFLINE}",
     "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
     "Mac":"00:1A:79:A5:29:71",
     "Username":"",
@@ -172,7 +172,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 4 #2",
+    "Name":"[TV] Portal 4 #2 {OFFLINE}",
     "Address":"http:\/\/nicolaj.123tv.to:8080\/c\/",
     "Mac":"00:1A:79:AE:21:CD",
     "Username":"",
@@ -223,7 +223,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 5 #2",
+    "Name":"[TV] Portal 5 #2 {OFFLINE}",
     "Address":"http:\/\/foxbleu.pro\/c\/",
     "Mac":"00:1A:79:5A:9F:50",
     "Username":"",
@@ -240,7 +240,7 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 5 #3",
+    "Name":"[TV] Portal 5 #3 {OFFLINE}",
     "Address":"http:\/\/foxbleu.pro\/c\/",
     "Mac":"00:1A:79:60:62:44",
     "Username":"",
@@ -257,45 +257,8 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"IPTVorg",
-    "Address":"https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/IPTVorg.m3u",
-    "Mac":"",
-    "Username":"",
-    "Password":"",
-    "SerialNumber":"",
-    "DeviceID":"",
-    "DeviceID2":"",
-    "Firmware":"",
-    "StbModel":"",
-    "TimeZone":"",
-    "UserAgent":"",
-    "PlayerUserAgent":"",
-    "HttpProxy":"",
-    "RequestMethod":"GET"
-  },
-  {
     "Name":"[VOD] Documentaries",
     "Address":"https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/Documentaries.m3u",
-    "Mac":"",
-    "Username":"",
-    "Password":"",
-    "SerialNumber":"",
-    "DeviceID":"",
-    "DeviceID2":""
-  },
-  {
-    "Name":"[VOD] Family Guy",
-    "Address":"https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/FamilyGuy.m3u",
-    "Mac":"",
-    "Username":"",
-    "Password":"",
-    "SerialNumber":"",
-    "DeviceID":"",
-    "DeviceID2":""
-  },
-  {
-    "Name":"[VOD] The Simpsons",
-    "Address":"https:\/\/raw.githubusercontent.com\/\/BraneKostic\/\/Playlists\/\/main\/\/TheSimpsons.m3u",
     "Mac":"",
     "Username":"",
     "Password":"",

@@ -1,29 +1,38 @@
 ##################################################################
 
-PORTAL #1 [ http://pointpython.streamtv.to:8080/c/ ]
-==============================================
+EXPIRE			MAC				NAPOMENA
+------------------------------------------------------------------
+
+PORTAL #1 [ http://foxbleu.pro/c/ ]
+=========================================
 EXPIRE			MAC
 -----------------------------------------
-August 13, 2026		00:1A:79:75:3B:37	#3
-August 13, 2026		00:1A:79:7A:A4:C5
-August 30, 2026		00:1A:79:7F:22:8E	#2
-March 29, 2027		00:1A:79:72:08:B1
-November 11, 2026	00:1A:79:76:33:8F
-October 2, 2026		00:1A:79:77:24:08	#1
-September 30, 2026	00:1A:79:7B:E7:D9
+April 22, 2027		00:1A:79:5A:9F:50		#1
+April 3, 2027		00:1A:79:60:62:44
+December 11, 2026	00:1A:79:57:6B:B5
+December 21, 2026	00:1A:79:AB:45:C5		#2
+February 17, 2027	00:1A:79:AB:E8:5F
+January 4, 2027		00:1A:79:A6:22:DB		#3
+March 27, 2027		00:1A:79:5C:3C:97
+May 21, 2027		00:1A:79:BA:14:E4
 
 
-PORTAL #2 [ http://xp1.tv/c/ ]
-====================================================
-EXPIRE			MAC
-----------------------------------------------------
-April 28, 2027		00:1A:79:AA:E3:2B	#3
-December 20, 2026	00:1A:79:C8:69:8F	#1
-November 19, 2027	00:1A:79:C6:37:2E	#2
-
+PORTAL #2 [ http://nexusconnects.org/c/ ]
+	  [ http://mag.tivi-one-iptv.net/c/ ]
+=============================================
+August 21, 2026		00:1A:79:D4:4D:A3			network error
+August 6, 2026		00:1A:79:C2:EB:D0			network error
+July 13, 2026		00:1A:79:61:A9:EB		#1	RADI !!! 
+June 5, 2027		00:1A:79:CD:4F:82		#3
+March 22, 2027		00:1A:79:AD:7F:FD			network error
+March 28, 2027		00:1A:79:C3:1F:08			network error
+November 24, 2026	00:1A:79:A6:48:57		#2
+October 6, 2026		00:1A:79:A1:85:31			network error
+September 2, 2026	00:1A:79:70:BA:C6			radi, ali je strim crne ekran
 
 
 PORTAL #3 [ http://hans_monika.streamtv.to:8080/c/ ]
+	  [ http://nicolaj.123tv.to:8080/c/ ]
 ====================================================
 EXPIRE			MAC
 ----------------------------------------------------
@@ -34,58 +43,82 @@ January 16, 2027	00:1A:79:AD:50:52
 January 31, 2027	00:1A:79:D3:5C:4C
 June 20, 2026		00:1A:79:0A:93:EC
 March 19, 2027		00:1A:79:AD:E9:17
-May 30, 2027		00:1A:79:A5:29:71	#3
+	May 30, 2027		00:1A:79:A5:29:71	#1	NE RADI
 November 12, 2026	00:1A:79:A1:FB:B1
 November 26, 2026	00:1A:79:AF:83:94
 November 28, 2026	00:1A:79:AD:2F:BA
-November 5, 2026	00:1A:79:D7:BB:BA	#2
+	November 5, 2026	00:1A:79:D7:BB:BA	#2	NE RADI
 October 11, 2026	00:1A:79:AE:40:A5
 October 23, 2026	00:1A:79:D5:D9:7F
 October 3, 2026		00:1A:79:AD:44:32
 October 5, 2026		00:1A:79:AE:30:37
-September 29, 2026	00:1A:79:58:18:BD	#1
-
-
-
-PORTAL #4 [ http://nicolaj.123tv.to:8080/c/ ]
-=============================================
-EXPIRE			MAC
----------------------------------------------
+September 29, 2026	00:1A:79:58:18:BD		#3	RADI
+February 4, 2027	00:1A:79:5C:38:1E
+January 1, 2027		00:1A:79:58:11:8E
+September 7, 2026	00:1A:79:58:14:35
+January 19, 2027	00:1A:79:55:86:EC
+January 14, 2027	00:1A:79:5C:E5:C0
+June 21, 2027		00:1A:79:54:42:CA
+August 30, 2026		00:1A:79:55:DF:D5
+October 4, 2026		00:1A:79:53:F5:23
+February 16, 2027	00:1A:79:57:2C:45
+October 13, 2026	00:1A:79:55:9A:34
+January 13, 2027	00:1A:79:5E:41:16
+November 24, 2026	00:1A:79:53:61:7E
+November 29, 2026	00:1A:79:5F:DD:0B
+July 27, 2027		00:1A:79:59:CB:66
+February 25, 2027	00:1A:79:52:70:5F
+April 4, 2027		00:1A:79:5D:FC:5C
+September 17, 2026	00:1A:79:5F:EC:38
+November 2, 2026	00:1A:79:5A:29:3D
+March 13, 2027		00:1A:79:55:60:3A
+March 30, 2027		00:1A:79:51:3A:A1
+October 14, 2026	00:1A:79:5B:CD:0B
+April 24, 2027		00:1A:79:58:9B:D4
+January 2, 2027		00:1A:79:54:C8:F3
+August 15, 2026		00:1A:79:5D:1D:66
+February 22, 2027	00:1A:79:56:B9:15
+December 16, 2026	00:1A:79:54:2C:86
+May 30, 2027		00:1A:79:A5:29:71			RADI
 August 15, 2026		00:1A:79:B7:48:59
 August 22, 2026		00:1A:79:AE:71:C3
-August 27, 2026		00:1A:79:AE:21:CD	#2
+	August 27, 2026		00:1A:79:AE:21:CD	#1	NE RADI
 August 29, 2026		00:1A:79:BA:60:51
 August 3, 2026		00:1A:79:BA:56:84
 January 29, 2027	00:1A:79:AD:2E:4C
-May 30, 2027		00:1A:79:A5:29:71	#1
 November 12, 2026	00:1A:79:59:53:34
-November 19, 2026	00:1A:79:B0:CB:4F
-November 5		00:1A:79:AB:3E:65
+November 5, 2026	00:1A:79:AB:3E:65
 November 8, 2026	00:1A:79:C0:2C:84
-November 8, 2026	00:1A:79:C0:8D:AC
-October 17, 2026	00:1A:79:AB:F8:A4
+November 8, 2026	00:1A:79:C0:8D:AC		#1
+October 17, 2026	00:1A:79:AB:F8:A4		#2
 October 17, 2026	00:1A:79:BD:53:12
 October 3, 2026		00:1A:79:AB:56:8E
-September 10, 2026	00:1A:79:A1:AE:A6
 September 10, 2026	00:1A:79:A1:AE:A6
 September 16, 2026	00:1A:79:AB:E8:0D
 September 16, 2026	00:1A:79:B5:2C:0C
 September 16, 2026	00:1A:79:C0:0F:E9
-September 25, 2026	00:1A:79:A3:96:BF	#3
+September 25, 2026	00:1A:79:A3:96:BF		#3
 
+	PORTAL #0 [ http://44.vb4444.com/c/ ]
+	=====================================
+	April 16, 2027		00:1A:79:B5:CF:57		#1	RADI
+	April 27, 2027		00:1A:79:B9:06:A1
+	December 1, 2026	00:1A:79:BA:F8:F8
+	December 13, 2026	00:1A:79:BA:F6:43
+	February 12, 2027	00:1A:79:BD:81:83
+	June 12, 2027		00:1A:79:B9:F9:E2		#2	RADI
+	June 7, 2027		00:1A:79:B1:00:68		#3	NE RADI
+	May 14, 2027		00:1A:79:B7:1B:9F
+	May 16, 2027		00:1A:79:B1:0C:63
+	May 16, 2027		00:1A:79:B2:4C:84
+	November 26, 2026	00:1A:79:BF:BB:2C
+	November 8, 2026	00:1A:79:BD:81:A6
 
-
-PORTAL #5 [ http://foxbleu.pro/c/ ]
+PORTAL #0 [ http://saray68.darktv.nl/c/ ]
 =========================================
-EXPIRE			MAC
------------------------------------------
-April 22, 2027		00:1A:79:5A:9F:50	#2
-April 3, 2027		00:1A:79:60:62:44	#3
-December 11, 2026	00:1A:79:57:6B:B5	#1
-December 21, 2026	00:1A:79:AB:45:C5
-February 17, 2027	00:1A:79:AB:E8:5F
-January 4, 2027		00:1A:79:A6:22:DB
-March 27, 2027		00:1A:79:5C:3C:97
+July 18, 2026		00:1A:79:0F:AE:0A		RADI
+November 4, 2025	00:1A:79:05:E6:BD
+
 
 
 
