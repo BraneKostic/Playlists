@@ -206,9 +206,9 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 5 #1 {OFFLINE}",
-    "Address":"http:\/\/foxbleu.pro\/c\/",
-    "Mac":"00:1A:79:57:6B:B5",
+    "Name":"[TV] Portal 5 #1",
+    "Address":"http:\/\/204.52.191.254\/c\/",
+    "Mac":"00:1A:79:B2:10:55",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -223,9 +223,9 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 5 #2 {OFFLINE}",
-    "Address":"http:\/\/foxbleu.pro\/c\/",
-    "Mac":"00:1A:79:5A:9F:50",
+    "Name":"[TV] Portal 5 #2",
+    "Address":"http:\/\/204.52.191.254\/c\/",
+    "Mac":"00:1A:79:7C:20:F8",
     "Username":"",
     "Password":"",
     "SerialNumber":"",
@@ -240,9 +240,9 @@
     "RequestMethod":"POST"
   },
   {
-    "Name":"[TV] Portal 5 #3 {OFFLINE}",
-    "Address":"http:\/\/foxbleu.pro\/c\/",
-    "Mac":"00:1A:79:60:62:44",
+    "Name":"[TV] Portal 5 #3",
+    "Address":"http:\/\/204.52.191.254\/c\/",
+    "Mac":"00:1A:79:7F:0F:7D",
     "Username":"",
     "Password":"",
     "SerialNumber":"",

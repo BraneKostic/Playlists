@@ -17,8 +17,8 @@ March 27, 2027		00:1A:79:5C:3C:97
 May 21, 2027		00:1A:79:BA:14:E4
 
 
-PORTAL #2 [ http://nexusconnects.org/c/ ]
-	  [ http://mag.tivi-one-iptv.net/c/ ]
+PORTAL #2 [ http://mag.tivi-one-iptv.net/c/ ]
+	  [ http://nexusconnects.org/c/ ]
 =============================================
 August 21, 2026		00:1A:79:D4:4D:A3			network error
 August 6, 2026		00:1A:79:C2:EB:D0			network error
@@ -29,6 +29,9 @@ March 28, 2027		00:1A:79:C3:1F:08			network error
 November 24, 2026	00:1A:79:A6:48:57		#2	PREMIUM LISTA
 October 6, 2026		00:1A:79:A1:85:31			network error
 September 2, 2026	00:1A:79:70:BA:C6			radi, ali je strim crn ekran
+
+October 30, 2026	00:1A:79:63:98:F9
+March 27, 2027		00:1A:79:67:22:A7
 
 
 PORTAL #3 [ http://hans_monika.streamtv.to:8080/c/ ]
@@ -87,9 +90,52 @@ September 16, 2026	00:1A:79:AB:E8:0D			nije premium lista
 September 16, 2026	00:1A:79:B5:2C:0C			nije premium lista
 September 16, 2026	00:1A:79:C0:0F:E9			PREMIUM LISTA
 September 17, 2026	00:1A:79:5F:EC:38			nije premium lista
-September 25, 2026	00:1A:79:A3:96:BF		#3	PREMIUM LISTA
+September 25, 2026	00:1A:79:A3:96:BF			PREMIUM LISTA
 September 29, 2026	00:1A:79:58:18:BD			network error (PREMIUM LISTA)
 September 7, 2026	00:1A:79:58:14:35			nije premium lista
+
+November 4, 2026	00:1A:79:20:85:32
+April 9, 2027		00:1A:79:AF:87:FC
+October 22, 2026	00:1A:79:AD:5F:BA
+October 17, 2026	00:1A:79:BD:53:12
+April 24, 2027		00:1A:79:BD:5D:3A
+October 3, 2026		00:1A:79:AD:44:32
+September 28, 2026	00:1A:79:BA:3A:5E
+November 9, 2026	00:1A:79:B2:0A:28
+September 4, 2026	00:1A:79:B5:18:02
+January 20, 2027	00:1A:79:B2:15:C3
+August 25, 2026		00:1A:79:AC:DA:13
+October 23, 2026	00:1A:79:C8:42:01
+February 21, 2027	00:1A:79:B4:B6:D6
+December 7, 2026	00:1A:79:BF:83:22
+January 14, 2027	00:1A:79:B7:45:E0
+February 15, 2027	00:1A:79:54:8A:65
+December 31, 2026	00:1A:79:AA:AD:D0
+February 20, 2027	00:1A:79:B6:82:E3
+March 5, 2027		00:1A:79:01:94:1A
+August 3, 2026		00:1A:79:AF:83:51
+November 20, 2026	00:1A:79:47:9D:D2
+August 26, 202		00:1A:79:A7:AC:EC
+September 26, 2026	00:1A:79:AB:55:48
+August 6, 2026		00:1A:79:AB:99:7C
+
+
+
+PORTAL #0 [ http://204.52.191.254/c/ ]
+=========================================
+December 20, 2030	00:1A:79:B2:10:55
+February 16. 2029	00:1A:79:7C:20:F8
+? MAC: 00:1A:79:7F:0F:7D ? Expires: 2027. September. 18. (476 Days)
+? MAC: 00:1A:79:75:BF:67 ? Expires: 2027. September. 02. (460 Days)
+? MAC: 00:1A:79:BA:40:17 ? Expires: 2027. August. 14. (441 Days)
+? MAC: 00:1A:79:78:6C:19 ? Expires: 2027. July. 03. (399 Days)	network error
+? MAC: 00:1A:79:B5:75:0D ? Expires: 2027. June. 24. (390 Days)
+? MAC: 00:1A:79:34:61:32 ? Expires: 2027. June. 19. (385 Days)
+? MAC: 00:1A:79:75:35:B1 ? Expires: 2027. June. 17. (383 Days)
+? MAC: 00:1A:79:85:51:29 ? Expires: 2027. June. 01. (367 Days)
+? MAC: 00:1A:79:82:38:BF ? Expires: 2027. May. 31. (366 Days)
+
+
 
 	PORTAL #0 [ http://44.vb4444.com/c/ ]
 	=====================================
@@ -111,7 +157,33 @@ PORTAL #0 [ http://saray68.darktv.nl/c/ ]
 July 18, 2026		00:1A:79:0F:AE:0A		RADI
 November 4, 2025	00:1A:79:05:E6:BD
 
-
+? MAC: 00:1A:79:6F:4F:9B ? Expires: 2027. 05. 30. (366 Days)
+? MAC: 00:1A:79:6F:4F:27 ? Expires: 2027. 04. 18. (324 Days)
+? MAC: 00:1A:79:42:2E:E4 ? Expires: 2027. 04. 03. (309 Days)
+? MAC: 00:1A:79:39:FC:81 ? Expires: 2027. 03. 04. (279 Days)
+? MAC: 00:1A:79:6F:4F:5B ? Expires: 2027. 01. 15. (231 Days)
+? MAC: 00:1A:79Big GrinD:03:8A ? Expires: 2027. 01. 02. (218 Days)
+? MAC: 00:1A:79:23:3F:0C ? Expires: 2026. 12. 30. (215 Days)
+? MAC: 00:1A:79:23:3F:41 ? Expires: 2026. 12. 01. (186 Days)
+? MAC: 00:1A:79:06:3F:A8 ? Expires: 2026. 11. 16. (171 Days)
+? MAC: 00:1A:79:6F:4F:57 ? Expires: 2026. 10. 30. (154 Days)
+? MAC: 00:1A:79:FE:7F:2A ? Expires: 2026. 10. 29. (153 Days)
+? MAC: 00:1A:79:55:F1:A6 ? Expires: 2026. 10. 19. (143 Days)
+? MAC: 00:1A:79:23:3F:12 ? Expires: 2026. 09. 30. (124 Days)
+? MAC: 00:1A:79:23:3F:35 ? Expires: 2026. 09. 10. (104 Days)
+? MAC: 00:1A:79:3B:73:22 ? Expires: 2026. 09. 03. (97 Days)
+? MAC: 00:1A:79:C3:1D:41 ? Expires: 2026. 09. 02. (96 Days)
+? MAC: 00:1A:79:03:3F:7C ? Expires: 2026. 08. 23. (86 Days)
+? MAC: 00:1A:79:5D:52:09 ? Expires: 2026. 08. 14. (77 Days)
+? MAC: 00:1A:79:6F:4F:3A ? Expires: 2026. 08. 10. (73 Days)
+? MAC: 00:1A:79:23:3F:42 ? Expires: 2026. 07. 06. (38 Days)
+? MAC: 00:1A:79:55:F1:A3 ? Expires: 2026. 07. 02. (34 Days)
+? MAC: 00:1A:79:21:03:95 ? Expires: 2026. 07. 02. (34 Days)
+? MAC: 00:1A:79:23:3F:20 ? Expires: 2026. 06. 29. (31 Days)
+? MAC: 00:1A:79:6F:4F:10 ? Expires: 2026. 06. 13. (15 Days)
+? MAC: 00:1A:79:C3:1D:4C ? Expires: 2026. 06. 10. (12 Days)
+? MAC: 00:1A:79:FABig GrinD:E4 ? Expires: 2026. 06. 08. (10 Days)
+? MAC: 00:1A:79:23:3F:02 ? Expires: 2026. 06. 06. (8 Days)
 
 
 ##################################################################
