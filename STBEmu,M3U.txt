@@ -36,23 +36,64 @@ October 16, 2026	00:1A:79:72:F4:A9		11943		All
 
 =============================================
 PORTAL #2 [ http://mag.tivi-one-iptv.net/c/ ]
+  ISTI PORTALI: http://nexusconnects.org/c/, http://line.mag7070.eu:80/c/ , 
 IP : 2606:4700:3031::6815:5ddc (Canada)
 SERVER TIMEZONE : America/Toronto
 =============================================
+April 08, 2027		00:1A:79:18:0B:CE		/		151194
+April 13, 2027		00:1A:79:F5:12:5E		26092		151194
+April 21, 2027		00:1A:79:C0:08:66		All		/
+April 22, 2027		00:1A:79:F5:12:60	#5	All		All
+April 22, 2027		00:1B:79:54:06:56		11095		21497
+April 29, 2027		00:1A:79:F5:12:B3		All		All
+August 14, 2026		00:1A:79:4F:6D:6E		14059		69090
 August 21, 2026		00:1A:79:D4:4D:A3		9838		All
 August 6, 2026		00:1A:79:C2:EB:D0		26092		151108
+December 23, 2026	00:1A:79:08:E2:62		All		54364
+December 23, 2026	00:1A:79:B5:9F:55		/		All
+February 09 ,2027	00:1A:79:69:FB:52		6504		59913
+February 09 ,2027	00:1A:79:F5:12:4A		All		All
+February 11 ,2027	00:1A:79:F5:12:7E		26092		151194
+February 11 ,2027	00:1A:79:F5:12:87		All		151194
+February 11 ,2027	00:1A:79:F5:12:B2		All		151194
+February 14 ,2027	00:1A:79:08:E2:5F		14075		80508
+February 20 ,2027	00:1A:79:F5:12:77		All		151194
+February 21 ,2027	00:1A:79:E8:9A:41		All		All
+January 17, 2027	00:1B:79:35:1A:10		17156		101720
+January 21, 2027	00:1A:79:F5:12:22		All		148594
+January 31, 2027	00:1B:79:3D:14:4F		11095		21497
+July 1, 2027		00:1A:79:82:1F:5C		24020		151194
 July 13, 2026		00:1A:79:61:A9:EB	#1	12735		All
+July 7, 2027		00:1A:79:08:E2:6E		14075		All
+June 01, 2027		00:1A:79:08:E2:60		1811		/
+June 11, 2027		00:1A:79:F5:12:B5		All		All
+June 2, 2027		00:1B:79:20:25:E6		All		89792
+June 28, 2027		00:1A:79:88:7C:3C		11326		All
 June 5, 2027		00:1A:79:CD:4F:82	#3	7604		All
-March 28, 2027		00:1A:79:C3:1F:08		All		151108
-November 24, 2026	00:1A:79:A6:48:57	#2	All		All
-October 6, 2026		00:1A:79:A1:85:31		2356		21394
-September 2, 2026	00:1A:79:70:BA:C6	#4	2880		All
-October 30, 2026	00:1A:79:63:98:F9		All		All
+March 12, 2027		00:1A:79:E7:00:0B		11691		All
+March 21, 2027		00:1A:79:F5:12:7D		All		151194
+March 24, 2027		00:1A:79:F5:12:1E		All		All
+March 24, 2027		00:1A:79:F5:12:4D		All		All
 March 27, 2027		00:1A:79:67:22:A7		13342		70144
-August 14, 2026		00:1A:79:4F:6D:6E	#5	14059		69090
+March 28, 2027		00:1A:79:C3:1F:08		All		151108
+March 31, 2027		00:1A:79:71:CF:B2		All		/
+May 21, 2027		00:1A:79:18:0B:41		/		151194
+May 23, 2027		00:1A:79:E6:6D:00		/		All
+May 28, 2027		00:1A:79:C6:F6:F6	#4	All		All
+November 04, 2026	00:1A:79:C6:F6:8B		/		All
+November 13, 2026	00:1A:79:82:1F:B9		/		72704
+November 13, 2026	00:1A:79:F5:12:36		All		69178
+November 24, 2026	00:1A:79:A6:48:57	#2	All		All
+November 26, 2026	00:1A:79:3F:BA:EA		2282		22279
+October 30, 2026	00:1A:79:63:98:F9		All		All
+October 6, 2026		00:1A:79:A1:85:31		2356		21394
+September 2, 2026	00:1A:79:70:BA:C6		2880		All
+September 29, 2026	00:1B:79:45:2B:2C		All		151194
+
 
 ====================================================
 PORTAL #3 [ http://hans_monika.streamtv.to:8080/c/ ]
+  ISTI PORTALI: http://nicolaj.123tv.to:8080/c/ ]
 IP : 31.42.187.187 (Ukraine)
 SERVER TIMEZONE : Europe/Kyiv
 ====================================================
@@ -166,6 +207,10 @@ September 29, 2026	00:1A:79:58:18:BD		16696		64155
 September 4, 2026	00:1A:79:B5:18:02		2202		13645
 September 4, 2026	00:1A:79:BA:3A:05		4163		13564
 September 7, 2026	00:1A:79:58:14:35		1090		9524
+
+
+
+
 
 
 PORTAL #4 [ http://204.52.191.254/c/ ]
