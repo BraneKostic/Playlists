@@ -111,6 +111,7 @@ EXPIRE			MAC				CHANNELS	VOD
 ------------------------------------------------------------------------------
 April 21, 2027		00:1A:79:2F:69:7C		55432		173397
 August 11, 2026		00:1A:79:3E:71:0E		30532		27967
+August 14, 2027		00:1A:79:BA:40:17		22707		All
 August 26, 2026		00:1A:79:7E:7E:96		All		173197
 August 30, 2026		00:1A:79:A2:4A:CD		All		/
 August 5, 2026		00:1A:79:5D:EA:70		All		8994
@@ -123,12 +124,12 @@ February 16, 2027	00:1A:79:7A:6A:84		All		/
 February 16, 2029	00:1A:79:7C:20:F8		10482		All
 January 11, 2027	00:1A:79:FA:E7:5E		861		13718
 January 25, 2027	00:1A:79:AE:C3:38		3409		All
-July 03, 2027		00:1A:79:78:6C:19	#2	All		All
+July 03, 2027		00:1A:79:78:6C:19		All		All
 July 24, 2026		00:1A:79:A0:E4:8C		13975		All
 June 01, 2027		00:1A:79:85:51:29	#4	All		All
 June 17, 2027		00:1A:79:75:35:B1	#5	All		All
 June 17, 2028		00:1A:79:6A:71:E0		1563		All
-June 24, 2027		00:1A:79:B5:75:0D		All		All
+June 24, 2027		00:1A:79:B5:75:0D	#2	All		All
 June. 19, 2027		00:1A:79:34:61:32		All		All
 March 23, 2027		00:1A:79:32:4B:21		All		All
 May 31, 2027		00:1A:79:82:38:BF	#3	26171		All
@@ -152,16 +153,21 @@ M3U USER:PASS		http://<STALKER-PORTAL:PORT>/<USERNAME>/<PASSWORD>/<STREAM#>
 M3U PLUS (STRM)		http://<STALKER-PORTAL:PORT>/get.php?username=<USERNAME>&password=<PASSWORD>&type=m3u_plus&output=<TS/RTMP/M3U8>
 EPG XML			http://<STALKER-PORTAL:PORT>/xmltv.php?username=<USERNAME>&password=<PASSWORD>
 FFMPEG (STRM)		http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=create_link&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F151_&series=0&forced_storage=false&disable_ad=false&download=false&force_ch_link_check=false&JsHttpRequest=1-xml
-GET GENRE INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=get_genres&JsHttpRequest=1-xml"
+GET GENRE INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=get_genres&JsHttpRequest=1-xml
 GET MAIN USER INFO	http://<STALKER-PORTAL:PORT>/portal.php?type=account_info&action=get_main_info&mac=<MAC>
 GET ORDERED LIST	http://<STALKER-PORTAL:PORT>/portal.php?type=itv&action=get_ordered_list&genre=*&force_ch_link_check=&fav=0&sortby=number&hd=0&p=0
 GET PORTAL INFO		http://<STALKER-PORTAL:PORT>/portal.php?type=stb&action=get_profile
 HANDSHAKE (TOKEN)	http://<STALKER-PORTAL:PORT>/portal.php?type=stb&action=handshake
 PANEL API		http://<STALKER-PORTAL:PORT>/panel_api.php?username=<USERNAME>&password=<PASSWORD>
-STATUS,ACTIVE CONS	http://<STALKER-PORTAL:PORT>/player_api.php?username=<USERNAME>&password=<PASSWORD>	
+STATUS,ACTIVE CONNECT.	http://<STALKER-PORTAL:PORT>/player_api.php?username=<USERNAME>&password=<PASSWORD>	
 BROWSER			http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?mac=<MAC>
 BROWSER (DEBUG)		http://<STALKER-PORTAL:PORT>/stalker_portal/c/index.html?debug&debug_key=<DEBUG KEY>&mac=<MAC>
+PLAY TV CHANNEL (URL)	http://<STALKER-PORTAL:PORT>/play/live.php?mac=<MAC>&stream=<STREAM#>&extension=ts&play_token=<TOKEN>
+PLAY MOVIE (URL)	http://<STALKER-PORTAL:PORT>/play/movie.php?mac=<MAC>&stream=<STREAM#>&extension=ts&play_token=<TOKEN>
+PLAY TV (URL)		http://<STALKER-PORTAL:PORT>/play/live.php?mac=<MAC>&stream=<STREAM#>&extension=ts&play_token=<TOKEN>
+	PLAY SERIE/EPISODE (URL)	http://<STALKER-PORTAL:PORT>/play/   movie.php   ?mac=<MAC>&stream=<STREAM#>&extension=ts&play_token=<TOKEN>
 BROWSER (KEYS)		ENTER [OK], F1 [Red], F2 [Green], F3 [Yellow], F4 [Blue], ESC [Exit] 
+
 
 ==============================================================================
 
@@ -171,6 +177,7 @@ https://urlscan.io/search/#filename:%22keydown.keycodes.js%22
 ==============================================================================
 
 FREE PROXY LIST
+https://proxyscrape.com/free-proxy-list
 https://www.freeproxy.world/
 
 ==============================================================================
