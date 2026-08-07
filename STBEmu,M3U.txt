@@ -123,28 +123,38 @@ December 1, 2026	00:1A:79:08:EA:BB		All		33557
 December 15, 2026	00:1A:79:F5:81:88		3570		17073
 December 20, 2030	00:1A:79:B2:10:55		All		/
 December 26, 2026	00:1A:79:73:F7:73		All		43337
+December 8, 2026	00:1A:79:B1:00:02		5975 		87816
+December 9, 2026	00:1A:79:AD:7D:54		All		All
+February 10, 2027	00:1A:79:A3:3E:5B		16621		38226
 February 16, 2027	00:1A:79:7A:6A:84		All		/
 February 16, 2029	00:1A:79:7C:20:F8		10482		All
 January 11, 2027	00:1A:79:FA:E7:5E		861		13718
+January 14, 2027	00:1A:79:AB:91:0C		789		34635
+January 25, 2027	00:1A:79:AE:C3:38		3289		24278
 January 25, 2027	00:1A:79:AE:C3:38		3409		All
 July 03, 2027		00:1A:79:78:6C:19		All		All
-July 24, 2026		00:1A:79:A0:E4:8C		13975		All
 June 01, 2027		00:1A:79:85:51:29	#4	All		All
 June 17, 2027		00:1A:79:75:35:B1	#5	All		All
 June 17, 2028		00:1A:79:6A:71:E0		1563		All
 June 24, 2027		00:1A:79:B5:75:0D	#2	All		All
+June 9, 2027		00:1A:79:B1:00:06		56638		All
 June. 19, 2027		00:1A:79:34:61:32		All		All
 March 23, 2027		00:1A:79:32:4B:21		All		All
+May 29, 2027		00:1A:79:BC:D6:FD		48333		All
 May 31, 2027		00:1A:79:82:38:BF	#3	26171		All
 November 1, 2026	00:1A:79:AE:E0:B1		17341		/
 November 24, 2026	00:1A:79:73:FD:87		/		/
 November 9, 2026	00:1A:79:56:C3:08		8301		/
 October 13, 2026	00:1A:79:A9:DA:D9		/		All
+October 19, 2026	00:1A:79:A3:E1:52		33304		10879
 October 31, 2026	00:1A:79:32:9A:B6		All		47146
 September 02, 2027	00:1A:79:75:BF:67	#1	15042		/
 September 11, 2026	00:1A:79:B3:71:94		/		All
 September 18, 2027	00:1A:79:7F:0F:7D		/		All
 September 19, 2026	00:1A:79:22:99:9B		All		/
+September 26, 2026	00:1A:79:A8:0C:46		4403		23679
+September 5, 2026	00:1A:79:BC:33:25		8167		94817
+September 6, 2026	00:1A:79:AA:ED:5E		All		All
 
 
 
@@ -179,8 +189,9 @@ https://urlscan.io/search/#filename:%22keydown.keycodes.js%22
 
 ==============================================================================
 
-FREE PROXY LIST
-https://proxyscrape.com/free-proxy-list
-https://www.freeproxy.world/
+FREE PROXY LIST		https://proxyscrape.com/free-proxy-list
+ direct download	https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=protocolipport&format=text
+			https://proxiware.com/free-proxy-list
+PROXY SCANNER		https://proxyscrape.com/online-proxy-checker
 
 ==============================================================================
